@@ -18,83 +18,90 @@ jobs:
     permissions:
       contents: write
       actions: write
-
+    
     steps:
     - name: 📥 Checkout Repository
       uses: actions/checkout@v4
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         fetch-depth: 0
-
+    
     - name: 🐍 Set up Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v5
       with:
         python-version: '3.11'
         cache: 'pip'
-
+    
     - name: 📦 Install Dependencies
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
-
+    
     - name: 🕷️ Crawl OpenHarmony Packages
       run: |
         echo "🚀 Starting package crawling..."
         python crawler.py
         echo "✅ Package crawling completed"
-
+        
+        # Check if packages were crawled successfully
         if [ ! -f "packages.json" ]; then
           echo "❌ Error: packages.json not found"
           exit 1
         fi
-
+        
+        # Check if packages.json has content
         PACKAGE_COUNT=$(python -c "import json; data=json.load(open('packages.json')); print(len(data['packages']))")
         echo "📊 Found $PACKAGE_COUNT packages"
-
+        
         if [ "$PACKAGE_COUNT" -lt 1000 ]; then
           echo "⚠️  Warning: Package count seems low ($PACKAGE_COUNT), continuing anyway..."
         fi
-
+    
     - name: 🔍 Analyze and Categorize Packages
       run: |
         echo "🧠 Starting package analysis and categorization..."
         python analyzer.py
         echo "✅ Package analysis completed"
-
+        
+        # Verify README was generated
         if [ ! -f "README.md" ]; then
           echo "❌ Error: README.md not generated"
           exit 1
         fi
-
+        
         echo "📄 README.md generated successfully"
-
+    
     - name: 📊 Generate Update Summary
       id: summary
       run: |
         # Get package statistics
         TOTAL_PACKAGES=$(python -c "import json; data=json.load(open('packages.json')); print(len(data['packages']))")
         CRAWL_TIME=$(python -c "import json; data=json.load(open('packages.json')); print(data['crawled_at'])")
+        
+        # Get most recent package
         RECENT_PACKAGE=$(python -c "import json; data=json.load(open('packages.json')); packages=sorted(data['packages'], key=lambda p: p.get('latestPublishTime', 0), reverse=True); print(packages[0]['name'] + ' v' + packages[0].get('latestVersion', 'N/A')) if packages else print('N/A')")
-
+        
+        # Create summary
         echo "TOTAL_PACKAGES=$TOTAL_PACKAGES" >> $GITHUB_OUTPUT
         echo "CRAWL_TIME=$CRAWL_TIME" >> $GITHUB_OUTPUT
         echo "RECENT_PACKAGE=$RECENT_PACKAGE" >> $GITHUB_OUTPUT
-
-        # Create commit message (多行内容要 heredoc)
-        cat <<EOF >> $GITHUB_OUTPUT
-COMMIT_MESSAGE<<EOM
-🤖 Auto-update: $TOTAL_PACKAGES packages crawled on $(date +'%Y-%m-%d')
-📊 Statistics:
-• Total packages: $TOTAL_PACKAGES
-• Categories: 22+
-• Most recent: $RECENT_PACKAGE
-• Crawled at: $CRAWL_TIME
-
-🔄 Generated with Claude Code
-Co-Authored-By: Claude <noreply@anthropic.com>
-EOM
-EOF
-
+        
+        # Create commit message (using proper multiline format)
+        {
+          echo "COMMIT_MESSAGE<<EOF"
+          echo "🤖 Auto-update: $TOTAL_PACKAGES packages crawled on $(date +'%Y-%m-%d')"
+          echo ""
+          echo "📊 Statistics:"
+          echo "• Total packages: $TOTAL_PACKAGES"
+          echo "• Categories: 22+"
+          echo "• Most recent: $RECENT_PACKAGE"
+          echo "• Crawled at: $CRAWL_TIME"
+          echo ""
+          echo "🔄 Generated with Claude Code"
+          echo "Co-Authored-By: Claude <noreply@anthropic.com>"
+          echo "EOF"
+        } >> $GITHUB_OUTPUT
+    
     - name: 🔍 Check for Changes
       id: changes
       run: |
@@ -105,49 +112,78 @@ EOF
         else
           echo "📝 Changes detected"
           echo "has_changes=true" >> $GITHUB_OUTPUT
-
+          
+          # Show what changed
           echo "📋 Changed files:"
           git diff --staged --name-only
-
+          
+          # Show package count diff if packages.json changed
           if git diff --staged --name-only | grep -q "packages.json"; then
             echo "📊 Package data updated"
           fi
-
+          
           if git diff --staged --name-only | grep -q "README.md"; then
             echo "📄 README updated"
           fi
         fi
-
+    
     - name: 💾 Commit and Push Changes
       if: steps.changes.outputs.has_changes == 'true'
       run: |
+        # Configure git
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-
-        # 注意多行 commit message 写法
-        git commit -F- <<EOM
-${{ steps.summary.outputs.COMMIT_MESSAGE }}
-EOM
+        
+        # Commit changes
+        git commit -m "${{ steps.summary.outputs.COMMIT_MESSAGE }}"
+        
+        # Push changes
         git push
+        
         echo "✅ Changes committed and pushed successfully"
-
+    
     - name: 📊 Create Update Summary Comment
       if: steps.changes.outputs.has_changes == 'true'
       uses: actions/github-script@v7
       with:
         script: |
-          const summary = `
-          ## 🚀 OpenHarmony Packages Updated!
-
+          const { TOTAL_PACKAGES, RECENT_PACKAGE } = process.env;
+          
+          const summary = `## 🚀 OpenHarmony Packages Updated!
+          
           ### 📊 Summary
-          - **Total Packages**: ${process.env.TOTAL_PACKAGES}
+          - **Total Packages**: ${TOTAL_PACKAGES}
           - **Categories**: 22+
-          - **Most Recent**: ${process.env.RECENT_PACKAGE}
+          - **Most Recent**: ${RECENT_PACKAGE}
           - **Status**: ✅ Successfully updated
-
+          
           ### 🔄 Next Update
           Scheduled for tomorrow at 00:00 UTC (8:00 AM Beijing time)
-
+          
           ---
-          *This update was automatically generated by Git_PACKAGES: ${{ steps.summary.outputs.TOTAL_PACKAGES }}
+          *This update was automatically generated by GitHub Actions*`;
+          
+          // This would create an issue comment if there were issues to comment on
+          console.log('Update Summary:', summary);
+        env:
+          TOTAL_PACKAGES: ${{ steps.summary.outputs.TOTAL_PACKAGES }}
           RECENT_PACKAGE: ${{ steps.summary.outputs.RECENT_PACKAGE }}
+    
+    - name: 🎯 Cleanup
+      if: always()
+      run: |
+        echo "🧹 Cleaning up temporary files..."
+        # Keep the generated files, but clean up any temp files if needed
+        find . -name "*.tmp" -delete 2>/dev/null || true
+        find . -name "__pycache__" -type d -exec rm -rf {} + 2>/dev/null || true
+        echo "✅ Cleanup completed"
+    
+    - name: 📈 Upload Artifacts
+      if: always()
+      uses: actions/upload-artifact@v4
+      with:
+        name: package-data-${{ github.run_number }}
+        path: |
+          packages.json
+          README.md
+        retention-days: 30
