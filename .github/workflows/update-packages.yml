@@ -165,8 +165,8 @@ jobs:
           
           // This would create an issue comment if there were issues to comment on
           console.log('Update Summary:', summary);
-        env:
-          TOTAL_PACKAGES: ${{ steps.summary.outputs.TOTAL_PACKAGES }}
+      env:
+         TOTAL_PACKAGES: ${{ steps.summary.outputs.TOTAL_PACKAGES }}
           RECENT_PACKAGE: ${{ steps.summary.outputs.RECENT_PACKAGE }}
     
     - name: 🎯 Cleanup
