@@ -1,5 +1,5 @@
 {
-  "crawled_at": "2025-07-13T00:01:18.147644",
+  "crawled_at": "2025-07-13T01:01:46.801593",
   "total_packages": 1808,
   "packages": [
     {
@@ -16,7 +16,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 4,
       "points": 50,
-      "popularity": 25535
+      "popularity": 25536
     },
     {
       "name": "@yunkss/eftool",
@@ -48,7 +48,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 39,
       "points": 25,
-      "popularity": 13571
+      "popularity": 13577
     },
     {
       "name": "@cashier_alipay/cashiersdk",
@@ -64,7 +64,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 30,
       "points": 25,
-      "popularity": 8634
+      "popularity": 8639
     },
     {
       "name": "@ohos/axios",
@@ -80,7 +80,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 283,
       "points": 25,
-      "popularity": 7599
+      "popularity": 7601
     },
     {
       "name": "@ohos/imageknife",
@@ -96,7 +96,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 94,
       "points": 25,
-      "popularity": 7546
+      "popularity": 7550
     },
     {
       "name": "@tencent/mmkv",
@@ -112,7 +112,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 43,
       "points": 40,
-      "popularity": 6195
+      "popularity": 6199
     },
     {
       "name": "@ohos/crypto-js",
@@ -128,7 +128,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 26,
       "points": 25,
-      "popularity": 6178
+      "popularity": 6184
     },
     {
       "name": "@ohos/hamock",
@@ -144,7 +144,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 3,
       "points": 25,
-      "popularity": 5821
+      "popularity": 5822
     },
     {
       "name": "@tencent/wechat_open_sdk",
@@ -160,7 +160,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 56,
       "points": 25,
-      "popularity": 5803
+      "popularity": 5807
     },
     {
       "name": "bignumber.js",
@@ -176,7 +176,7 @@
       "authorPicUrl": "",
       "likes": 2,
       "points": 0,
-      "popularity": 5533
+      "popularity": 5534
     },
     {
       "name": "@ohos/pulltorefresh",
@@ -192,7 +192,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 49,
       "points": 25,
-      "popularity": 4942
+      "popularity": 4946
     },
     {
       "name": "@ohos/aki",
@@ -208,7 +208,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 12,
       "points": 30,
-      "popularity": 4657
+      "popularity": 4660
     },
     {
       "name": "@amap/amap_lbs_map3d",
@@ -256,7 +256,7 @@
       "authorPicUrl": "",
       "likes": 3,
       "points": 0,
-      "popularity": 3625
+      "popularity": 3628
     },
     {
       "name": "@ohos/protobufjs",
@@ -320,7 +320,7 @@
       "authorPicUrl": "",
       "likes": 2,
       "points": 0,
-      "popularity": 2846
+      "popularity": 2847
     },
     {
       "name": "rxjs",
@@ -336,7 +336,7 @@
       "authorPicUrl": "",
       "likes": 3,
       "points": 0,
-      "popularity": 2698
+      "popularity": 2699
     },
     {
       "name": "dayjs",
@@ -352,7 +352,7 @@
       "authorPicUrl": "",
       "likes": 8,
       "points": 0,
-      "popularity": 2598
+      "popularity": 2603
     },
     {
       "name": "@yunkss/ef_rcp",
@@ -464,7 +464,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 2,
       "points": 25,
-      "popularity": 2236
+      "popularity": 2239
     },
     {
       "name": "@hw-agconnect/hmcore",
@@ -480,7 +480,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 0,
       "points": 25,
-      "popularity": 2189
+      "popularity": 2193
     },
     {
       "name": "@ohos/mpchart",
@@ -496,7 +496,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 36,
       "points": 25,
-      "popularity": 2185
+      "popularity": 2186
     },
     {
       "name": "@pura/harmony-dialog",
@@ -544,7 +544,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/1751727204003_2612.png",
       "likes": 67,
       "points": 50,
-      "popularity": 2078
+      "popularity": 2079
     },
     {
       "name": "@ohos/httpclient",
@@ -563,6 +563,22 @@
       "popularity": 2078
     },
     {
+      "name": "@hw-agconnect/ohos-apms",
+      "description": "APMS Harmony SDK. collect crash, anr and performance info",
+      "org": "hw-agconnect",
+      "packageType": "OHPM",
+      "latestVersion": "1.0.0",
+      "latestPublishTime": 1704858472444,
+      "license": "ISC",
+      "authorName": "l00837655",
+      "publisherId": "659365e170e2c70d30e6dfff",
+      "publisherName": "l00837655",
+      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
+      "likes": 0,
+      "points": 25,
+      "popularity": 2059
+    },
+    {
       "name": "@abner/refresh",
       "description": "HarmonyOSRefresh是一款简单，高效的上拉下拉刷新组件，支持列表、网格、瀑布流、支持各种任意组件刷新，支持侧滑删除、条目吸顶，下滑二楼等功能",
       "org": "abner",
@@ -577,22 +593,6 @@
       "likes": 126,
       "points": 50,
       "popularity": 2058
-    },
-    {
-      "name": "@hw-agconnect/ohos-apms",
-      "description": "APMS Harmony SDK. collect crash, anr and performance info",
-      "org": "hw-agconnect",
-      "packageType": "OHPM",
-      "latestVersion": "1.0.0",
-      "latestPublishTime": 1704858472444,
-      "license": "ISC",
-      "authorName": "l00837655",
-      "publisherId": "659365e170e2c70d30e6dfff",
-      "publisherName": "l00837655",
-      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
-      "likes": 0,
-      "points": 25,
-      "popularity": 2055
     },
     {
       "name": "@ohos/mp4parser",
@@ -640,7 +640,7 @@
       "authorPicUrl": "",
       "likes": 1,
       "points": 0,
-      "popularity": 1991
+      "popularity": 1995
     },
     {
       "name": "@ohos/video-cache",
@@ -720,7 +720,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 2,
       "points": 25,
-      "popularity": 1744
+      "popularity": 1748
     },
     {
       "name": "@ohasasugar/hp-richtext",
@@ -768,7 +768,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 2,
       "points": 25,
-      "popularity": 1661
+      "popularity": 1664
     },
     {
       "name": "@mcui/mccharts",
@@ -784,7 +784,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 43,
       "points": 25,
-      "popularity": 1549
+      "popularity": 1550
     },
     {
       "name": "@candies/image_cropper",
@@ -800,7 +800,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/1701321396500_3618.jpeg",
       "likes": 8,
       "points": 50,
-      "popularity": 1511
+      "popularity": 1515
     },
     {
       "name": "@ibestservices/ibest-ui",
@@ -832,7 +832,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 1,
       "points": 0,
-      "popularity": 1463
+      "popularity": 1464
     },
     {
       "name": "base64-js",
@@ -864,7 +864,7 @@
       "authorPicUrl": "",
       "likes": 0,
       "points": 0,
-      "popularity": 1433
+      "popularity": 1434
     },
     {
       "name": "@magongshou/harmony-cordova",
@@ -960,7 +960,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 7,
       "points": 25,
-      "popularity": 1321
+      "popularity": 1322
     },
     {
       "name": "@pie/log4a",
@@ -1072,7 +1072,7 @@
       "authorPicUrl": "",
       "likes": 0,
       "points": 0,
-      "popularity": 1252
+      "popularity": 1256
     },
     {
       "name": "@bdmap/base",
@@ -1104,7 +1104,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/1701321396500_3618.jpeg",
       "likes": 4,
       "points": 30,
-      "popularity": 1225
+      "popularity": 1230
     },
     {
       "name": "@ohos-port/xlog",
@@ -1120,7 +1120,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 5,
       "points": 30,
-      "popularity": 1207
+      "popularity": 1211
     },
     {
       "name": "@bdmap/search",
@@ -1427,22 +1427,6 @@
       "popularity": 862
     },
     {
-      "name": "wtr",
-      "description": "下拉刷新、上拉加载，可自定义刷新加载风格(refresh)；加载弹框、消息提示；JSON转对应模型；",
-      "org": "",
-      "packageType": "OHPM",
-      "latestVersion": "1.4.0",
-      "latestPublishTime": 1749003843259,
-      "license": "Apache-2.0",
-      "authorName": "wfz",
-      "publisherId": "65b1e19af7389987c591bdd4",
-      "publisherName": "zhong",
-      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
-      "likes": 6,
-      "points": 25,
-      "popularity": 856
-    },
-    {
       "name": "@luvi/lv-markdown-in",
       "description": "lv-markdown-in是鸿蒙ArkTS原生Markdown解析插件，支持api9（1.x.x版本）、api10及以上（2.x.x版本），致力于更便捷的OpenHarmony设备的Markdown内容解析。",
       "org": "luvi",
@@ -1456,6 +1440,22 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/1727603422395_7085.jpeg",
       "likes": 20,
       "points": 30,
+      "popularity": 857
+    },
+    {
+      "name": "wtr",
+      "description": "下拉刷新、上拉加载，可自定义刷新加载风格(refresh)；加载弹框、消息提示；JSON转对应模型；",
+      "org": "",
+      "packageType": "OHPM",
+      "latestVersion": "1.4.0",
+      "latestPublishTime": 1749003843259,
+      "license": "Apache-2.0",
+      "authorName": "wfz",
+      "publisherId": "65b1e19af7389987c591bdd4",
+      "publisherName": "zhong",
+      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
+      "likes": 6,
+      "points": 25,
       "popularity": 856
     },
     {
@@ -1824,7 +1824,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 26,
       "points": 50,
-      "popularity": 688
+      "popularity": 689
     },
     {
       "name": "@sj/ffmpeg",
@@ -2387,22 +2387,6 @@
       "popularity": 513
     },
     {
-      "name": "sherpa_onnx",
-      "description": "On-device speech-to-text, text-to-speech, and speaker diarization using Next-gen Kaldi without Internet connection",
-      "org": "",
-      "packageType": "OHPM",
-      "latestVersion": "1.12.5",
-      "latestPublishTime": 1752135027218,
-      "license": "Apache-2.0",
-      "authorName": "The next-gen Kaldi team",
-      "publisherId": "65d8935e4c8ccd5905209876",
-      "publisherName": "csukuangfj",
-      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
-      "likes": 3,
-      "points": 30,
-      "popularity": 507
-    },
-    {
       "name": "@pura/picker_utils",
       "description": "[harmony-utils]拆分出来的一个子库，包含PhotoHelper、PickerUtil、ScanUtil。 主要解决：当使用 harmony-utils 三方库且未使用picker能力时，隐私政策中无需声明相机权限与储存权限。",
       "org": "pura",
@@ -2416,6 +2400,22 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/1725977055400_2963.png",
       "likes": 0,
       "points": 50,
+      "popularity": 508
+    },
+    {
+      "name": "sherpa_onnx",
+      "description": "On-device speech-to-text, text-to-speech, and speaker diarization using Next-gen Kaldi without Internet connection",
+      "org": "",
+      "packageType": "OHPM",
+      "latestVersion": "1.12.5",
+      "latestPublishTime": 1752135027218,
+      "license": "Apache-2.0",
+      "authorName": "The next-gen Kaldi team",
+      "publisherId": "65d8935e4c8ccd5905209876",
+      "publisherName": "csukuangfj",
+      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
+      "likes": 3,
+      "points": 30,
       "popularity": 507
     },
     {
@@ -2832,7 +2832,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 5,
       "points": 30,
-      "popularity": 419
+      "popularity": 420
     },
     {
       "name": "@zhongrui/pull_to_refresh",
@@ -3491,22 +3491,6 @@
       "popularity": 324
     },
     {
-      "name": "@nimsdk/search",
-      "description": "NetEase Instant Messaging (IM) SDK is a software development kit used to develop instant messaging functionality, providing developers with solutions to integrate features such as instant messaging, group messaging, conversations, user management, and friend lists, etc.",
-      "org": "nimsdk",
-      "packageType": "OHPM",
-      "latestVersion": "10.9.20",
-      "latestPublishTime": 1751523534886,
-      "license": "MIT",
-      "authorName": "NetEase IM",
-      "publisherId": "66065d319d2c450534472416",
-      "publisherName": "yunxinpublic1",
-      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
-      "likes": 0,
-      "points": 30,
-      "popularity": 321
-    },
-    {
       "name": "@chawloo/immersion-bar",
       "description": "ImmersionBar,是一个修改系统状态栏和导航栏的工具，没有过多花里胡哨的API，简单高效",
       "org": "chawloo",
@@ -3520,6 +3504,22 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 3,
       "points": 50,
+      "popularity": 322
+    },
+    {
+      "name": "@nimsdk/search",
+      "description": "NetEase Instant Messaging (IM) SDK is a software development kit used to develop instant messaging functionality, providing developers with solutions to integrate features such as instant messaging, group messaging, conversations, user management, and friend lists, etc.",
+      "org": "nimsdk",
+      "packageType": "OHPM",
+      "latestVersion": "10.9.20",
+      "latestPublishTime": 1751523534886,
+      "license": "MIT",
+      "authorName": "NetEase IM",
+      "publisherId": "66065d319d2c450534472416",
+      "publisherName": "yunxinpublic1",
+      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
+      "likes": 0,
+      "points": 30,
       "popularity": 321
     },
     {
@@ -5312,7 +5312,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/1729567110434_7176.png",
       "likes": 0,
       "points": 25,
-      "popularity": 200
+      "popularity": 201
     },
     {
       "name": "@zhongrui/app_router",
@@ -5472,7 +5472,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 6,
       "points": 30,
-      "popularity": 189
+      "popularity": 190
     },
     {
       "name": "@ilye/web-bridge-adapter",
@@ -7011,6 +7011,22 @@
       "popularity": 140
     },
     {
+      "name": "decimal.js",
+      "description": "An arbitrary-precision Decimal type for JavaScript.",
+      "org": "",
+      "packageType": "WHITELIST",
+      "latestVersion": "10.5.0",
+      "latestPublishTime": 1747208799294,
+      "license": "MIT",
+      "authorName": "",
+      "publisherId": "",
+      "publisherName": "",
+      "authorPicUrl": "",
+      "likes": 0,
+      "points": 0,
+      "popularity": 139
+    },
+    {
       "name": "@ohos/roundedimageview",
       "description": "RoundedImageView支持许多附加功能，包括椭圆、圆角矩形、ScaleTypes 和 TileModes",
       "org": "ohos",
@@ -7025,22 +7041,6 @@
       "likes": 0,
       "points": 25,
       "popularity": 139
-    },
-    {
-      "name": "decimal.js",
-      "description": "An arbitrary-precision Decimal type for JavaScript.",
-      "org": "",
-      "packageType": "WHITELIST",
-      "latestVersion": "10.5.0",
-      "latestPublishTime": 1747208799294,
-      "license": "MIT",
-      "authorName": "",
-      "publisherId": "",
-      "publisherName": "",
-      "authorPicUrl": "",
-      "likes": 0,
-      "points": 0,
-      "popularity": 138
     },
     {
       "name": "@hong/harmonyxtoast",
