@@ -86,19 +86,21 @@ jobs:
         echo "CRAWL_TIME=$CRAWL_TIME" >> $GITHUB_OUTPUT
         echo "RECENT_PACKAGE=$RECENT_PACKAGE" >> $GITHUB_OUTPUT
         
-        # Create commit message using proper heredoc syntax
-        cat >> $GITHUB_OUTPUT << 'EOF'
-        COMMIT_MESSAGE=🤖 Auto-update: OpenHarmony packages crawled
-        
-        📊 Statistics:
-        • Total packages: $TOTAL_PACKAGES
-        • Categories: 22+
-        • Most recent: $RECENT_PACKAGE
-        • Crawled at: $CRAWL_TIME
-        
-        🔄 Generated with Claude Code
-        Co-Authored-By: Claude <noreply@anthropic.com>
-        EOF
+        # Create commit message using proper multiline format
+        {
+          echo "COMMIT_MESSAGE<<EOF"
+          echo "🤖 Auto-update: $TOTAL_PACKAGES packages crawled on $(date +'%Y-%m-%d')"
+          echo ""
+          echo "Statistics:"
+          echo "- Total packages: $TOTAL_PACKAGES"
+          echo "- Categories: 22+"
+          echo "- Most recent: $RECENT_PACKAGE"
+          echo "- Crawled at: $CRAWL_TIME"
+          echo ""
+          echo "Generated with Claude Code"
+          echo "Co-Authored-By: Claude <noreply@anthropic.com>"
+          echo "EOF"
+        } >> $GITHUB_OUTPUT
     
     - name: 🔍 Check for Changes
       id: changes
