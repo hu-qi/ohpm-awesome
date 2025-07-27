@@ -1,5 +1,5 @@
 {
-  "crawled_at": "2025-07-26T00:56:00.914378",
+  "crawled_at": "2025-07-27T01:03:08.949491",
   "total_packages": 1888,
   "packages": [
     {
@@ -16,7 +16,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 4,
       "points": 50,
-      "popularity": 28408
+      "popularity": 28525
     },
     {
       "name": "@yunkss/eftool",
@@ -48,7 +48,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 39,
       "points": 25,
-      "popularity": 14557
+      "popularity": 14579
     },
     {
       "name": "@cashier_alipay/cashiersdk",
@@ -64,7 +64,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 30,
       "points": 25,
-      "popularity": 9346
+      "popularity": 9359
     },
     {
       "name": "@ohos/imageknife",
@@ -80,7 +80,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 96,
       "points": 25,
-      "popularity": 8059
+      "popularity": 8068
     },
     {
       "name": "@ohos/axios",
@@ -96,7 +96,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 286,
       "points": 25,
-      "popularity": 7818
+      "popularity": 7823
     },
     {
       "name": "@ohos/crypto-js",
@@ -112,7 +112,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 26,
       "points": 25,
-      "popularity": 6745
+      "popularity": 6758
     },
     {
       "name": "@tencent/mmkv",
@@ -128,7 +128,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 43,
       "points": 40,
-      "popularity": 6586
+      "popularity": 6595
     },
     {
       "name": "@ohos/hamock",
@@ -144,7 +144,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 3,
       "points": 25,
-      "popularity": 6558
+      "popularity": 6581
     },
     {
       "name": "@tencent/wechat_open_sdk",
@@ -160,7 +160,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 57,
       "points": 25,
-      "popularity": 6228
+      "popularity": 6233
     },
     {
       "name": "bignumber.js",
@@ -176,7 +176,7 @@
       "authorPicUrl": "",
       "likes": 2,
       "points": 0,
-      "popularity": 6084
+      "popularity": 6101
     },
     {
       "name": "@ohos/pulltorefresh",
@@ -192,7 +192,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 49,
       "points": 25,
-      "popularity": 5394
+      "popularity": 5406
     },
     {
       "name": "@ohos/aki",
@@ -208,7 +208,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 12,
       "points": 30,
-      "popularity": 4757
+      "popularity": 4762
     },
     {
       "name": "@amap/amap_lbs_map3d",
@@ -224,7 +224,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/1724384639441_9091.png",
       "likes": 7,
       "points": 25,
-      "popularity": 4471
+      "popularity": 4480
     },
     {
       "name": "@pura/harmony-utils",
@@ -240,7 +240,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/1725977055400_2963.png",
       "likes": 560,
       "points": 50,
-      "popularity": 4206
+      "popularity": 4213
     },
     {
       "name": "reflect-metadata",
@@ -256,7 +256,7 @@
       "authorPicUrl": "",
       "likes": 3,
       "points": 0,
-      "popularity": 4012
+      "popularity": 4018
     },
     {
       "name": "@amap/amap_lbs_location",
@@ -272,7 +272,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/1724384639441_9091.png",
       "likes": 2,
       "points": 25,
-      "popularity": 3659
+      "popularity": 3666
     },
     {
       "name": "@amap/amap_lbs_common",
@@ -288,7 +288,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/1724384639441_9091.png",
       "likes": 0,
       "points": 25,
-      "popularity": 3642
+      "popularity": 3647
     },
     {
       "name": "@ohos/protobufjs",
@@ -304,7 +304,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 2,
       "points": 15,
-      "popularity": 3522
+      "popularity": 3523
     },
     {
       "name": "pako",
@@ -320,7 +320,7 @@
       "authorPicUrl": "",
       "likes": 2,
       "points": 0,
-      "popularity": 3171
+      "popularity": 3179
     },
     {
       "name": "rxjs",
@@ -336,7 +336,7 @@
       "authorPicUrl": "",
       "likes": 3,
       "points": 0,
-      "popularity": 2910
+      "popularity": 2915
     },
     {
       "name": "dayjs",
@@ -352,7 +352,7 @@
       "authorPicUrl": "",
       "likes": 8,
       "points": 0,
-      "popularity": 2776
+      "popularity": 2779
     },
     {
       "name": "json-bigint",
@@ -368,7 +368,7 @@
       "authorPicUrl": "",
       "likes": 2,
       "points": 0,
-      "popularity": 2757
+      "popularity": 2761
     },
     {
       "name": "validator",
@@ -384,7 +384,7 @@
       "authorPicUrl": "",
       "likes": 0,
       "points": 0,
-      "popularity": 2625
+      "popularity": 2633
     },
     {
       "name": "@yunkss/ef_rcp",
@@ -432,23 +432,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 2,
       "points": 25,
-      "popularity": 2443
-    },
-    {
-      "name": "@ohos/mqtt",
-      "description": "专门为OpenHarmony打造的一款应用程序,能够连接到MQTT代理以发布消息、订阅主题和接收发布的消息。",
-      "org": "ohos",
-      "packageType": "OHPM",
-      "latestVersion": "2.0.23",
-      "latestPublishTime": 1752728582106,
-      "license": "EPL-2.0",
-      "authorName": "ohos_sig",
-      "publisherId": "65235f8fc007c2e3c3b4977d",
-      "publisherName": "xiatian",
-      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
-      "likes": 24,
-      "points": 25,
-      "popularity": 2410
+      "popularity": 2444
     },
     {
       "name": "@hw-agconnect/hmcore",
@@ -464,7 +448,23 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 0,
       "points": 25,
-      "popularity": 2410
+      "popularity": 2413
+    },
+    {
+      "name": "@ohos/mqtt",
+      "description": "专门为OpenHarmony打造的一款应用程序,能够连接到MQTT代理以发布消息、订阅主题和接收发布的消息。",
+      "org": "ohos",
+      "packageType": "OHPM",
+      "latestVersion": "2.0.23",
+      "latestPublishTime": 1752728582106,
+      "license": "EPL-2.0",
+      "authorName": "ohos_sig",
+      "publisherId": "65235f8fc007c2e3c3b4977d",
+      "publisherName": "xiatian",
+      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
+      "likes": 24,
+      "points": 25,
+      "popularity": 2412
     },
     {
       "name": "@ohos/dataorm",
@@ -496,7 +496,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 0,
       "points": 25,
-      "popularity": 2291
+      "popularity": 2296
     },
     {
       "name": "class-transformer",
@@ -512,23 +512,7 @@
       "authorPicUrl": "",
       "likes": 2,
       "points": 0,
-      "popularity": 2196
-    },
-    {
-      "name": "@ohos/mp4parser",
-      "description": "一个读取、写入操作音视频文件编辑的工具。支持视频裁剪、视频合成、音频裁剪、音频合成、视频取帧。",
-      "org": "ohos",
-      "packageType": "OHPM",
-      "latestVersion": "2.0.6",
-      "latestPublishTime": 1747711063354,
-      "license": "Apache License 2.0",
-      "authorName": "ohos_tpc",
-      "publisherId": "65235f8fc007c2e3c3b4977d",
-      "publisherName": "xiatian",
-      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
-      "likes": 12,
-      "points": 25,
-      "popularity": 2178
+      "popularity": 2200
     },
     {
       "name": "@pura/harmony-dialog",
@@ -544,7 +528,23 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/1725977055400_2963.png",
       "likes": 298,
       "points": 50,
-      "popularity": 2176
+      "popularity": 2180
+    },
+    {
+      "name": "@ohos/mp4parser",
+      "description": "一个读取、写入操作音视频文件编辑的工具。支持视频裁剪、视频合成、音频裁剪、音频合成、视频取帧。",
+      "org": "ohos",
+      "packageType": "OHPM",
+      "latestVersion": "2.0.6",
+      "latestPublishTime": 1747711063354,
+      "license": "Apache License 2.0",
+      "authorName": "ohos_tpc",
+      "publisherId": "65235f8fc007c2e3c3b4977d",
+      "publisherName": "xiatian",
+      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
+      "likes": 12,
+      "points": 25,
+      "popularity": 2179
     },
     {
       "name": "@ohos/httpclient",
@@ -560,7 +560,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 25,
       "points": 25,
-      "popularity": 2162
+      "popularity": 2163
     },
     {
       "name": "@hadss/hmrouter",
@@ -576,7 +576,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/1751727204003_2612.png",
       "likes": 68,
       "points": 50,
-      "popularity": 2141
+      "popularity": 2143
     },
     {
       "name": "@ohos/ijkplayer",
@@ -592,7 +592,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 18,
       "points": 15,
-      "popularity": 2112
+      "popularity": 2113
     },
     {
       "name": "@yunkss/ef_core",
@@ -624,7 +624,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 1,
       "points": 25,
-      "popularity": 2067
+      "popularity": 2072
     },
     {
       "name": "@ohos/video-cache",
@@ -640,7 +640,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 5,
       "points": 15,
-      "popularity": 2036
+      "popularity": 2042
     },
     {
       "name": "@ohos/mpchart",
@@ -656,7 +656,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 37,
       "points": 25,
-      "popularity": 2011
+      "popularity": 2014
     },
     {
       "name": "@growingio/analytics",
@@ -672,7 +672,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 0,
       "points": 25,
-      "popularity": 1969
+      "popularity": 1973
     },
     {
       "name": "@abner/refresh",
@@ -688,7 +688,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 126,
       "points": 50,
-      "popularity": 1931
+      "popularity": 1936
     },
     {
       "name": "@yunkss/ef_axios",
@@ -800,7 +800,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/1701321396500_3618.jpeg",
       "likes": 8,
       "points": 50,
-      "popularity": 1546
+      "popularity": 1547
     },
     {
       "name": "buffer",
@@ -848,7 +848,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 1,
       "points": 0,
-      "popularity": 1509
+      "popularity": 1511
     },
     {
       "name": "@types/lodash",
@@ -864,7 +864,7 @@
       "authorPicUrl": "",
       "likes": 0,
       "points": 0,
-      "popularity": 1480
+      "popularity": 1483
     },
     {
       "name": "@yunkss/ef_json",
@@ -912,7 +912,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 0,
       "points": 25,
-      "popularity": 1386
+      "popularity": 1389
     },
     {
       "name": "@rnoh/react-native-openharmony",
@@ -928,7 +928,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 4,
       "points": 25,
-      "popularity": 1383
+      "popularity": 1387
     },
     {
       "name": "bugly",
@@ -944,7 +944,23 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 7,
       "points": 25,
-      "popularity": 1365
+      "popularity": 1368
+    },
+    {
+      "name": "@ohos/xml_js",
+      "description": "Converter utility between XML text and Javascript object/JSON text。",
+      "org": "ohos",
+      "packageType": "OHPM",
+      "latestVersion": "1.0.3",
+      "latestPublishTime": 1747208917486,
+      "license": "MIT License",
+      "authorName": "ohos_tpc",
+      "publisherId": "65235f8fc007c2e3c3b4977d",
+      "publisherName": "xiatian",
+      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
+      "likes": 2,
+      "points": 25,
+      "popularity": 1358
     },
     {
       "name": "mime",
@@ -963,22 +979,6 @@
       "popularity": 1357
     },
     {
-      "name": "@ohos/xml_js",
-      "description": "Converter utility between XML text and Javascript object/JSON text。",
-      "org": "ohos",
-      "packageType": "OHPM",
-      "latestVersion": "1.0.3",
-      "latestPublishTime": 1747208917486,
-      "license": "MIT License",
-      "authorName": "ohos_tpc",
-      "publisherId": "65235f8fc007c2e3c3b4977d",
-      "publisherName": "xiatian",
-      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
-      "likes": 2,
-      "points": 25,
-      "popularity": 1357
-    },
-    {
       "name": "@candies/image_editor",
       "description": "Arkts plugin, Support crop, flip, rotate, mix image, add text. merge multi images.",
       "org": "candies",
@@ -992,7 +992,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/1701321396500_3618.jpeg",
       "likes": 5,
       "points": 30,
-      "popularity": 1318
+      "popularity": 1319
     },
     {
       "name": "@bdmap/map",
@@ -1008,7 +1008,23 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 1,
       "points": 25,
-      "popularity": 1311
+      "popularity": 1313
+    },
+    {
+      "name": "@ibestservices/ibest-ui",
+      "description": "一个轻量、简单易用、可定制主题、支持深色模式和浅色模式的鸿蒙开源UI组件库, 包含Button、Calendar、Form、Field、Picker、Popup、Toast、Dialog、ImageCropper等50+个优质组件。",
+      "org": "ibestservices",
+      "packageType": "OHPM",
+      "latestVersion": "2.1.3",
+      "latestPublishTime": 1753407186860,
+      "license": "Apache-2.0",
+      "authorName": "ibestservices",
+      "publisherId": "659dfcdb00b13205e6e90f37",
+      "publisherName": "派大兴12138",
+      "authorPicUrl": "https://file.atomgit.com/uploads/user/1735203291611_9362.jpeg",
+      "likes": 127,
+      "points": 50,
+      "popularity": 1295
     },
     {
       "name": "@ohos-port/xlog",
@@ -1025,22 +1041,6 @@
       "likes": 5,
       "points": 30,
       "popularity": 1292
-    },
-    {
-      "name": "@ibestservices/ibest-ui",
-      "description": "一个轻量、简单易用、可定制主题、支持深色模式和浅色模式的鸿蒙开源UI组件库, 包含Button、Calendar、Form、Field、Picker、Popup、Toast、Dialog、ImageCropper等50+个优质组件。",
-      "org": "ibestservices",
-      "packageType": "OHPM",
-      "latestVersion": "2.1.3",
-      "latestPublishTime": 1753407186860,
-      "license": "Apache-2.0",
-      "authorName": "ibestservices",
-      "publisherId": "659dfcdb00b13205e6e90f37",
-      "publisherName": "派大兴12138",
-      "authorPicUrl": "https://file.atomgit.com/uploads/user/1735203291611_9362.jpeg",
-      "likes": 127,
-      "points": 50,
-      "popularity": 1290
     },
     {
       "name": "cjcalendar",
@@ -1072,7 +1072,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 0,
       "points": 25,
-      "popularity": 1253
+      "popularity": 1254
     },
     {
       "name": "@pie/log4a",
@@ -1088,7 +1088,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 18,
       "points": 50,
-      "popularity": 1249
+      "popularity": 1250
     },
     {
       "name": "@pura/spinkit",
@@ -1104,7 +1104,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/1725977055400_2963.png",
       "likes": 225,
       "points": 50,
-      "popularity": 1172
+      "popularity": 1175
     },
     {
       "name": "@bdmap/search",
@@ -1120,7 +1120,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 2,
       "points": 25,
-      "popularity": 1156
+      "popularity": 1157
     },
     {
       "name": "rapid_kit_foundation",
@@ -1152,7 +1152,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 5,
       "points": 50,
-      "popularity": 1128
+      "popularity": 1129
     },
     {
       "name": "@ohos/pinyin4js",
@@ -1200,7 +1200,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 9,
       "points": 25,
-      "popularity": 1102
+      "popularity": 1103
     },
     {
       "name": "@aliyun/error",
@@ -1216,7 +1216,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 0,
       "points": 25,
-      "popularity": 1100
+      "popularity": 1102
     },
     {
       "name": "@aliyun/logger",
@@ -1232,7 +1232,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 0,
       "points": 25,
-      "popularity": 1098
+      "popularity": 1100
     },
     {
       "name": "@types/pako",
@@ -1248,7 +1248,7 @@
       "authorPicUrl": "",
       "likes": 0,
       "points": 0,
-      "popularity": 1065
+      "popularity": 1071
     },
     {
       "name": "@tencentcloud/cos",
@@ -1264,7 +1264,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 0,
       "points": 30,
-      "popularity": 1051
+      "popularity": 1053
     },
     {
       "name": "@aliyun/edid",
@@ -1280,7 +1280,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 0,
       "points": 25,
-      "popularity": 993
+      "popularity": 996
     },
     {
       "name": "@hzw/zrouter",
@@ -1312,7 +1312,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 0,
       "points": 25,
-      "popularity": 958
+      "popularity": 959
     },
     {
       "name": "@volcengine/apmplus",
@@ -1344,7 +1344,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 1,
       "points": 25,
-      "popularity": 922
+      "popularity": 925
     },
     {
       "name": "@js-joda/core",
@@ -1392,7 +1392,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 0,
       "points": 25,
-      "popularity": 904
+      "popularity": 906
     },
     {
       "name": "@abner/dialog",
@@ -1408,7 +1408,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 37,
       "points": 50,
-      "popularity": 896
+      "popularity": 898
     },
     {
       "name": "@tencent/qq-open-sdk",
@@ -1424,7 +1424,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 1,
       "points": 25,
-      "popularity": 875
+      "popularity": 876
     },
     {
       "name": "@umeng/common",
@@ -1440,7 +1440,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/1710409229459_5005.png",
       "likes": 0,
       "points": 30,
-      "popularity": 866
+      "popularity": 868
     },
     {
       "name": "@ohos/apng",
@@ -1456,7 +1456,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 1,
       "points": 25,
-      "popularity": 835
+      "popularity": 836
     },
     {
       "name": "@yunkss/ef_crypto",
@@ -1520,7 +1520,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 1,
       "points": 25,
-      "popularity": 794
+      "popularity": 796
     },
     {
       "name": "@ohos/zxing",
@@ -1536,7 +1536,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 17,
       "points": 25,
-      "popularity": 787
+      "popularity": 788
     },
     {
       "name": "@nimsdk/message",
@@ -1552,7 +1552,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 0,
       "points": 30,
-      "popularity": 783
+      "popularity": 784
     },
     {
       "name": "@luvi/lv-markdown-in",
@@ -1571,6 +1571,22 @@
       "popularity": 778
     },
     {
+      "name": "@umeng/analytics",
+      "description": "U-App是友盟+提供的移动统计分析产品，根据开发者实际分析诉求提供数据采集及统计分析服务。此模块为友盟统计分析对原生鸿蒙harmonyOS NEXT星河版的适配",
+      "org": "umeng",
+      "packageType": "OHPM",
+      "latestVersion": "1.2.4",
+      "latestPublishTime": 1734491921399,
+      "license": "Apache-2.0",
+      "authorName": "友盟",
+      "publisherId": "654b5202b70c5859a6e7ffdd",
+      "publisherName": "lttd",
+      "authorPicUrl": "https://file.atomgit.com/uploads/user/1710409229459_5005.png",
+      "likes": 1,
+      "points": 50,
+      "popularity": 777
+    },
+    {
       "name": "@peakmain/library",
       "description": "一款基于API 12封装的基本库，提升开发效率",
       "org": "peakmain",
@@ -1585,22 +1601,6 @@
       "likes": 17,
       "points": 50,
       "popularity": 776
-    },
-    {
-      "name": "@umeng/analytics",
-      "description": "U-App是友盟+提供的移动统计分析产品，根据开发者实际分析诉求提供数据采集及统计分析服务。此模块为友盟统计分析对原生鸿蒙harmonyOS NEXT星河版的适配",
-      "org": "umeng",
-      "packageType": "OHPM",
-      "latestVersion": "1.2.4",
-      "latestPublishTime": 1734491921399,
-      "license": "Apache-2.0",
-      "authorName": "友盟",
-      "publisherId": "654b5202b70c5859a6e7ffdd",
-      "publisherName": "lttd",
-      "authorPicUrl": "https://file.atomgit.com/uploads/user/1710409229459_5005.png",
-      "likes": 1,
-      "points": 50,
-      "popularity": 775
     },
     {
       "name": "@ohos/localeenus",
@@ -1632,7 +1632,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 1,
       "points": 25,
-      "popularity": 768
+      "popularity": 770
     },
     {
       "name": "@hadss/nodepool",
@@ -1651,6 +1651,22 @@
       "popularity": 764
     },
     {
+      "name": "@nimsdk/nim",
+      "description": "NetEase Instant Messaging (IM) SDK is a software development kit used to develop instant messaging functionality, providing developers with solutions to integrate features such as instant messaging, group messaging, conversations, user management, and friend lists, etc.",
+      "org": "nimsdk",
+      "packageType": "OHPM",
+      "latestVersion": "10.9.30",
+      "latestPublishTime": 1753063177897,
+      "license": "MIT",
+      "authorName": "NetEase IM",
+      "publisherId": "66065d319d2c450534472416",
+      "publisherName": "yunxinpublic1",
+      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
+      "likes": 1,
+      "points": 30,
+      "popularity": 759
+    },
+    {
       "name": "@js-joda/timezone",
       "description": "iana tzdb timezone bindings for js-joda",
       "org": "js-joda",
@@ -1667,22 +1683,6 @@
       "popularity": 759
     },
     {
-      "name": "@nimsdk/nim",
-      "description": "NetEase Instant Messaging (IM) SDK is a software development kit used to develop instant messaging functionality, providing developers with solutions to integrate features such as instant messaging, group messaging, conversations, user management, and friend lists, etc.",
-      "org": "nimsdk",
-      "packageType": "OHPM",
-      "latestVersion": "10.9.30",
-      "latestPublishTime": 1753063177897,
-      "license": "MIT",
-      "authorName": "NetEase IM",
-      "publisherId": "66065d319d2c450534472416",
-      "publisherName": "yunxinpublic1",
-      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
-      "likes": 1,
-      "points": 30,
-      "popularity": 758
-    },
-    {
       "name": "@abner/log",
       "description": "HarmonyOSLog是一个日志打印工具，支持hilog和console两种工具打印，支持各种类型包含JSON格式化打印，非常的方便！",
       "org": "abner",
@@ -1696,7 +1696,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 18,
       "points": 50,
-      "popularity": 725
+      "popularity": 726
     },
     {
       "name": "@ohos/multinavigation",
@@ -1760,7 +1760,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 2,
       "points": 15,
-      "popularity": 700
+      "popularity": 701
     },
     {
       "name": "@lidary/markdown",
@@ -1779,6 +1779,22 @@
       "popularity": 694
     },
     {
+      "name": "@dcloudio/uni-app-runtime",
+      "description": "uni-app",
+      "org": "dcloudio",
+      "packageType": "OHPM",
+      "latestVersion": "4.75.2025071101",
+      "latestPublishTime": 1752456410119,
+      "license": "Apache-2.0",
+      "authorName": "DCloud",
+      "publisherId": "66a9f255eaf9362c82dfcec4",
+      "publisherName": "qiang",
+      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
+      "likes": 2,
+      "points": 25,
+      "popularity": 684
+    },
+    {
       "name": "@nimsdk/friend",
       "description": "NetEase Instant Messaging (IM) SDK is a software development kit used to develop instant messaging functionality, providing developers with solutions to integrate features such as instant messaging, group messaging, conversations, user management, and friend lists, etc.",
       "org": "nimsdk",
@@ -1795,22 +1811,6 @@
       "popularity": 683
     },
     {
-      "name": "@dcloudio/uni-app-runtime",
-      "description": "uni-app",
-      "org": "dcloudio",
-      "packageType": "OHPM",
-      "latestVersion": "4.75.2025071101",
-      "latestPublishTime": 1752456410119,
-      "license": "Apache-2.0",
-      "authorName": "DCloud",
-      "publisherId": "66a9f255eaf9362c82dfcec4",
-      "publisherName": "qiang",
-      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
-      "likes": 2,
-      "points": 25,
-      "popularity": 683
-    },
-    {
       "name": "wtr",
       "description": "下拉刷新、上拉加载，可自定义刷新加载风格(refresh)；加载弹框、消息提示；JSON转对应模型；",
       "org": "",
@@ -1824,7 +1824,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 6,
       "points": 25,
-      "popularity": 675
+      "popularity": 676
     },
     {
       "name": "ohos_smart_dialog",
@@ -1936,7 +1936,23 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 4,
       "points": 50,
-      "popularity": 626
+      "popularity": 628
+    },
+    {
+      "name": "@lyb/loading-dialog",
+      "description": "loadingDialog 是一个简单易用的Loading组件，支持Loading，success，failure，info，warn, toast，progress等样式",
+      "org": "lyb",
+      "packageType": "OHPM",
+      "latestVersion": "2.1.7",
+      "latestPublishTime": 1743411728403,
+      "license": "MIT",
+      "authorName": "lyb5834",
+      "publisherId": "660bd237b5ec70ef91acf82f",
+      "publisherName": "lyb",
+      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
+      "likes": 26,
+      "points": 50,
+      "popularity": 625
     },
     {
       "name": "snappyjs",
@@ -1953,22 +1969,6 @@
       "likes": 0,
       "points": 0,
       "popularity": 624
-    },
-    {
-      "name": "@lyb/loading-dialog",
-      "description": "loadingDialog 是一个简单易用的Loading组件，支持Loading，success，failure，info，warn, toast，progress等样式",
-      "org": "lyb",
-      "packageType": "OHPM",
-      "latestVersion": "2.1.7",
-      "latestPublishTime": 1743411728403,
-      "license": "MIT",
-      "authorName": "lyb5834",
-      "publisherId": "660bd237b5ec70ef91acf82f",
-      "publisherName": "lyb",
-      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
-      "likes": 26,
-      "points": 50,
-      "popularity": 623
     },
     {
       "name": "@nimsdk/conversation",
@@ -2016,7 +2016,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 8,
       "points": 30,
-      "popularity": 605
+      "popularity": 608
     },
     {
       "name": "@visactor/harmony-vchart",
@@ -2032,7 +2032,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 26,
       "points": 25,
-      "popularity": 597
+      "popularity": 598
     },
     {
       "name": "inversify",
@@ -2048,7 +2048,7 @@
       "authorPicUrl": "",
       "likes": 2,
       "points": 0,
-      "popularity": 592
+      "popularity": 594
     },
     {
       "name": "@pura/picker_utils",
@@ -2064,7 +2064,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/1725977055400_2963.png",
       "likes": 1,
       "points": 50,
-      "popularity": 582
+      "popularity": 583
     },
     {
       "name": "@ohos/commons-compress",
@@ -2096,7 +2096,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/1719325469426_7318.png",
       "likes": 10,
       "points": 50,
-      "popularity": 574
+      "popularity": 575
     },
     {
       "name": "@ohos/high_light_guide",
@@ -2112,7 +2112,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 3,
       "points": 25,
-      "popularity": 567
+      "popularity": 568
     },
     {
       "name": "@ohos/liveeventbus",
@@ -2144,7 +2144,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 20,
       "points": 30,
-      "popularity": 563
+      "popularity": 564
     },
     {
       "name": "lunar",
@@ -2160,7 +2160,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 5,
       "points": 25,
-      "popularity": 562
+      "popularity": 564
     },
     {
       "name": "@zxhhyj/storm",
@@ -2224,7 +2224,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 3,
       "points": 25,
-      "popularity": 510
+      "popularity": 511
     },
     {
       "name": "@ohos/materialprogressbar",
@@ -2307,22 +2307,6 @@
       "popularity": 496
     },
     {
-      "name": "@aliyun/apm",
-      "description": "EMAS APM SDK",
-      "org": "aliyun",
-      "packageType": "OHPM",
-      "latestVersion": "2.0.4",
-      "latestPublishTime": 1744853606312,
-      "license": "MIT",
-      "authorName": "aliyun",
-      "publisherId": "677e35ab95da495eb0294093",
-      "publisherName": "jingyuan",
-      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
-      "likes": 1,
-      "points": 25,
-      "popularity": 484
-    },
-    {
       "name": "@ohmos/calendar",
       "description": "a mini calendar support harmony next.",
       "org": "ohmos",
@@ -2336,7 +2320,23 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 20,
       "points": 30,
-      "popularity": 483
+      "popularity": 486
+    },
+    {
+      "name": "@aliyun/apm",
+      "description": "EMAS APM SDK",
+      "org": "aliyun",
+      "packageType": "OHPM",
+      "latestVersion": "2.0.4",
+      "latestPublishTime": 1744853606312,
+      "license": "MIT",
+      "authorName": "aliyun",
+      "publisherId": "677e35ab95da495eb0294093",
+      "publisherName": "jingyuan",
+      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
+      "likes": 1,
+      "points": 25,
+      "popularity": 485
     },
     {
       "name": "@ohos/coap",
@@ -2387,22 +2387,6 @@
       "popularity": 470
     },
     {
-      "name": "@easy_refresh/easy_refresh",
-      "description": "HarmonyOsRefresh是基于ArkUI封装的上拉下拉刷新组件，支持List、Grid、WaterFlow,Scroll组件刷新",
-      "org": "easy_refresh",
-      "packageType": "OHPM",
-      "latestVersion": "1.1.9",
-      "latestPublishTime": 1742350875158,
-      "license": "Apache-2.0",
-      "authorName": "marlonxlj",
-      "publisherId": "663615caa70878342576948a",
-      "publisherName": "marlonxlj",
-      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
-      "likes": 15,
-      "points": 25,
-      "popularity": 469
-    },
-    {
       "name": "@hview/dayjs",
       "description": "2KB immutable date time library alternative to Moment.js with the same modern API。",
       "org": "hview",
@@ -2415,6 +2399,22 @@
       "publisherName": "steavengong",
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 4,
+      "points": 25,
+      "popularity": 470
+    },
+    {
+      "name": "@easy_refresh/easy_refresh",
+      "description": "HarmonyOsRefresh是基于ArkUI封装的上拉下拉刷新组件，支持List、Grid、WaterFlow,Scroll组件刷新",
+      "org": "easy_refresh",
+      "packageType": "OHPM",
+      "latestVersion": "1.1.9",
+      "latestPublishTime": 1742350875158,
+      "license": "Apache-2.0",
+      "authorName": "marlonxlj",
+      "publisherId": "663615caa70878342576948a",
+      "publisherName": "marlonxlj",
+      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
+      "likes": 15,
       "points": 25,
       "popularity": 469
     },
@@ -2480,7 +2480,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/1751727204003_2612.png",
       "likes": 9,
       "points": 50,
-      "popularity": 459
+      "popularity": 460
     },
     {
       "name": "@aliyun/apm_perf",
@@ -2496,7 +2496,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 0,
       "points": 25,
-      "popularity": 456
+      "popularity": 457
     },
     {
       "name": "@hzw/ohos-dsbridge",
@@ -2547,6 +2547,22 @@
       "popularity": 450
     },
     {
+      "name": "@aliyun/apm_crash",
+      "description": "EMAS APM_CRASH SDK",
+      "org": "aliyun",
+      "packageType": "OHPM",
+      "latestVersion": "2.0.2",
+      "latestPublishTime": 1744702354613,
+      "license": "MIT",
+      "authorName": "aliyun",
+      "publisherId": "677e35ab95da495eb0294093",
+      "publisherName": "jingyuan",
+      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
+      "likes": 0,
+      "points": 25,
+      "popularity": 450
+    },
+    {
       "name": "text-encoding",
       "description": "Polyfill for the Encoding Living Standard's API.",
       "org": "",
@@ -2561,22 +2577,6 @@
       "likes": 0,
       "points": 0,
       "popularity": 450
-    },
-    {
-      "name": "@aliyun/apm_crash",
-      "description": "EMAS APM_CRASH SDK",
-      "org": "aliyun",
-      "packageType": "OHPM",
-      "latestVersion": "2.0.2",
-      "latestPublishTime": 1744702354613,
-      "license": "MIT",
-      "authorName": "aliyun",
-      "publisherId": "677e35ab95da495eb0294093",
-      "publisherName": "jingyuan",
-      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
-      "likes": 0,
-      "points": 25,
-      "popularity": 449
     },
     {
       "name": "@nimsdk/signalling",
@@ -2608,7 +2608,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 1,
       "points": 25,
-      "popularity": 440
+      "popularity": 441
     },
     {
       "name": "@coner/scanner",
@@ -2640,7 +2640,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 6,
       "points": 30,
-      "popularity": 434
+      "popularity": 435
     },
     {
       "name": "@netteam/prefetcher",
@@ -2672,7 +2672,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/1710409229459_5005.png",
       "likes": 0,
       "points": 30,
-      "popularity": 422
+      "popularity": 423
     },
     {
       "name": "@liushengyi/smartdb",
@@ -2688,7 +2688,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 26,
       "points": 50,
-      "popularity": 422
+      "popularity": 423
     },
     {
       "name": "minimist",
@@ -2720,7 +2720,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 7,
       "points": 25,
-      "popularity": 406
+      "popularity": 407
     },
     {
       "name": "@ohos/jszip",
@@ -2737,6 +2737,22 @@
       "likes": 0,
       "points": 25,
       "popularity": 403
+    },
+    {
+      "name": "commonmark",
+      "description": "FlavorMark is a Markdown parser, made in TypeScript, with emphasis placed on modularizing element parsing logic, making it easy(-ish) to add/remove syntax for your favorite Markdown flavors.",
+      "org": "",
+      "packageType": "WHITELIST",
+      "latestVersion": "1.0.0",
+      "latestPublishTime": 1750059403764,
+      "license": "MIT",
+      "authorName": "AsyncAwaitCoffee",
+      "publisherId": "684bd80eca510ea151e2433d",
+      "publisherName": "AsyncAwaitCoffee",
+      "authorPicUrl": "https://file.atomgit.com/uploads/user/1750063406668_2321.png",
+      "likes": 0,
+      "points": 25,
+      "popularity": 402
     },
     {
       "name": "sherpa_onnx",
@@ -2768,22 +2784,6 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/1723256036845_1908.jpeg",
       "likes": 3,
       "points": 50,
-      "popularity": 401
-    },
-    {
-      "name": "commonmark",
-      "description": "FlavorMark is a Markdown parser, made in TypeScript, with emphasis placed on modularizing element parsing logic, making it easy(-ish) to add/remove syntax for your favorite Markdown flavors.",
-      "org": "",
-      "packageType": "WHITELIST",
-      "latestVersion": "1.0.0",
-      "latestPublishTime": 1750059403764,
-      "license": "MIT",
-      "authorName": "AsyncAwaitCoffee",
-      "publisherId": "684bd80eca510ea151e2433d",
-      "publisherName": "AsyncAwaitCoffee",
-      "authorPicUrl": "https://file.atomgit.com/uploads/user/1750063406668_2321.png",
-      "likes": 0,
-      "points": 25,
       "popularity": 401
     },
     {
@@ -2848,7 +2848,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 0,
       "points": 25,
-      "popularity": 395
+      "popularity": 396
     },
     {
       "name": "compare-versions",
@@ -2899,6 +2899,22 @@
       "popularity": 389
     },
     {
+      "name": "@amap/amap_lbs_navi",
+      "description": "高德开放平台导航SDK",
+      "org": "amap",
+      "packageType": "OHPM",
+      "latestVersion": "2.2.1",
+      "latestPublishTime": 1752573405032,
+      "license": "Apache-2.0",
+      "authorName": "amap",
+      "publisherId": "659e313d0c3b87130db6a0c8",
+      "publisherName": "高德开放平台",
+      "authorPicUrl": "https://file.atomgit.com/uploads/user/1724384639441_9091.png",
+      "likes": 3,
+      "points": 25,
+      "popularity": 384
+    },
+    {
       "name": "@ohos/htmlparser2",
       "description": "The fast & forgiving HTML and XML parser",
       "org": "ohos",
@@ -2913,22 +2929,6 @@
       "likes": 7,
       "points": 25,
       "popularity": 384
-    },
-    {
-      "name": "@amap/amap_lbs_navi",
-      "description": "高德开放平台导航SDK",
-      "org": "amap",
-      "packageType": "OHPM",
-      "latestVersion": "2.2.1",
-      "latestPublishTime": 1752573405032,
-      "license": "Apache-2.0",
-      "authorName": "amap",
-      "publisherId": "659e313d0c3b87130db6a0c8",
-      "publisherName": "高德开放平台",
-      "authorPicUrl": "https://file.atomgit.com/uploads/user/1724384639441_9091.png",
-      "likes": 3,
-      "points": 25,
-      "popularity": 383
     },
     {
       "name": "mdurl",
@@ -3027,6 +3027,22 @@
       "popularity": 364
     },
     {
+      "name": "@hw-agconnect/auth",
+      "description": "AppGalleryConnectSDK auth for HarmonyOS Next.",
+      "org": "hw-agconnect",
+      "packageType": "OHPM",
+      "latestVersion": "1.0.5",
+      "latestPublishTime": 1751972343647,
+      "license": "ISC",
+      "authorName": "huawei",
+      "publisherId": "66b0b6e1044cee0ee3efa00a",
+      "publisherName": "huajun320124",
+      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
+      "likes": 1,
+      "points": 25,
+      "popularity": 357
+    },
+    {
       "name": "tyme4oh",
       "description": "Tyme是一个非常强大的日历工具库，可以看作 Lunar 的升级版，拥有更优的设计和扩展性，支持公历、农历、藏历、星座、干支、生肖、节气、法定假日等。",
       "org": "",
@@ -3041,22 +3057,6 @@
       "likes": 13,
       "points": 50,
       "popularity": 357
-    },
-    {
-      "name": "@hw-agconnect/auth",
-      "description": "AppGalleryConnectSDK auth for HarmonyOS Next.",
-      "org": "hw-agconnect",
-      "packageType": "OHPM",
-      "latestVersion": "1.0.5",
-      "latestPublishTime": 1751972343647,
-      "license": "ISC",
-      "authorName": "huawei",
-      "publisherId": "66b0b6e1044cee0ee3efa00a",
-      "publisherName": "huajun320124",
-      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
-      "likes": 1,
-      "points": 25,
-      "popularity": 356
     },
     {
       "name": "string.prototype.repeat",
@@ -3075,6 +3075,22 @@
       "popularity": 356
     },
     {
+      "name": "@nimsdk/ysf",
+      "description": "NetEase Instant Messaging (IM) SDK is a software development kit used to develop instant messaging functionality, providing developers with solutions to integrate features such as instant messaging, group messaging, conversations, user management, and friend lists, etc.",
+      "org": "nimsdk",
+      "packageType": "OHPM",
+      "latestVersion": "10.9.30",
+      "latestPublishTime": 1753064047877,
+      "license": "MIT",
+      "authorName": "NetEase IM",
+      "publisherId": "66065d319d2c450534472416",
+      "publisherName": "yunxinpublic1",
+      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
+      "likes": 0,
+      "points": 30,
+      "popularity": 354
+    },
+    {
       "name": "@zztsdk/sharesdk",
       "description": "ShareSDK是一种社会化分享组件，集成了一些常用的类库和接口，缩短开发者的开发时间，还有社会化统计分析管理后台",
       "org": "zztsdk",
@@ -3091,20 +3107,20 @@
       "popularity": 354
     },
     {
-      "name": "@nimsdk/ysf",
-      "description": "NetEase Instant Messaging (IM) SDK is a software development kit used to develop instant messaging functionality, providing developers with solutions to integrate features such as instant messaging, group messaging, conversations, user management, and friend lists, etc.",
-      "org": "nimsdk",
-      "packageType": "OHPM",
-      "latestVersion": "10.9.30",
-      "latestPublishTime": 1753064047877,
-      "license": "MIT",
-      "authorName": "NetEase IM",
-      "publisherId": "66065d319d2c450534472416",
-      "publisherName": "yunxinpublic1",
-      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
+      "name": "@zxing/text-encoding",
+      "description": "Polyfill for the Encoding Living Standard's API.",
+      "org": "zxing",
+      "packageType": "WHITELIST",
+      "latestVersion": "0.9.0",
+      "latestPublishTime": 1680772422290,
+      "license": "(Unlicense OR Apache-2.0)",
+      "authorName": "Joshua Bell <inexorabletash@gmail.com>",
+      "publisherId": "",
+      "publisherName": "",
+      "authorPicUrl": "",
       "likes": 0,
-      "points": 30,
-      "popularity": 353
+      "points": 0,
+      "popularity": 354
     },
     {
       "name": "fflate",
@@ -3123,20 +3139,20 @@
       "popularity": 353
     },
     {
-      "name": "@zxing/text-encoding",
-      "description": "Polyfill for the Encoding Living Standard's API.",
-      "org": "zxing",
-      "packageType": "WHITELIST",
-      "latestVersion": "0.9.0",
-      "latestPublishTime": 1680772422290,
-      "license": "(Unlicense OR Apache-2.0)",
-      "authorName": "Joshua Bell <inexorabletash@gmail.com>",
-      "publisherId": "",
-      "publisherName": "",
-      "authorPicUrl": "",
-      "likes": 0,
-      "points": 0,
-      "popularity": 353
+      "name": "ohpm_king_custom_navtion",
+      "description": "自定义导航栏，导航栏整，吐司，弹窗，对话框等，自定义弹窗",
+      "org": "",
+      "packageType": "OHPM",
+      "latestVersion": "1.2.2",
+      "latestPublishTime": 1737612054048,
+      "license": "Apache-2.0",
+      "authorName": "king",
+      "publisherId": "65a9d0aeb14ec7999cb9c173",
+      "publisherName": "king",
+      "authorPicUrl": "https://file.atomgit.com/uploads/user/1719392956030_5492.jpeg",
+      "likes": 3,
+      "points": 50,
+      "popularity": 351
     },
     {
       "name": "@hadss/debug-db",
@@ -3155,22 +3171,6 @@
       "popularity": 350
     },
     {
-      "name": "ohpm_king_custom_navtion",
-      "description": "自定义导航栏，导航栏整，吐司，弹窗，对话框等，自定义弹窗",
-      "org": "",
-      "packageType": "OHPM",
-      "latestVersion": "1.2.2",
-      "latestPublishTime": 1737612054048,
-      "license": "Apache-2.0",
-      "authorName": "king",
-      "publisherId": "65a9d0aeb14ec7999cb9c173",
-      "publisherName": "king",
-      "authorPicUrl": "https://file.atomgit.com/uploads/user/1719392956030_5492.jpeg",
-      "likes": 3,
-      "points": 50,
-      "popularity": 350
-    },
-    {
       "name": "@zhongrui/pull_to_refresh",
       "description": "PullToRefresh 实现垂直列表下拉刷新,上拉加载，横向列表左拉刷新，右拉加载",
       "org": "zhongrui",
@@ -3184,7 +3184,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 17,
       "points": 30,
-      "popularity": 345
+      "popularity": 346
     },
     {
       "name": "@tencentmap/base",
@@ -3200,7 +3200,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 0,
       "points": 25,
-      "popularity": 345
+      "popularity": 346
     },
     {
       "name": "@aliyun/httpdns",
@@ -3363,6 +3363,22 @@
       "popularity": 315
     },
     {
+      "name": "@shijing/taoyao",
+      "description": "桃夭是一个权限请求框架，封装了权限请求逻辑，采用链式调用的方式请求权限，极大的简化了权限请求的代码。",
+      "org": "shijing",
+      "packageType": "OHPM",
+      "latestVersion": "1.1.0",
+      "latestPublishTime": 1741830134169,
+      "license": "Apache-2.0",
+      "authorName": "裴云飞",
+      "publisherId": "663a455200a008ac919b4dd2",
+      "publisherName": "裴云飞",
+      "authorPicUrl": "https://file.atomgit.com/uploads/user/1716112113294_4410.jpeg",
+      "likes": 11,
+      "points": 30,
+      "popularity": 312
+    },
+    {
       "name": "@hadss/hmrouter-transitions",
       "description": "基于HMRouter的高阶转场动画库，包含一镜到底等",
       "org": "hadss",
@@ -3379,19 +3395,19 @@
       "popularity": 311
     },
     {
-      "name": "@shijing/taoyao",
-      "description": "桃夭是一个权限请求框架，封装了权限请求逻辑，采用链式调用的方式请求权限，极大的简化了权限请求的代码。",
-      "org": "shijing",
-      "packageType": "OHPM",
-      "latestVersion": "1.1.0",
-      "latestPublishTime": 1741830134169,
-      "license": "Apache-2.0",
-      "authorName": "裴云飞",
-      "publisherId": "663a455200a008ac919b4dd2",
-      "publisherName": "裴云飞",
-      "authorPicUrl": "https://file.atomgit.com/uploads/user/1716112113294_4410.jpeg",
-      "likes": 11,
-      "points": 30,
+      "name": "@types/mime",
+      "description": "TypeScript definitions for mime",
+      "org": "types",
+      "packageType": "WHITELIST",
+      "latestVersion": "3.0.3",
+      "latestPublishTime": 1699001570672,
+      "license": "MIT",
+      "authorName": "",
+      "publisherId": "",
+      "publisherName": "",
+      "authorPicUrl": "",
+      "likes": 0,
+      "points": 0,
       "popularity": 311
     },
     {
@@ -3408,22 +3424,6 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 4,
       "points": 25,
-      "popularity": 310
-    },
-    {
-      "name": "@types/mime",
-      "description": "TypeScript definitions for mime",
-      "org": "types",
-      "packageType": "WHITELIST",
-      "latestVersion": "3.0.3",
-      "latestPublishTime": 1699001570672,
-      "license": "MIT",
-      "authorName": "",
-      "publisherId": "",
-      "publisherName": "",
-      "authorPicUrl": "",
-      "likes": 0,
-      "points": 0,
       "popularity": 310
     },
     {
@@ -3504,7 +3504,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 1,
       "points": 30,
-      "popularity": 299
+      "popularity": 300
     },
     {
       "name": "@ohos/fileio-extra",
@@ -3699,22 +3699,6 @@
       "popularity": 279
     },
     {
-      "name": "@hzw/zdb",
-      "description": "数据库操作工具类",
-      "org": "hzw",
-      "packageType": "OHPM",
-      "latestVersion": "1.0.18",
-      "latestPublishTime": 1753259806199,
-      "license": "Apache-2.0",
-      "authorName": "HHBin",
-      "publisherId": "674b1adeebd578305c089af0",
-      "publisherName": "_HHBin",
-      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
-      "likes": 4,
-      "points": 50,
-      "popularity": 277
-    },
-    {
       "name": "@hw-agconnect/ui-calendar-picker",
       "description": "ui-calendar-picker是基于open harmony基础组件开发的日历选择器组件，包含单日期选择、多日期选择和时间段选择的功能。支持选择时间、设置禁选日期、设置最大时间段跨度、设置上下滑动、设置左右滑动、自定义日期展示效果等功能。",
       "org": "hw-agconnect",
@@ -3728,6 +3712,22 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 7,
       "points": 30,
+      "popularity": 278
+    },
+    {
+      "name": "@hzw/zdb",
+      "description": "数据库操作工具类",
+      "org": "hzw",
+      "packageType": "OHPM",
+      "latestVersion": "1.0.18",
+      "latestPublishTime": 1753259806199,
+      "license": "Apache-2.0",
+      "authorName": "HHBin",
+      "publisherId": "674b1adeebd578305c089af0",
+      "publisherName": "_HHBin",
+      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
+      "likes": 4,
+      "points": 50,
       "popularity": 277
     },
     {
@@ -4003,6 +4003,22 @@
       "popularity": 252
     },
     {
+      "name": "pinyin-pro",
+      "description": "准确率和性能最优异的汉字转拼音库。获取中文拼音、韵母、声母、声调、首字母，支持拼音匹配",
+      "org": "",
+      "packageType": "WHITELIST",
+      "latestVersion": "3.26.0",
+      "latestPublishTime": 1747193450040,
+      "license": "MIT",
+      "authorName": "zh-lx",
+      "publisherId": "",
+      "publisherName": "",
+      "authorPicUrl": "",
+      "likes": 0,
+      "points": 0,
+      "popularity": 252
+    },
+    {
       "name": "dom-serializer",
       "description": "render domhandler DOM nodes to a string",
       "org": "",
@@ -4017,22 +4033,6 @@
       "likes": 0,
       "points": 0,
       "popularity": 252
-    },
-    {
-      "name": "pinyin-pro",
-      "description": "准确率和性能最优异的汉字转拼音库。获取中文拼音、韵母、声母、声调、首字母，支持拼音匹配",
-      "org": "",
-      "packageType": "WHITELIST",
-      "latestVersion": "3.26.0",
-      "latestPublishTime": 1747193450040,
-      "license": "MIT",
-      "authorName": "zh-lx",
-      "publisherId": "",
-      "publisherName": "",
-      "authorPicUrl": "",
-      "likes": 0,
-      "points": 0,
-      "popularity": 251
     },
     {
       "name": "@hw-agconnect/credential-ohos",
@@ -4211,22 +4211,6 @@
       "popularity": 236
     },
     {
-      "name": "@polyvharmony/media-player-core-api",
-      "description": "polyv media-player-core-api",
-      "org": "polyvharmony",
-      "packageType": "OHPM",
-      "latestVersion": "2.6.0",
-      "latestPublishTime": 1751256037544,
-      "license": "MIT",
-      "authorName": "POLYV",
-      "publisherId": "6642c0ca55bf7fe3f700a1e3",
-      "publisherName": "PolyvHarmony",
-      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
-      "likes": 0,
-      "points": 25,
-      "popularity": 235
-    },
-    {
       "name": "rdbstore",
       "description": "字节跳动鸿蒙生态数据库组件，支撑字节系鸿蒙应用数据库相关能力。",
       "org": "",
@@ -4240,6 +4224,22 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/1742817873312_2130.jpeg",
       "likes": 10,
       "points": 50,
+      "popularity": 236
+    },
+    {
+      "name": "@polyvharmony/media-player-core-api",
+      "description": "polyv media-player-core-api",
+      "org": "polyvharmony",
+      "packageType": "OHPM",
+      "latestVersion": "2.6.0",
+      "latestPublishTime": 1751256037544,
+      "license": "MIT",
+      "authorName": "POLYV",
+      "publisherId": "6642c0ca55bf7fe3f700a1e3",
+      "publisherName": "PolyvHarmony",
+      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
+      "likes": 0,
+      "points": 25,
       "popularity": 235
     },
     {
@@ -4419,6 +4419,22 @@
       "popularity": 226
     },
     {
+      "name": "@ohos/imageknifepro",
+      "description": "专门为OpenHarmony打造的一款图像加载缓存库，致力于更高效、更轻便、更简单",
+      "org": "ohos",
+      "packageType": "OHPM",
+      "latestVersion": "1.0.3",
+      "latestPublishTime": 1750727095716,
+      "license": "Apache-2.0",
+      "authorName": "ohos_tpc",
+      "publisherId": "65235f8fc007c2e3c3b4977d",
+      "publisherName": "xiatian",
+      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
+      "likes": 0,
+      "points": 25,
+      "popularity": 225
+    },
+    {
       "name": "fast_xml_parser",
       "description": "Validate XML, Parse XML to JS Object, or Build XML from JS Object without C/C++ based libraries and no callback.\n\n",
       "org": "",
@@ -4449,22 +4465,6 @@
       "likes": 0,
       "points": 15,
       "popularity": 224
-    },
-    {
-      "name": "@ohos/imageknifepro",
-      "description": "专门为OpenHarmony打造的一款图像加载缓存库，致力于更高效、更轻便、更简单",
-      "org": "ohos",
-      "packageType": "OHPM",
-      "latestVersion": "1.0.3",
-      "latestPublishTime": 1750727095716,
-      "license": "Apache-2.0",
-      "authorName": "ohos_tpc",
-      "publisherId": "65235f8fc007c2e3c3b4977d",
-      "publisherName": "xiatian",
-      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
-      "likes": 0,
-      "points": 25,
-      "popularity": 223
     },
     {
       "name": "he",
@@ -4531,6 +4531,22 @@
       "popularity": 221
     },
     {
+      "name": "@gancao/hptdialog",
+      "description": "一款极简的弹框库，简化了其调用方式（在任何地方只需要调用`show()`方法即可），帮助开发者快速实现自定义的弹框效果，目前包含\n`HPTDialog` 和 `HPTBottomSheet` 以及 `HPTLoading`",
+      "org": "gancao",
+      "packageType": "OHPM",
+      "latestVersion": "1.0.7",
+      "latestPublishTime": 1739010132120,
+      "license": "Apache-2.0",
+      "authorName": "甘草医生-升药",
+      "publisherId": "665fb75f77fa8323c36b86a4",
+      "publisherName": "种豆得豆",
+      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
+      "likes": 11,
+      "points": 50,
+      "popularity": 221
+    },
+    {
       "name": "@ohos/photoview",
       "description": "Implementation of ImageView for ohos that supports zooming, by various touch gestures.",
       "org": "ohos",
@@ -4545,22 +4561,6 @@
       "likes": 2,
       "points": 25,
       "popularity": 221
-    },
-    {
-      "name": "@gancao/hptdialog",
-      "description": "一款极简的弹框库，简化了其调用方式（在任何地方只需要调用`show()`方法即可），帮助开发者快速实现自定义的弹框效果，目前包含\n`HPTDialog` 和 `HPTBottomSheet` 以及 `HPTLoading`",
-      "org": "gancao",
-      "packageType": "OHPM",
-      "latestVersion": "1.0.7",
-      "latestPublishTime": 1739010132120,
-      "license": "Apache-2.0",
-      "authorName": "甘草医生-升药",
-      "publisherId": "665fb75f77fa8323c36b86a4",
-      "publisherName": "种豆得豆",
-      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
-      "likes": 11,
-      "points": 50,
-      "popularity": 220
     },
     {
       "name": "eventemitter3",
@@ -4643,6 +4643,22 @@
       "popularity": 215
     },
     {
+      "name": "@ysf/sdk",
+      "description": "网易七鱼客服鸿蒙版sdk，包含了客服聊天逻辑管理，也提供了聊天界面，开发者可方便的将客服功能集成到自己的 App中",
+      "org": "ysf",
+      "packageType": "OHPM",
+      "latestVersion": "1.0.5",
+      "latestPublishTime": 1751357281251,
+      "license": "MIT",
+      "authorName": "wjj",
+      "publisherId": "67bee82e0f41dc1369132270",
+      "publisherName": "ysfexyz",
+      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
+      "likes": 1,
+      "points": 25,
+      "popularity": 213
+    },
+    {
       "name": "@ohos/fastble",
       "description": "FastBle是一个处理蓝牙BLE设备的库,可以对蓝牙BLE设备进行过滤,扫描,连接,读取,写入等",
       "org": "ohos",
@@ -4657,22 +4673,6 @@
       "likes": 10,
       "points": 25,
       "popularity": 213
-    },
-    {
-      "name": "@ysf/sdk",
-      "description": "网易七鱼客服鸿蒙版sdk，包含了客服聊天逻辑管理，也提供了聊天界面，开发者可方便的将客服功能集成到自己的 App中",
-      "org": "ysf",
-      "packageType": "OHPM",
-      "latestVersion": "1.0.5",
-      "latestPublishTime": 1751357281251,
-      "license": "MIT",
-      "authorName": "wjj",
-      "publisherId": "67bee82e0f41dc1369132270",
-      "publisherName": "ysfexyz",
-      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
-      "likes": 1,
-      "points": 25,
-      "popularity": 212
     },
     {
       "name": "@ohos/juniversalchardet",
@@ -4736,7 +4736,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 11,
       "points": 30,
-      "popularity": 203
+      "popularity": 204
     },
     {
       "name": "@itheima/wing-care",
@@ -4752,7 +4752,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 4,
       "points": 25,
-      "popularity": 203
+      "popularity": 204
     },
     {
       "name": "@nimsdk/notification",
@@ -4819,6 +4819,22 @@
       "popularity": 201
     },
     {
+      "name": "@ohos-rs/crc32",
+      "description": "Fastest `crc32` implement for HarmonyOS,powered by ohos-rs.",
+      "org": "ohos-rs",
+      "packageType": "OHPM",
+      "latestVersion": "0.0.4",
+      "latestPublishTime": 1724642250825,
+      "license": "MIT",
+      "authorName": "southorange0929",
+      "publisherId": "65279148d2cdb44d22d0194b",
+      "publisherName": "richerfu",
+      "authorPicUrl": "https://file.atomgit.com/uploads/user/1729567110434_7176.png",
+      "likes": 0,
+      "points": 25,
+      "popularity": 201
+    },
+    {
       "name": "@jjr/wvjb",
       "description": "HarmonyOS native and JS interaction, WebViewJavascriptBridge.",
       "org": "jjr",
@@ -4833,22 +4849,6 @@
       "likes": 5,
       "points": 30,
       "popularity": 200
-    },
-    {
-      "name": "@ohos-rs/crc32",
-      "description": "Fastest `crc32` implement for HarmonyOS,powered by ohos-rs.",
-      "org": "ohos-rs",
-      "packageType": "OHPM",
-      "latestVersion": "0.0.4",
-      "latestPublishTime": 1724642250825,
-      "license": "MIT",
-      "authorName": "southorange0929",
-      "publisherId": "65279148d2cdb44d22d0194b",
-      "publisherName": "richerfu",
-      "authorPicUrl": "https://file.atomgit.com/uploads/user/1729567110434_7176.png",
-      "likes": 0,
-      "points": 25,
-      "popularity": 199
     },
     {
       "name": "@nimsdk/setting",
@@ -4899,6 +4899,22 @@
       "popularity": 195
     },
     {
+      "name": "@sobot/chat_client",
+      "description": "智齿客服 鸿蒙版SDK 为企业提供了一整套完善的智能客服解决方案。智齿客服 SDK 既包含客服业务逻辑，也提供交互界面；企业只需简单两步，便可在 APP 中集成智齿客服，让 APP 拥有 7 * 24 小时客服服务能力。",
+      "org": "sobot",
+      "packageType": "OHPM",
+      "latestVersion": "1.1.1",
+      "latestPublishTime": 1753436176108,
+      "license": "MIT",
+      "authorName": "智齿科技",
+      "publisherId": "66ea3fb872db7b65dbe97060",
+      "publisherName": "Sobot",
+      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
+      "likes": 1,
+      "points": 25,
+      "popularity": 194
+    },
+    {
       "name": "@mui/remeda",
       "description": "The first \"data-first\" and \"data-last\" utility library designed especially for TypeScript.",
       "org": "mui",
@@ -4913,22 +4929,6 @@
       "likes": 0,
       "points": 30,
       "popularity": 194
-    },
-    {
-      "name": "@sobot/chat_client",
-      "description": "智齿客服 鸿蒙版SDK 为企业提供了一整套完善的智能客服解决方案。智齿客服 SDK 既包含客服业务逻辑，也提供交互界面；企业只需简单两步，便可在 APP 中集成智齿客服，让 APP 拥有 7 * 24 小时客服服务能力。",
-      "org": "sobot",
-      "packageType": "OHPM",
-      "latestVersion": "1.1.1",
-      "latestPublishTime": 1753436176108,
-      "license": "MIT",
-      "authorName": "智齿科技",
-      "publisherId": "66ea3fb872db7b65dbe97060",
-      "publisherName": "Sobot",
-      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
-      "likes": 1,
-      "points": 25,
-      "popularity": 193
     },
     {
       "name": "@jg/verify",
@@ -5059,6 +5059,22 @@
       "popularity": 189
     },
     {
+      "name": "@ibestservices/area-data",
+      "description": "中国省市区数据，适用于 arkui的 TextPicker 和 IBest-ui 的 IBestCascader 等组件。",
+      "org": "ibestservices",
+      "packageType": "OHPM",
+      "latestVersion": "0.0.4",
+      "latestPublishTime": 1733740523012,
+      "license": "Apache-2.0",
+      "authorName": "ibestservices",
+      "publisherId": "659dfcdb00b13205e6e90f37",
+      "publisherName": "派大兴12138",
+      "authorPicUrl": "https://file.atomgit.com/uploads/user/1735203291611_9362.jpeg",
+      "likes": 4,
+      "points": 45,
+      "popularity": 189
+    },
+    {
       "name": "@charles/amrnbconverter",
       "description": "This library enables the bidirectional conversion between AMR_NB and PCM audio formats, facilitating easier audio processing and manipulation.",
       "org": "charles",
@@ -5104,23 +5120,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 1,
       "points": 25,
-      "popularity": 186
-    },
-    {
-      "name": "@ibestservices/area-data",
-      "description": "中国省市区数据，适用于 arkui的 TextPicker 和 IBest-ui 的 IBestCascader 等组件。",
-      "org": "ibestservices",
-      "packageType": "OHPM",
-      "latestVersion": "0.0.4",
-      "latestPublishTime": 1733740523012,
-      "license": "Apache-2.0",
-      "authorName": "ibestservices",
-      "publisherId": "659dfcdb00b13205e6e90f37",
-      "publisherName": "派大兴12138",
-      "authorPicUrl": "https://file.atomgit.com/uploads/user/1735203291611_9362.jpeg",
-      "likes": 4,
-      "points": 45,
-      "popularity": 186
+      "popularity": 187
     },
     {
       "name": "@jemoc/gles",
@@ -5296,7 +5296,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 2,
       "points": 25,
-      "popularity": 178
+      "popularity": 179
     },
     {
       "name": "@mumu/crop_page",
@@ -5728,7 +5728,7 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 0,
       "points": 20,
-      "popularity": 161
+      "popularity": 162
     },
     {
       "name": "@ohos/textlayoutbuilder",
@@ -6195,6 +6195,22 @@
       "popularity": 148
     },
     {
+      "name": "@nodemedia/nodemediaclient",
+      "description": "A simple, high-performance, low-latency live streaming SDK.",
+      "org": "nodemedia",
+      "packageType": "OHPM",
+      "latestVersion": "1.0.8",
+      "latestPublishTime": 1752220285498,
+      "license": "Apache-2.0",
+      "authorName": "Chen Mingliang",
+      "publisherId": "670face3b0822fa316874101",
+      "publisherName": "illuspas",
+      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
+      "likes": 1,
+      "points": 50,
+      "popularity": 147
+    },
+    {
       "name": "@dove/p7zip",
       "description": "OpenHarmony/HarmonyOS 7-zip解压缩库(OpenHarmony/HarmonyOS 7-zip zip/unzip library)",
       "org": "dove",
@@ -6272,22 +6288,6 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 0,
       "points": 25,
-      "popularity": 146
-    },
-    {
-      "name": "@nodemedia/nodemediaclient",
-      "description": "A simple, high-performance, low-latency live streaming SDK.",
-      "org": "nodemedia",
-      "packageType": "OHPM",
-      "latestVersion": "1.0.8",
-      "latestPublishTime": 1752220285498,
-      "license": "Apache-2.0",
-      "authorName": "Chen Mingliang",
-      "publisherId": "670face3b0822fa316874101",
-      "publisherName": "illuspas",
-      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
-      "likes": 1,
-      "points": 50,
       "popularity": 146
     },
     {
@@ -6883,22 +6883,6 @@
       "popularity": 130
     },
     {
-      "name": "@moor/visitor_websdk",
-      "description": "七陌云客服平台，访客端H5web页面sdk.",
-      "org": "moor",
-      "packageType": "OHPM",
-      "latestVersion": "1.0.0-preview6",
-      "latestPublishTime": 1748914615719,
-      "license": "Apache-2.0",
-      "authorName": "appmoor",
-      "publisherId": "673da2c429a669943488cf6c",
-      "publisherName": "jaracle",
-      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
-      "likes": 1,
-      "points": 30,
-      "popularity": 129
-    },
-    {
       "name": "@farmerx/tencntcloud-cls-sdk-ohos",
       "description": "日志服务cls上传sdk",
       "org": "farmerx",
@@ -6912,6 +6896,22 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 1,
       "points": 25,
+      "popularity": 130
+    },
+    {
+      "name": "@moor/visitor_websdk",
+      "description": "七陌云客服平台，访客端H5web页面sdk.",
+      "org": "moor",
+      "packageType": "OHPM",
+      "latestVersion": "1.0.0-preview6",
+      "latestPublishTime": 1748914615719,
+      "license": "Apache-2.0",
+      "authorName": "appmoor",
+      "publisherId": "673da2c429a669943488cf6c",
+      "publisherName": "jaracle",
+      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
+      "likes": 1,
+      "points": 30,
       "popularity": 129
     },
     {
@@ -7379,6 +7379,22 @@
       "popularity": 115
     },
     {
+      "name": "@nutpi/china_area",
+      "description": "中国区域数据，省市县三级数据。",
+      "org": "nutpi",
+      "packageType": "OHPM",
+      "latestVersion": "1.0.2",
+      "latestPublishTime": 1750752804241,
+      "license": "Apache-2.0",
+      "authorName": "桃花镇童长老",
+      "publisherId": "663b99a5788eb334c83d9cd5",
+      "publisherName": "桃花镇童长老",
+      "authorPicUrl": "https://file.atomgit.com/uploads/user/1725977055400_2963.png",
+      "likes": 21,
+      "points": 50,
+      "popularity": 114
+    },
+    {
       "name": "@ohos/overscroll-decor",
       "description": "iOS-like over-scrolling effect applicable over almost all scrollable views",
       "org": "ohos",
@@ -7459,22 +7475,6 @@
       "popularity": 113
     },
     {
-      "name": "@nutpi/china_area",
-      "description": "中国区域数据，省市县三级数据。",
-      "org": "nutpi",
-      "packageType": "OHPM",
-      "latestVersion": "1.0.2",
-      "latestPublishTime": 1750752804241,
-      "license": "Apache-2.0",
-      "authorName": "桃花镇童长老",
-      "publisherId": "663b99a5788eb334c83d9cd5",
-      "publisherName": "桃花镇童长老",
-      "authorPicUrl": "https://file.atomgit.com/uploads/user/1725977055400_2963.png",
-      "likes": 21,
-      "points": 50,
-      "popularity": 113
-    },
-    {
       "name": "@jemoc/glview",
       "description": "组建结合egl和opengl es能力，可以在arkTs侧进行opengl渲染绘制",
       "org": "jemoc",
@@ -7505,6 +7505,22 @@
       "likes": 0,
       "points": 25,
       "popularity": 113
+    },
+    {
+      "name": "@sobot/chat_core",
+      "description": "chat_core是智齿聊天客户端核心业务库。",
+      "org": "sobot",
+      "packageType": "OHPM",
+      "latestVersion": "1.1.0",
+      "latestPublishTime": 1753435682288,
+      "license": "MIT",
+      "authorName": "智齿科技",
+      "publisherId": "66ea3fb872db7b65dbe97060",
+      "publisherName": "Sobot",
+      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
+      "likes": 0,
+      "points": 25,
+      "popularity": 112
     },
     {
       "name": "@ohos-cases/swipercomponent",
@@ -7603,22 +7619,6 @@
       "popularity": 111
     },
     {
-      "name": "@sobot/chat_core",
-      "description": "chat_core是智齿聊天客户端核心业务库。",
-      "org": "sobot",
-      "packageType": "OHPM",
-      "latestVersion": "1.1.0",
-      "latestPublishTime": 1753435682288,
-      "license": "MIT",
-      "authorName": "智齿科技",
-      "publisherId": "66ea3fb872db7b65dbe97060",
-      "publisherName": "Sobot",
-      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
-      "likes": 0,
-      "points": 25,
-      "popularity": 110
-    },
-    {
       "name": "@ohos-rs/node-addon-api",
       "description": "Node-addon-api for OpenHarmony/HarmonyNext",
       "org": "ohos-rs",
@@ -7681,6 +7681,22 @@
       "likes": 0,
       "points": 0,
       "popularity": 110
+    },
+    {
+      "name": "@ohos/lottie-turbo",
+      "description": "lottie-turbo是一个适用于OpenHarmony的动画库，它可以解析Adobe After Effects软件通过Bodymovin插件导出的json格式的动画，并在移动设备上进行本地渲染。",
+      "org": "ohos",
+      "packageType": "OHPM",
+      "latestVersion": "1.0.0",
+      "latestPublishTime": 1750752577802,
+      "license": "Apache-2.0",
+      "authorName": "ohos_tpc",
+      "publisherId": "65235f8fc007c2e3c3b4977d",
+      "publisherName": "xiatian",
+      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
+      "likes": 2,
+      "points": 25,
+      "popularity": 109
     },
     {
       "name": "@polyvharmony/httpdns-api",
@@ -7775,22 +7791,6 @@
       "publisherName": "zhoujb",
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 0,
-      "points": 25,
-      "popularity": 108
-    },
-    {
-      "name": "@ohos/lottie-turbo",
-      "description": "lottie-turbo是一个适用于OpenHarmony的动画库，它可以解析Adobe After Effects软件通过Bodymovin插件导出的json格式的动画，并在移动设备上进行本地渲染。",
-      "org": "ohos",
-      "packageType": "OHPM",
-      "latestVersion": "1.0.0",
-      "latestPublishTime": 1750752577802,
-      "license": "Apache-2.0",
-      "authorName": "ohos_tpc",
-      "publisherId": "65235f8fc007c2e3c3b4977d",
-      "publisherName": "xiatian",
-      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
-      "likes": 2,
       "points": 25,
       "popularity": 108
     },
@@ -7891,6 +7891,22 @@
       "popularity": 106
     },
     {
+      "name": "@hw-agconnect/ui-skeleton",
+      "description": "ui-skeleton是基于open harmony的基础组件和动画系统开发的骨架屏组件。包括头像、图片、文本和段落四种基础样式；支持自定义排列方式、边距、宽高圆角等能力。",
+      "org": "hw-agconnect",
+      "packageType": "OHPM",
+      "latestVersion": "1.0.0",
+      "latestPublishTime": 1740362819359,
+      "license": "ISC",
+      "authorName": "hms",
+      "publisherId": "66222e2adbef77a861bfaef5",
+      "publisherName": "beyond007",
+      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
+      "likes": 0,
+      "points": 25,
+      "popularity": 106
+    },
+    {
       "name": "common_title_bar",
       "description": "通用标题栏，沉浸式状态，正常状态左侧返回、居中标题、右侧更多，左中右均可自定义视图。",
       "org": "",
@@ -7936,22 +7952,6 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 1,
       "points": 30,
-      "popularity": 105
-    },
-    {
-      "name": "@hw-agconnect/ui-skeleton",
-      "description": "ui-skeleton是基于open harmony的基础组件和动画系统开发的骨架屏组件。包括头像、图片、文本和段落四种基础样式；支持自定义排列方式、边距、宽高圆角等能力。",
-      "org": "hw-agconnect",
-      "packageType": "OHPM",
-      "latestVersion": "1.0.0",
-      "latestPublishTime": 1740362819359,
-      "license": "ISC",
-      "authorName": "hms",
-      "publisherId": "66222e2adbef77a861bfaef5",
-      "publisherName": "beyond007",
-      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
-      "likes": 0,
-      "points": 25,
       "popularity": 105
     },
     {
@@ -8019,6 +8019,22 @@
       "popularity": 104
     },
     {
+      "name": "@open/date",
+      "description": "轻量级日期时间戳格式化模块，通过YmdHis随意组合转换，使其可以运行在 OpenHarmony，并沿用其现有用法和特性。",
+      "org": "open",
+      "packageType": "OHPM",
+      "latestVersion": "1.0.1",
+      "latestPublishTime": 1735089309253,
+      "license": "MIT",
+      "authorName": "wof",
+      "publisherId": "6694e0fa341a1d6d2e2d4c22",
+      "publisherName": "open",
+      "authorPicUrl": "https://file.atomgit.com/uploads/user/1735219598915_5391.png",
+      "likes": 5,
+      "points": 25,
+      "popularity": 104
+    },
+    {
       "name": "@ohos/vlayout",
       "description": "vlayout能够处理列表、网格和其他布局在同一个视图的复杂情况，使用者可以使用已设定好的容器布局组件，也可以在此基础上自定义容器布局组件。",
       "org": "ohos",
@@ -8080,22 +8096,6 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 0,
       "points": 30,
-      "popularity": 103
-    },
-    {
-      "name": "@open/date",
-      "description": "轻量级日期时间戳格式化模块，通过YmdHis随意组合转换，使其可以运行在 OpenHarmony，并沿用其现有用法和特性。",
-      "org": "open",
-      "packageType": "OHPM",
-      "latestVersion": "1.0.1",
-      "latestPublishTime": 1735089309253,
-      "license": "MIT",
-      "authorName": "wof",
-      "publisherId": "6694e0fa341a1d6d2e2d4c22",
-      "publisherName": "open",
-      "authorPicUrl": "https://file.atomgit.com/uploads/user/1735219598915_5391.png",
-      "likes": 5,
-      "points": 25,
       "popularity": 103
     },
     {
@@ -8291,6 +8291,22 @@
       "popularity": 99
     },
     {
+      "name": "@sobot/sobot_common",
+      "description": "sobot_common是针对HarmonyOS项目的工具库，用于快速开发鸿蒙应用。",
+      "org": "sobot",
+      "packageType": "OHPM",
+      "latestVersion": "1.0.6",
+      "latestPublishTime": 1753430265070,
+      "license": "MIT",
+      "authorName": "智齿科技",
+      "publisherId": "66ea3fb872db7b65dbe97060",
+      "publisherName": "Sobot",
+      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
+      "likes": 0,
+      "points": 25,
+      "popularity": 98
+    },
+    {
       "name": "@vhall/vhallyun-doc",
       "description": "Harmony VhallSDK的文档SDK",
       "org": "vhall",
@@ -8369,22 +8385,6 @@
       "likes": 1,
       "points": 30,
       "popularity": 98
-    },
-    {
-      "name": "@sobot/sobot_common",
-      "description": "sobot_common是针对HarmonyOS项目的工具库，用于快速开发鸿蒙应用。",
-      "org": "sobot",
-      "packageType": "OHPM",
-      "latestVersion": "1.0.6",
-      "latestPublishTime": 1753430265070,
-      "license": "MIT",
-      "authorName": "智齿科技",
-      "publisherId": "66ea3fb872db7b65dbe97060",
-      "publisherName": "Sobot",
-      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
-      "likes": 0,
-      "points": 25,
-      "popularity": 97
     },
     {
       "name": "@vicky/vhkit",
@@ -8979,6 +8979,22 @@
       "popularity": 88
     },
     {
+      "name": "@ohos/epublib",
+      "description": "Epublib is a library for reading/writing/manipulating EPUB files",
+      "org": "ohos",
+      "packageType": "OHPM",
+      "latestVersion": "2.0.5",
+      "latestPublishTime": 1743585440436,
+      "license": "LGPL-3.0",
+      "authorName": "hihope",
+      "publisherId": "65235f8fc007c2e3c3b4977d",
+      "publisherName": "xiatian",
+      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
+      "likes": 1,
+      "points": 25,
+      "popularity": 87
+    },
+    {
       "name": "is-number",
       "description": "Returns true if a number or string value is a finite number. Useful for regex matches, parsing, user input, etc.",
       "org": "",
@@ -9055,22 +9071,6 @@
       "publisherName": "xiatian",
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 0,
-      "points": 25,
-      "popularity": 86
-    },
-    {
-      "name": "@ohos/epublib",
-      "description": "Epublib is a library for reading/writing/manipulating EPUB files",
-      "org": "ohos",
-      "packageType": "OHPM",
-      "latestVersion": "2.0.5",
-      "latestPublishTime": 1743585440436,
-      "license": "LGPL-3.0",
-      "authorName": "hihope",
-      "publisherId": "65235f8fc007c2e3c3b4977d",
-      "publisherName": "xiatian",
-      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
-      "likes": 1,
       "points": 25,
       "popularity": 86
     },
@@ -9987,6 +9987,22 @@
       "popularity": 75
     },
     {
+      "name": "qapmsdk",
+      "description": "腾讯云终端性能监控是全方位定位检测终端应用性能和用户体验的工具，多维度自动分析出各维度存在可疑的性能缺陷。帮助您精确衡量终端应用的性能，以低成本、高效率发现终端应用各类问题。",
+      "org": "",
+      "packageType": "OHPM",
+      "latestVersion": "0.2.1",
+      "latestPublishTime": 1737636307766,
+      "license": "Apache-2.0",
+      "authorName": "libinli",
+      "publisherId": "66f227034496a2c2cef609b0",
+      "publisherName": "apm-pic",
+      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
+      "likes": 0,
+      "points": 25,
+      "popularity": 75
+    },
+    {
       "name": "@ohos/shimmer",
       "description": "一个简单灵活的为应用视图添加不同方向和形状的微光闪烁效果的库",
       "org": "ohos",
@@ -10061,22 +10077,6 @@
       "authorName": "joejoe",
       "publisherId": "6662584b7d3cf49a7b121edf",
       "publisherName": "zhaoyangzhou",
-      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
-      "likes": 0,
-      "points": 25,
-      "popularity": 74
-    },
-    {
-      "name": "qapmsdk",
-      "description": "腾讯云终端性能监控是全方位定位检测终端应用性能和用户体验的工具，多维度自动分析出各维度存在可疑的性能缺陷。帮助您精确衡量终端应用的性能，以低成本、高效率发现终端应用各类问题。",
-      "org": "",
-      "packageType": "OHPM",
-      "latestVersion": "0.2.1",
-      "latestPublishTime": 1737636307766,
-      "license": "Apache-2.0",
-      "authorName": "libinli",
-      "publisherId": "66f227034496a2c2cef609b0",
-      "publisherName": "apm-pic",
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 0,
       "points": 25,
@@ -10787,6 +10787,22 @@
       "popularity": 69
     },
     {
+      "name": "@hadss/scroll_components",
+      "description": "ScrollComponents 作为高性能滑动解决方案，可以帮助开发者在长列表、瀑布流等复杂页面场景下实现更好的滑动流畅度。",
+      "org": "hadss",
+      "packageType": "OHPM",
+      "latestVersion": "1.0.0-rc.1",
+      "latestPublishTime": 1750667391925,
+      "license": "Apache-2.0",
+      "authorName": "DTSE",
+      "publisherId": "66c53f56fcdf87d96d552de9",
+      "publisherName": "fangzy",
+      "authorPicUrl": "https://file.atomgit.com/uploads/user/1751727204003_2612.png",
+      "likes": 2,
+      "points": 30,
+      "popularity": 68
+    },
+    {
       "name": "@ohos_lib/geolocation",
       "description": "这是一款获取当前地理定位信息的开源插件",
       "org": "ohos_lib",
@@ -10864,22 +10880,6 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 0,
       "points": 25,
-      "popularity": 67
-    },
-    {
-      "name": "@hadss/scroll_components",
-      "description": "ScrollComponents 作为高性能滑动解决方案，可以帮助开发者在长列表、瀑布流等复杂页面场景下实现更好的滑动流畅度。",
-      "org": "hadss",
-      "packageType": "OHPM",
-      "latestVersion": "1.0.0-rc.1",
-      "latestPublishTime": 1750667391925,
-      "license": "Apache-2.0",
-      "authorName": "DTSE",
-      "publisherId": "66c53f56fcdf87d96d552de9",
-      "publisherName": "fangzy",
-      "authorPicUrl": "https://file.atomgit.com/uploads/user/1751727204003_2612.png",
-      "likes": 2,
-      "points": 30,
       "popularity": 67
     },
     {
@@ -16163,6 +16163,22 @@
       "popularity": 35
     },
     {
+      "name": "@cangjie-tpc/formula",
+      "description": "formula 主要目的是显示用 LaTeX 编写的数学公式。",
+      "org": "cangjie-tpc",
+      "packageType": "OHPM",
+      "latestVersion": "1.1.5",
+      "latestPublishTime": 1753349135757,
+      "license": "MIT",
+      "authorName": "cangjie-tpc",
+      "publisherId": "66dff64daf326cd8c6cb0b02",
+      "publisherName": "wayne29",
+      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
+      "likes": 1,
+      "points": 25,
+      "popularity": 34
+    },
+    {
       "name": "@umeng/share",
       "description": "社会化分享包含了平台分享、第三方登录功能。",
       "org": "umeng",
@@ -16721,22 +16737,6 @@
       "likes": 0,
       "points": 0,
       "popularity": 33
-    },
-    {
-      "name": "@cangjie-tpc/formula",
-      "description": "formula 主要目的是显示用 LaTeX 编写的数学公式。",
-      "org": "cangjie-tpc",
-      "packageType": "OHPM",
-      "latestVersion": "1.1.5",
-      "latestPublishTime": 1753349135757,
-      "license": "MIT",
-      "authorName": "cangjie-tpc",
-      "publisherId": "66dff64daf326cd8c6cb0b02",
-      "publisherName": "wayne29",
-      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
-      "likes": 1,
-      "points": 25,
-      "popularity": 32
     },
     {
       "name": "@ustory/xrouter",
@@ -17427,6 +17427,22 @@
       "popularity": 30
     },
     {
+      "name": "@dove/subtitles",
+      "description": "OpenHarmony/HarmonyOS 字幕解析库(OpenHarmony/HarmonyOS subtitles analysis library)",
+      "org": "dove",
+      "packageType": "OHPM",
+      "latestVersion": "0.3.2",
+      "latestPublishTime": 1741663227154,
+      "license": "Mulan PSL v2",
+      "authorName": "michael",
+      "publisherId": "643b5e527860c0f830f6fba4",
+      "publisherName": "Michael Ding",
+      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
+      "likes": 0,
+      "points": 15,
+      "popularity": 30
+    },
+    {
       "name": "ksblelibrary",
       "description": "对智能门锁蓝牙操作的功能封装",
       "org": "",
@@ -17872,22 +17888,6 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/1743129273937_3177.webp",
       "likes": 5,
       "points": 25,
-      "popularity": 29
-    },
-    {
-      "name": "@dove/subtitles",
-      "description": "OpenHarmony/HarmonyOS 字幕解析库(OpenHarmony/HarmonyOS subtitles analysis library)",
-      "org": "dove",
-      "packageType": "OHPM",
-      "latestVersion": "0.3.2",
-      "latestPublishTime": 1741663227154,
-      "license": "Mulan PSL v2",
-      "authorName": "michael",
-      "publisherId": "643b5e527860c0f830f6fba4",
-      "publisherName": "Michael Ding",
-      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
-      "likes": 0,
-      "points": 15,
       "popularity": 29
     },
     {
@@ -19491,6 +19491,22 @@
       "popularity": 25
     },
     {
+      "name": "@react-native-oh/react-native-openharmony",
+      "description": "React Native for OpenHarmony",
+      "org": "react-native-oh",
+      "packageType": "OHPM",
+      "latestVersion": "0.72.32",
+      "latestPublishTime": 1729129689602,
+      "license": "MIT",
+      "authorName": "react-native-oh",
+      "publisherId": "66fa68515fa0d9b579c58dcb",
+      "publisherName": "chenhaoyue",
+      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
+      "likes": 3,
+      "points": 25,
+      "popularity": 25
+    },
+    {
       "name": "@wuyan/region_cascade",
       "description": "一款好看的省市区街道最大4级联快捷选择插件,支持只选省份，支持只选省份+市区，支持只选省份+市区+区县，支持选中省份+市区+区县+街道/镇乡。",
       "org": "wuyan",
@@ -19585,6 +19601,22 @@
       "likes": 0,
       "points": 0,
       "popularity": 25
+    },
+    {
+      "name": "@ohos/oh7zip",
+      "description": "封装7zip命令行，支持压缩和解压文件到沙箱路径",
+      "org": "ohos",
+      "packageType": "OHPM",
+      "latestVersion": "1.0.1",
+      "latestPublishTime": 1752566234743,
+      "license": "apache-2.0",
+      "authorName": "ohos_sig",
+      "publisherId": "65235f8fc007c2e3c3b4977d",
+      "publisherName": "xiatian",
+      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
+      "likes": 0,
+      "points": 25,
+      "popularity": 24
     },
     {
       "name": "@tencentcloud/imsdk",
@@ -19843,22 +19875,6 @@
       "popularity": 24
     },
     {
-      "name": "@react-native-oh/react-native-openharmony",
-      "description": "React Native for OpenHarmony",
-      "org": "react-native-oh",
-      "packageType": "OHPM",
-      "latestVersion": "0.72.32",
-      "latestPublishTime": 1729129689602,
-      "license": "MIT",
-      "authorName": "react-native-oh",
-      "publisherId": "66fa68515fa0d9b579c58dcb",
-      "publisherName": "chenhaoyue",
-      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
-      "likes": 3,
-      "points": 25,
-      "popularity": 24
-    },
-    {
       "name": "@harmonypass/pasteboard",
       "description": "这是一个根据需求用来生成复制粘贴的第三方包组件，非常简单好用",
       "org": "harmonypass",
@@ -19920,22 +19936,6 @@
       "authorPicUrl": "",
       "likes": 0,
       "points": 0,
-      "popularity": 23
-    },
-    {
-      "name": "@ohos/oh7zip",
-      "description": "封装7zip命令行，支持压缩和解压文件到沙箱路径",
-      "org": "ohos",
-      "packageType": "OHPM",
-      "latestVersion": "1.0.1",
-      "latestPublishTime": 1752566234743,
-      "license": "apache-2.0",
-      "authorName": "ohos_sig",
-      "publisherId": "65235f8fc007c2e3c3b4977d",
-      "publisherName": "xiatian",
-      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
-      "likes": 0,
-      "points": 25,
       "popularity": 23
     },
     {
@@ -25331,6 +25331,22 @@
       "popularity": 16
     },
     {
+      "name": "@ibestservices/ucharts",
+      "description": "一款基于TypeScript的高性能跨平台数据可视化图表库，支持H5、小程序、鸿蒙等不同设备平台。",
+      "org": "ibestservices",
+      "packageType": "OHPM",
+      "latestVersion": "1.0.3",
+      "latestPublishTime": 1753407524969,
+      "license": "Apache-2.0",
+      "authorName": "junbin.yang",
+      "publisherId": "64c223ba1f091ba2710bbbbb",
+      "publisherName": "groot",
+      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
+      "likes": 13,
+      "points": 50,
+      "popularity": 15
+    },
+    {
       "name": "@cangjie-tpc/markdown_hybrid",
       "description": "根据CommonMark规范（以及一些扩展）解析和呈现Markdown文本",
       "org": "cangjie-tpc",
@@ -27459,22 +27475,6 @@
       "popularity": 14
     },
     {
-      "name": "@ibestservices/ucharts",
-      "description": "一款基于TypeScript的高性能跨平台数据可视化图表库，支持H5、小程序、鸿蒙等不同设备平台。",
-      "org": "ibestservices",
-      "packageType": "OHPM",
-      "latestVersion": "1.0.3",
-      "latestPublishTime": 1753407524969,
-      "license": "Apache-2.0",
-      "authorName": "junbin.yang",
-      "publisherId": "64c223ba1f091ba2710bbbbb",
-      "publisherName": "groot",
-      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
-      "likes": 13,
-      "points": 50,
-      "popularity": 13
-    },
-    {
       "name": "protobufjs_arkts",
       "description": "Protocol Buffers for ArkTS",
       "org": "",
@@ -29315,6 +29315,22 @@
       "popularity": 2
     },
     {
+      "name": "lodash-arkts",
+      "description": "基于lodash-es适配, ArkTS实用工具库",
+      "org": "",
+      "packageType": "OHPM",
+      "latestVersion": "1.0.0",
+      "latestPublishTime": 1753407453781,
+      "license": "MIT",
+      "authorName": "John-David Dalton",
+      "publisherId": "658e67ede79b27495db5e490",
+      "publisherName": "ArkAdapter",
+      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
+      "likes": 0,
+      "points": 50,
+      "popularity": 2
+    },
+    {
       "name": "@miik/axios_miik",
       "description": "axios_miik,是基于Axios基础上进行的单实例设计模式封装，包含了立交桥",
       "org": "miik",
@@ -29472,22 +29488,6 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 0,
       "points": 25,
-      "popularity": 1
-    },
-    {
-      "name": "lodash-arkts",
-      "description": "基于lodash-es适配, ArkTS实用工具库",
-      "org": "",
-      "packageType": "OHPM",
-      "latestVersion": "1.0.0",
-      "latestPublishTime": 1753407453781,
-      "license": "MIT",
-      "authorName": "John-David Dalton",
-      "publisherId": "658e67ede79b27495db5e490",
-      "publisherName": "ArkAdapter",
-      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
-      "likes": 0,
-      "points": 50,
       "popularity": 1
     },
     {
