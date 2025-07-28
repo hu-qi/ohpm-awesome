@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/nutpi/ohpm-awesome?style=flat-square)](https://github.com/nutpi/ohpm-awesome)
-[![Last Update](https://img.shields.io/badge/last%20update-1753488004982-brightgreen?style=flat-square)](https://github.com/nutpi/ohpm-awesome)
+[![Last Update](https://img.shields.io/badge/last%20update-1753629810288-brightgreen?style=flat-square)](https://github.com/nutpi/ohpm-awesome)
 
 > A curated list of awesome OpenHarmony packages, libraries, and tools for HarmonyOS development.
 
@@ -32,16 +32,16 @@
 
 ## 🆕 Recently Updated
 
-1. **[@rongcloud-enterprise/imkit](https://ohpm.openharmony.cn/#/cn/detail/%40rongcloud-enterprise%2Fimkit)** v1.7.1-enterprise - 融云 IMKit SDK for HarmonyOS (📅 2025-07-26)
-2. **[@rongcloud-enterprise/imlib](https://ohpm.openharmony.cn/#/cn/detail/%40rongcloud-enterprise%2Fimlib)** v1.7.1-enterprise - 融云 IM SDK for HarmonyOS (📅 2025-07-25)
-3. **[@rnoh/react-native-openharmony](https://ohpm.openharmony.cn/#/cn/detail/%40rnoh%2Freact-native-openharmony)** v0.72.82 - React Native for OpenHarmony (📅 2025-07-25)
-4. **[@rongcloud/imkit](https://ohpm.openharmony.cn/#/cn/detail/%40rongcloud%2Fimkit)** v1.7.1 - 融云 IMKit SDK for HarmonyOS (📅 2025-07-25)
-5. **[@rongcloud/imlib](https://ohpm.openharmony.cn/#/cn/detail/%40rongcloud%2Fimlib)** v1.7.1 - 融云 IM SDK for HarmonyOS (📅 2025-07-25)
-6. **[@sobot/chat_client](https://ohpm.openharmony.cn/#/cn/detail/%40sobot%2Fchat_client)** v1.1.1 - 智齿客服 鸿蒙版SDK 为企业提供了一整套完善的智能客服解决方案。智齿客服 SDK 既包含客服业务逻辑，也提供交互界面；企业只需简单两步，便可在 APP 中集成... (📅 2025-07-25)
-7. **[@sobot/chat_core](https://ohpm.openharmony.cn/#/cn/detail/%40sobot%2Fchat_core)** v1.1.0 - chat_core是智齿聊天客户端核心业务库。 (📅 2025-07-25)
-8. **[guide](https://ohpm.openharmony.cn/#/cn/detail/guide)** v1.0.0 - 鸿蒙Next引导组件 (📅 2025-07-25)
-9. **[@sobot/sobot_common](https://ohpm.openharmony.cn/#/cn/detail/%40sobot%2Fsobot_common)** v1.0.6 - sobot_common是针对HarmonyOS项目的工具库，用于快速开发鸿蒙应用。 (📅 2025-07-25)
-10. **[@magongshou/harmony-cordova](https://ohpm.openharmony.cn/#/cn/detail/%40magongshou%2Fharmony-cordova)** v1.7.4 - Cordova,跨平台SDK,自带所有插件遵守cordova官方接口规范，几分钟内完成android/ios项目迁移鸿蒙 (📅 2025-07-25)
+1. **[lib_easyrouter](https://ohpm.openharmony.cn/#/cn/detail/lib_easyrouter)** v1.1.0 - 一个以动态加载为核心实现跨模块页面路由功能的路由工具包 (📅 2025-07-27)
+2. **[@rongcloud-enterprise/imkit](https://ohpm.openharmony.cn/#/cn/detail/%40rongcloud-enterprise%2Fimkit)** v1.7.1-enterprise - 融云 IMKit SDK for HarmonyOS (📅 2025-07-26)
+3. **[@rongcloud-enterprise/imlib](https://ohpm.openharmony.cn/#/cn/detail/%40rongcloud-enterprise%2Fimlib)** v1.7.1-enterprise - 融云 IM SDK for HarmonyOS (📅 2025-07-25)
+4. **[@rnoh/react-native-openharmony](https://ohpm.openharmony.cn/#/cn/detail/%40rnoh%2Freact-native-openharmony)** v0.72.82 - React Native for OpenHarmony (📅 2025-07-25)
+5. **[@rongcloud/imkit](https://ohpm.openharmony.cn/#/cn/detail/%40rongcloud%2Fimkit)** v1.7.1 - 融云 IMKit SDK for HarmonyOS (📅 2025-07-25)
+6. **[@rongcloud/imlib](https://ohpm.openharmony.cn/#/cn/detail/%40rongcloud%2Fimlib)** v1.7.1 - 融云 IM SDK for HarmonyOS (📅 2025-07-25)
+7. **[@sobot/chat_client](https://ohpm.openharmony.cn/#/cn/detail/%40sobot%2Fchat_client)** v1.1.1 - 智齿客服 鸿蒙版SDK 为企业提供了一整套完善的智能客服解决方案。智齿客服 SDK 既包含客服业务逻辑，也提供交互界面；企业只需简单两步，便可在 APP 中集成... (📅 2025-07-25)
+8. **[@sobot/chat_core](https://ohpm.openharmony.cn/#/cn/detail/%40sobot%2Fchat_core)** v1.1.0 - chat_core是智齿聊天客户端核心业务库。 (📅 2025-07-25)
+9. **[guide](https://ohpm.openharmony.cn/#/cn/detail/guide)** v1.0.0 - 鸿蒙Next引导组件 (📅 2025-07-25)
+10. **[@sobot/sobot_common](https://ohpm.openharmony.cn/#/cn/detail/%40sobot%2Fsobot_common)** v1.0.6 - sobot_common是针对HarmonyOS项目的工具库，用于快速开发鸿蒙应用。 (📅 2025-07-25)
 
 ## 📚 Categories
 
@@ -1492,7 +1492,7 @@ App navigation, routing, page transitions, and navigation patterns
 - **[@hmanimations/easycustomtransition](https://ohpm.openharmony.cn/#/cn/detail/%40hmanimations%2Feasycustomtransition)** - A kit for integrating custom transition for Navigation. (📄 Apache-2.0 • 📦 v1.0.0)
 - **[@lynx/debug_router](https://ohpm.openharmony.cn/#/cn/detail/%40lynx%2Fdebug_router)** - DebugRouter (📄 Apache-2.0 • 📦 v0.0.1-alpha.2)
 - **[@dy/routermodule](https://ohpm.openharmony.cn/#/cn/detail/%40dy%2Froutermodule)** - diyi router (📄 Apache-2.0 • 📦 v1.0.1)
-- **[lib_easyrouter](https://ohpm.openharmony.cn/#/cn/detail/lib_easyrouter)** - 一个以动态加载为核心实现跨模块页面路由功能的路由工具包 (📄 Mulan PSL v2 • ⭐ 1 likes • 📦 v1.0.0)
+- **[lib_easyrouter](https://ohpm.openharmony.cn/#/cn/detail/lib_easyrouter)** - 一个以动态加载为核心实现跨模块页面路由功能的路由工具包 (📄 MulanPSL-2.0 • ⭐ 1 likes • 📦 v1.1.0)
 - **[@zxzw/screencap](https://ohpm.openharmony.cn/#/cn/detail/%40zxzw%2Fscreencap)** - screen cap and broad. (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.0.0)
 
 ### 🔄 State Management
@@ -1945,4 +1945,4 @@ This list is automatically updated daily using GitHub Actions to ensure the late
 
 ---
 
-**Total packages tracked**: 1,888 | **Last generated**: Auto-generated on 2025-07-27 01:03:10
+**Total packages tracked**: 1,888 | **Last generated**: Auto-generated on 2025-07-28 01:01:52

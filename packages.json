@@ -1,5 +1,5 @@
 {
-  "crawled_at": "2025-07-27T01:03:08.949491",
+  "crawled_at": "2025-07-28T01:01:50.686860",
   "total_packages": 1888,
   "packages": [
     {
@@ -29203,6 +29203,22 @@
       "popularity": 4
     },
     {
+      "name": "lib_easyrouter",
+      "description": "一个以动态加载为核心实现跨模块页面路由功能的路由工具包",
+      "org": "",
+      "packageType": "OHPM",
+      "latestVersion": "1.1.0",
+      "latestPublishTime": 1753629810288,
+      "license": "MulanPSL-2.0",
+      "authorName": "彭友聪",
+      "publisherId": "684d51d8a04cecf36935c683",
+      "publisherName": "pengyoucong",
+      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
+      "likes": 1,
+      "points": 30,
+      "popularity": 3
+    },
+    {
       "name": "@coffee77/utils",
       "description": "初始版本，创建了Axios二次封装",
       "org": "coffee77",
@@ -29232,22 +29248,6 @@
       "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
       "likes": 0,
       "points": 25,
-      "popularity": 3
-    },
-    {
-      "name": "lib_easyrouter",
-      "description": "一个以动态加载为核心实现跨模块页面路由功能的路由工具包",
-      "org": "",
-      "packageType": "OHPM",
-      "latestVersion": "1.0.0",
-      "latestPublishTime": 1753061470262,
-      "license": "Mulan PSL v2",
-      "authorName": "彭友聪",
-      "publisherId": "684d51d8a04cecf36935c683",
-      "publisherName": "pengyoucong",
-      "authorPicUrl": "https://file.atomgit.com/uploads/user/default.png",
-      "likes": 1,
-      "points": 15,
       "popularity": 3
     },
     {
