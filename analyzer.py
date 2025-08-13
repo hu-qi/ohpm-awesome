@@ -270,15 +270,18 @@ class PackageAnalyzer:
     
     def generate_readme_content(self) -> str:
         """Generate README.md content"""
+        from datetime import datetime
         stats = self.get_category_stats()
         popular_packages = self.analyze_popular_packages(15)
         recent_packages = self.analyze_recent_packages(10)
+        timestamp = recent_packages[0]['latestPublishTime'] if recent_packages else datetime.timestamp(datetime.now())
+        date_str = datetime.fromtimestamp(timestamp / 1000).strftime('%Y%m%d') if timestamp > 0 else 'Unknown'
         
         readme = f"""# 🎯 Awesome OpenHarmony Packages
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![GitHub stars](https://img.shields.io/github/stars/nutpi/ohpm-awesome?style=flat-square)](https://github.com/nutpi/ohpm-awesome)
-[![Last Update](https://img.shields.io/badge/last%20update-{recent_packages[0]['latestPublishTime'] if recent_packages else 'N/A'}-brightgreen?style=flat-square)](https://github.com/nutpi/ohpm-awesome)
+[![GitHub stars](https://img.shields.io/github/stars/hu-qi/ohpm-awesome?style=flat-square)](https://github.com/hu-qi/ohpm-awesome)
+[![Last Update](https://img.shields.io/badge/last%20update-{date_str}-brightgreen?style=flat-square)](https://github.com/hu-qi/ohpm-awesome)
 
 > A curated list of awesome OpenHarmony packages, libraries, and tools for HarmonyOS development.
 
