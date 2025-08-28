@@ -2,46 +2,46 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/hu-qi/ohpm-awesome?style=flat-square)](https://github.com/hu-qi/ohpm-awesome)
-[![Last Update](https://img.shields.io/badge/last%20update-20250826-brightgreen?style=flat-square)](https://github.com/hu-qi/ohpm-awesome)
+[![Last Update](https://img.shields.io/badge/last%20update-20250827-brightgreen?style=flat-square)](https://github.com/hu-qi/ohpm-awesome)
 
 > A curated list of awesome OpenHarmony packages, libraries, and tools for HarmonyOS development.
 
 ## 📊 Overview
 
-- **Total Packages**: 1,947
+- **Total Packages**: 1,949
 - **Categories**: 22
 - **Last Updated**: Auto-updated daily
 
 ## 🔥 Most Popular Packages
 
-1. **[@ohos/hypium](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fhypium)** - A unit test framework for OpenHarmony application (⭐ 5 likes, 📈 43,381 popularity)
-2. **[@yunkss/eftool](https://ohpm.openharmony.cn/#/cn/detail/%40yunkss%2Feftool)** - 一款高效的兼容API12的HarmonyOS工具包.封装了常用工具类如字符串、正则、加解密、图片处理、axios、rcp、json等和常用UI组件如Dialog,Loading,Cascade,通知,... (⭐ 187 likes, 📈 25,421 popularity)
-3. **[@ohos/lottie](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Flottie)** - lottie是一个适用于OpenHarmony的动画库，它可以使用Bodymovin解析以json格式导出的Adobe After Effects动画，并在移动设备上进行本地渲染 (⭐ 41 likes, 📈 21,988 popularity)
-4. **[@cashier_alipay/cashiersdk](https://ohpm.openharmony.cn/#/cn/detail/%40cashier_alipay%2Fcashiersdk)** - alipay standard cashier sdk for ohos (⭐ 32 likes, 📈 13,886 popularity)
-5. **[@ohos/imageknife](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fimageknife)** - 专门为OpenHarmony打造的一款图像加载缓存库，致力于更高效、更轻便、更简单 (⭐ 101 likes, 📈 11,497 popularity)
-6. **[@ohos/axios](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Faxios)** - Axios ，是一个基于 promise 的网络请求库。本库基于npm Axios 原库进行适配，使其可以运行在 OpenHarmony，并沿用其现有用法和特性。 (⭐ 297 likes, 📈 10,898 popularity)
-7. **[@ohos/hamock](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fhamock)** - A mock framework for OpenHarmony application. (⭐ 3 likes, 📈 10,138 popularity)
-8. **[@ohos/crypto-js](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fcrypto-js)** - The encryption algorithm class library can be very convenient to perform the encryption and decrypti... (⭐ 26 likes, 📈 10,061 popularity)
-9. **[@tencent/mmkv](https://ohpm.openharmony.cn/#/cn/detail/%40tencent%2Fmmkv)** - The official OpenHarmony package of MMKV. An efficient, small mobile key-value storage framework dev... (⭐ 44 likes, 📈 9,936 popularity)
-10. **[@tencent/wechat_open_sdk](https://ohpm.openharmony.cn/#/cn/detail/%40tencent%2Fwechat_open_sdk)** - Tencent WeChat OpenSDK (⭐ 59 likes, 📈 9,399 popularity)
-11. **[bignumber.js](https://ohpm.openharmony.cn/#/cn/detail/bignumber.js)** - A library for arbitrary-precision decimal and non-decimal arithmetic (⭐ 2 likes, 📈 9,232 popularity)
-12. **[@ohos/pulltorefresh](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fpulltorefresh)** - PullToRefresh是一款OpenHarmony环境下可用的下拉刷新、上拉加载组件 (⭐ 50 likes, 📈 7,890 popularity)
-13. **[@ohos/aki](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Faki)** - AKI (Alpha Kernel Interacting) 是一款边界性编程体验友好的ArkTs FFI开发框架，针对OpenHarmony Native开发提供JS与C/C++跨语言访问场景解决方... (⭐ 12 likes, 📈 7,205 popularity)
-14. **[@amap/amap_lbs_map3d](https://ohpm.openharmony.cn/#/cn/detail/%40amap%2Famap_lbs_map3d)** - 高德开放平台地图SDK，实现了地图的基础功能，包括地图展示、地图操作、覆盖物的绘制等。 (⭐ 7 likes, 📈 6,605 popularity)
-15. **[@pura/harmony-utils](https://ohpm.openharmony.cn/#/cn/detail/%40pura%2Fharmony-utils)** - 一款功能丰富且极易上手的HarmonyOS工具库，借助众多实用工具类，致力于助力开发者迅速构建鸿蒙应用。其封装的工具涵盖了APP、设备、屏幕、授权、通知、线程间通信、弹框、吐司、生物认证、用户首选项、... (⭐ 577 likes, 📈 6,016 popularity)
+1. **[@ohos/hypium](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fhypium)** - A unit test framework for OpenHarmony application (⭐ 5 likes, 📈 43,893 popularity)
+2. **[@yunkss/eftool](https://ohpm.openharmony.cn/#/cn/detail/%40yunkss%2Feftool)** - 一款高效的兼容API12的HarmonyOS工具包.封装了常用工具类如字符串、正则、加解密、图片处理、axios、rcp、json等和常用UI组件如Dialog,Loading,Cascade,通知,... (⭐ 187 likes, 📈 25,433 popularity)
+3. **[@ohos/lottie](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Flottie)** - lottie是一个适用于OpenHarmony的动画库，它可以使用Bodymovin解析以json格式导出的Adobe After Effects动画，并在移动设备上进行本地渲染 (⭐ 41 likes, 📈 22,274 popularity)
+4. **[@cashier_alipay/cashiersdk](https://ohpm.openharmony.cn/#/cn/detail/%40cashier_alipay%2Fcashiersdk)** - alipay standard cashier sdk for ohos (⭐ 32 likes, 📈 14,087 popularity)
+5. **[@ohos/imageknife](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fimageknife)** - 专门为OpenHarmony打造的一款图像加载缓存库，致力于更高效、更轻便、更简单 (⭐ 101 likes, 📈 11,637 popularity)
+6. **[@ohos/axios](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Faxios)** - Axios ，是一个基于 promise 的网络请求库。本库基于npm Axios 原库进行适配，使其可以运行在 OpenHarmony，并沿用其现有用法和特性。 (⭐ 297 likes, 📈 11,007 popularity)
+7. **[@ohos/hamock](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fhamock)** - A mock framework for OpenHarmony application. (⭐ 3 likes, 📈 10,264 popularity)
+8. **[@ohos/crypto-js](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fcrypto-js)** - The encryption algorithm class library can be very convenient to perform the encryption and decrypti... (⭐ 26 likes, 📈 10,158 popularity)
+9. **[@tencent/mmkv](https://ohpm.openharmony.cn/#/cn/detail/%40tencent%2Fmmkv)** - The official OpenHarmony package of MMKV. An efficient, small mobile key-value storage framework dev... (⭐ 44 likes, 📈 10,088 popularity)
+10. **[@tencent/wechat_open_sdk](https://ohpm.openharmony.cn/#/cn/detail/%40tencent%2Fwechat_open_sdk)** - Tencent WeChat OpenSDK (⭐ 60 likes, 📈 9,531 popularity)
+11. **[bignumber.js](https://ohpm.openharmony.cn/#/cn/detail/bignumber.js)** - A library for arbitrary-precision decimal and non-decimal arithmetic (⭐ 2 likes, 📈 9,357 popularity)
+12. **[@ohos/pulltorefresh](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fpulltorefresh)** - PullToRefresh是一款OpenHarmony环境下可用的下拉刷新、上拉加载组件 (⭐ 50 likes, 📈 7,991 popularity)
+13. **[@ohos/aki](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Faki)** - AKI (Alpha Kernel Interacting) 是一款边界性编程体验友好的ArkTs FFI开发框架，针对OpenHarmony Native开发提供JS与C/C++跨语言访问场景解决方... (⭐ 12 likes, 📈 7,297 popularity)
+14. **[@amap/amap_lbs_map3d](https://ohpm.openharmony.cn/#/cn/detail/%40amap%2Famap_lbs_map3d)** - 高德开放平台地图SDK，实现了地图的基础功能，包括地图展示、地图操作、覆盖物的绘制等。 (⭐ 7 likes, 📈 6,654 popularity)
+15. **[@pura/harmony-utils](https://ohpm.openharmony.cn/#/cn/detail/%40pura%2Fharmony-utils)** - 一款功能丰富且极易上手的HarmonyOS工具库，借助众多实用工具类，致力于助力开发者迅速构建鸿蒙应用。其封装的工具涵盖了APP、设备、屏幕、授权、通知、线程间通信、弹框、吐司、生物认证、用户首选项、... (⭐ 577 likes, 📈 6,101 popularity)
 
 ## 🆕 Recently Updated
 
-1. **[@growingio/tools](https://ohpm.openharmony.cn/#/cn/detail/%40growingio%2Ftools)** v1.3.0 - ToolsKit for GrowingIO HarmonyOS SDK. (📅 2025-08-26)
-2. **[@growingio/analytics](https://ohpm.openharmony.cn/#/cn/detail/%40growingio%2Fanalytics)** v2.4.0 - GrowingAnalytics for HarmonyOS SDK. (📅 2025-08-26)
-3. **[@ppd/ffrt](https://ohpm.openharmony.cn/#/cn/detail/%40ppd%2Fffrt)** v1.1.4 - Provides C++ interfaces of Function Flow Runtime Kit (FFRT). (📅 2025-08-26)
-4. **[@admobile/tianmu](https://ohpm.openharmony.cn/#/cn/detail/%40admobile%2Ftianmu)** v1.0.6 - 天目广告SDK，专为鸿蒙应用打造的广告变现利器。通过原生能力，它能更快速、更安全地展示各种广告形式，包括横幅、插屏和视频。借助精准的数据分析，您可以轻松优化广告... (📅 2025-08-26)
-5. **[@cangjie-tpc/markdown](https://ohpm.openharmony.cn/#/cn/detail/%40cangjie-tpc%2Fmarkdown)** v1.1.4 - Markdown4cj是一个用仓颉语言编写的适用于鸿蒙系统的Markdown库。 (📅 2025-08-26)
-6. **[@free/network](https://ohpm.openharmony.cn/#/cn/detail/%40free%2Fnetwork)** v1.0.2 - harmony os 基于系统网络请求库，http，websocket 封装。 (📅 2025-08-26)
-7. **[@cxy/selecteablemenu](https://ohpm.openharmony.cn/#/cn/detail/%40cxy%2Fselecteablemenu)** v1.0.0 - 鸿蒙文本选择菜单，用于聊天消息文本选择复制 (📅 2025-08-26)
-8. **[@abner/dialog](https://ohpm.openharmony.cn/#/cn/detail/%40abner%2Fdialog)** v1.2.5 - HarmonyOSDialog是一个便捷的弹窗，无须初始化，便在任何地方都可以弹出，脱离原生Dialog限制，Dialog中也封装了包含常见的弹窗样式，并且支持... (📅 2025-08-26)
-9. **[@unif/harmony-camera](https://ohpm.openharmony.cn/#/cn/detail/%40unif%2Fharmony-camera)** v1.0.0 - 适配公司业务场景实现单拍、连拍功能等基础功能. (📅 2025-08-26)
-10. **[@ohos/material-dialogs](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fmaterial-dialogs)** v2.0.3 - A beautiful, fluid, and extensible dialogs (📅 2025-08-26)
+1. **[@ohos/shimmer](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fshimmer)** v2.1.1 - 一个简单灵活的为应用视图添加不同方向和形状的微光闪烁效果的库 (📅 2025-08-27)
+2. **[@ohos/linphone](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Flinphone)** v1.0.0 - 支持在鸿蒙设备上一对一的SIP音视频通话。 (📅 2025-08-27)
+3. **[@ohos/stun](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fstun)** v2.0.2 - Service open source components based on STUN protocol (📅 2025-08-27)
+4. **[@ohos-rs/traceroute](https://ohpm.openharmony.cn/#/cn/detail/%40ohos-rs%2Ftraceroute)** v0.1.1 - A simple traceroute implementation in OpenHarmony/HarmonyNext with Rust (📅 2025-08-27)
+5. **[@dove/p7zip](https://ohpm.openharmony.cn/#/cn/detail/%40dove%2Fp7zip)** v0.18.0 - OpenHarmony/HarmonyOS 7-zip解压缩库(OpenHarmony/HarmonyOS 7-zip zip/unzip library) (📅 2025-08-27)
+6. **[@ibestservices/ibest-barcode-test](https://ohpm.openharmony.cn/#/cn/detail/%40ibestservices%2Fibest-barcode-test)** v1.0.0 - 一个轻量、简单易用的条形码组件，支持CODE39、CODE93、CODE128、、EAN13、UPC、ITF、MSI、Pharmacode、Codabar等多种... (📅 2025-08-27)
+7. **[@mybricks/comlib-harmony-normal](https://ohpm.openharmony.cn/#/cn/detail/%40mybricks%2Fcomlib-harmony-normal)** v1.0.15 - MyBricks.ai团队提供的通用组件库，包含通用ui和计算组件 (📅 2025-08-27)
+8. **[@mybricks/render-utils](https://ohpm.openharmony.cn/#/cn/detail/%40mybricks%2Frender-utils)** v1.0.15 - MyBricks.ai鸿蒙相关产物运行时需依赖的工具包 (📅 2025-08-27)
+9. **[@free/network](https://ohpm.openharmony.cn/#/cn/detail/%40free%2Fnetwork)** v1.0.3 - harmony os 基于系统网络请求库，http，websocket 封装。 (📅 2025-08-27)
+10. **[@admobile/tianmu](https://ohpm.openharmony.cn/#/cn/detail/%40admobile%2Ftianmu)** v1.0.7 - 天目广告SDK，专为鸿蒙应用打造的广告变现利器。通过原生能力，它能更快速、更安全地展示各种广告形式，包括横幅、插屏和视频。借助精准的数据分析，您可以轻松优化广告... (📅 2025-08-27)
 
 ## 📚 Categories
 
@@ -49,7 +49,7 @@
 
 Testing frameworks, unit testing, automation testing, and quality assurance tools
 
-**28 packages** • Avg popularity: 1,970
+**29 packages** • Avg popularity: 1,925
 
 - **[@ohos/hypium](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fhypium)** - A unit test framework for OpenHarmony application (📄 Apache-2.0 • ⭐ 5 likes • 📦 v1.0.24)
 - **[@ohos/hamock](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fhamock)** - A mock framework for OpenHarmony application. (📄 Apache-2.0 • ⭐ 3 likes • 📦 v1.0.0)
@@ -79,12 +79,13 @@ Testing frameworks, unit testing, automation testing, and quality assurance tool
 - **[ra00getdaycount](https://ohpm.openharmony.cn/#/cn/detail/ra00getdaycount)** - To calculate the number of days between two dates for testing purposes. (📄 Apache-2.0 • 📦 v1.0.0)
 - **[d_test_lib](https://ohpm.openharmony.cn/#/cn/detail/d_test_lib)** - 一个基于原生ArkUI封装的一套UI组件库 (📄 MIT • ⭐ 2 likes • 📦 v1.0.0)
 - **[@xiaofeixia1005/test](https://ohpm.openharmony.cn/#/cn/detail/%40xiaofeixia1005%2Ftest)** - 做一个测试test (📄 Apache-2.0 • 📦 v1.0.0)
+- **[@ibestservices/ibest-barcode-test](https://ohpm.openharmony.cn/#/cn/detail/%40ibestservices%2Fibest-barcode-test)** - 一个轻量、简单易用的条形码组件，支持CODE39、CODE93、CODE128、、EAN13、UPC、ITF、MSI、Pharmacode、Codabar等多种条码类型 (📄 MIT • 📦 v1.0.0)
 
 ### 🎨 UI Components & Design
 
 UI components, design systems, layout tools, and visual elements
 
-**352 packages** • Avg popularity: 244
+**352 packages** • Avg popularity: 245
 
 - **[@yunkss/eftool](https://ohpm.openharmony.cn/#/cn/detail/%40yunkss%2Feftool)** - 一款高效的兼容API12的HarmonyOS工具包.封装了常用工具类如字符串、正则、加解密、图片处理、axios、rcp、json等和常用UI组件如Dialog,Loading,Cascade,通知,位置,窗口等,提供一系列快捷操作方法. (📄 Apache-2.0 • ⭐ 187 likes • 📦 v2.0.3)
 - **[@ohos/pulltorefresh](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fpulltorefresh)** - PullToRefresh是一款OpenHarmony环境下可用的下拉刷新、上拉加载组件 (📄 Apache License 2.0 • ⭐ 50 likes • 📦 v3.0.0)
@@ -92,7 +93,7 @@ UI components, design systems, layout tools, and visual elements
 - **[@ohos/mpchart](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fmpchart)** - mpchart各种类型的图表库，主要用于业务数据汇总，例如销售数据走势图，股价走势图等场景中使用，方便开发者快速实现图表UI (📄 Apache License 2.0 • ⭐ 38 likes • 📦 v3.0.25)
 - **[@abner/refresh](https://ohpm.openharmony.cn/#/cn/detail/%40abner%2Frefresh)** - HarmonyOSRefresh是一款简单，高效的上拉下拉刷新组件，支持列表、网格、瀑布流、支持各种任意组件刷新，支持侧滑删除、条目吸顶，下滑二楼等功能 (📄 Apache-2.0 • ⭐ 130 likes • 📦 v1.4.6)
 - **[@mcui/mccharts](https://ohpm.openharmony.cn/#/cn/detail/%40mcui%2Fmccharts)** - mcCharts(莓创图表)是McUI提供的一款开箱即用的图表工具库。作为HarmonyOS一款开源的图表组件库，组件库将会提供以下图表：折线图、柱状图、饼图、散点图、雷达图等等。并提供了配套的设计资源，充分满足可定制化的需求。 (📄 MIT • ⭐ 46 likes • 📦 v2.8.9)
-- **[@ibestservices/ibest-ui](https://ohpm.openharmony.cn/#/cn/detail/%40ibestservices%2Fibest-ui)** - 一个轻量、简单易用、可定制主题、支持深色模式和浅色模式的鸿蒙开源UI组件库, 包含Button、Calendar、Form、Field、Picker、Popup、Toast、Dialog、ImageCropper等50+个优质组件。 (📄 MIT • ⭐ 142 likes • 📦 v2.1.6)
+- **[@ibestservices/ibest-ui](https://ohpm.openharmony.cn/#/cn/detail/%40ibestservices%2Fibest-ui)** - 一个轻量、简单易用、可定制主题、支持深色模式和浅色模式的鸿蒙开源UI组件库, 包含Button、Calendar、Form、Field、Picker、Popup、Toast、Dialog、ImageCropper等50+个优质组件。 (📄 MIT • ⭐ 143 likes • 📦 v2.1.6)
 - **[@pie/log4a](https://ohpm.openharmony.cn/#/cn/detail/%40pie%2Flog4a)** - 有独立文档，支持ts引入、多线程输出到文件、console拦截、日志过滤、自定义输出Layout、日志加密、日志滚动等功能的全能日志库。 (📄 Apache-2.0 • ⭐ 19 likes • 📦 v1.5.16)
 - **[cjcalendar](https://ohpm.openharmony.cn/#/cn/detail/cjcalendar)** - cjcalendar 是一款基于ArkTs+ArkUI+NEXT适配开发的通用日历组件，支持左右滑动，年视图/月视图/周视图，内部集成常规、单选、时间范围选择、多选、以及各种自定义显示，还包括农历、节日、节气等操作，控制切换周一/周日开始显示. (📄 Apache-2.0 • ⭐ 91 likes • 📦 v2.3.3)
 - **[@abner/banner](https://ohpm.openharmony.cn/#/cn/detail/%40abner%2Fbanner)** - HarmonyOSBanner是一个基于系统Api的Swiper而封装的一个轮播图，旨在简化代码，扩展相关功能。 (📄 Apache-2.0 • ⭐ 13 likes • 📦 v1.0.5)
@@ -103,20 +104,20 @@ UI components, design systems, layout tools, and visual elements
 - **[@ohos/high_light_guide](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fhigh_light_guide)** - 基于OpenHarmony的高亮型新手引导组件，通过高亮区域与蒙版背景的明暗度对比，使用户快速锁定重点功能，快速掌握应用基本使用方法. (📄 Apache License 2.0 • ⭐ 4 likes • 📦 v1.0.4)
 - **[@ohmos/calendar](https://ohpm.openharmony.cn/#/cn/detail/%40ohmos%2Fcalendar)** - a mini calendar support harmony next. (📄 Apache-2.0 • ⭐ 20 likes • 📦 v2.1.4)
 - **[ohos_smart_dialog](https://ohpm.openharmony.cn/#/cn/detail/ohos_smart_dialog)** - 解决原生弹窗的各种痛点. 强大的一站式弹窗解决方案 (📄 MIT • ⭐ 21 likes • 📦 v1.8.5)
-- **[wtr](https://ohpm.openharmony.cn/#/cn/detail/wtr)** - 下拉刷新、上拉加载，可自定义刷新加载风格(refresh)；加载弹框、消息提示；JSON转对应模型； (📄 Apache-2.0 • ⭐ 6 likes • 📦 v1.4.0)
 - **[@ohos/banner](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fbanner)** - 适配OpenHarmony环境的一款banner库，常用于广告图片轮播场景。 (📄 Apache License 2.0 • ⭐ 4 likes • 📦 v1.1.2)
+- **[wtr](https://ohpm.openharmony.cn/#/cn/detail/wtr)** - 下拉刷新、上拉加载，可自定义刷新加载风格(refresh)；加载弹框、消息提示；JSON转对应模型； (📄 Apache-2.0 • ⭐ 6 likes • 📦 v1.4.0)
 - **[@visactor/harmony-vchart](https://ohpm.openharmony.cn/#/cn/detail/%40visactor%2Fharmony-vchart)** - @visactor/vchart 针对 harmonyOS 打造的图表库，拥有非常酷炫的动画能力，近20种图表类型，以及原生的渲染性能 (📄 MIT • ⭐ 26 likes • 📦 v1.13.5)
-- **[@jxt/xt_hud](https://ohpm.openharmony.cn/#/cn/detail/%40jxt%2Fxt_hud)** - 更加简单易用且高性能的 ToastHUD, LoadingHUD, ProgressHUD；适配API12；样式支持高度自定义；一行代码即可执行显示，无需初始化挂载；解决点击返回键关闭HUD的问题；支持在任意位置触发HUD显示 (📄 MIT • ⭐ 10 likes • 📦 v3.4.0)
 - **[@hadss/dialoghub](https://ohpm.openharmony.cn/#/cn/detail/%40hadss%2Fdialoghub)** - 通用弹窗解决方案，提供与UI解耦的弹窗方式，支持链式API调用、页面级弹窗、自定义弹窗模板，提供丰富的配置用于解决复杂的交互问题与动画问题，并且支持运行时动态属性更新。适用于复杂弹窗场景开发。 (📄 Apache-2.0 • ⭐ 9 likes • 📦 v1.1.2)
-- **[@easy_refresh/easy_refresh](https://ohpm.openharmony.cn/#/cn/detail/%40easy_refresh%2Feasy_refresh)** - HarmonyOsRefresh是基于ArkUI封装的上拉下拉刷新组件，支持List、Grid、WaterFlow,Scroll组件刷新 (📄 Apache-2.0 • ⭐ 15 likes • 📦 v1.1.9)
+- **[@jxt/xt_hud](https://ohpm.openharmony.cn/#/cn/detail/%40jxt%2Fxt_hud)** - 更加简单易用且高性能的 ToastHUD, LoadingHUD, ProgressHUD；适配API12；样式支持高度自定义；一行代码即可执行显示，无需初始化挂载；解决点击返回键关闭HUD的问题；支持在任意位置触发HUD显示 (📄 MIT • ⭐ 10 likes • 📦 v3.4.0)
 - **[@lvnanqing/lvdialog](https://ohpm.openharmony.cn/#/cn/detail/%40lvnanqing%2Flvdialog)** - 一款简单易用的弹窗封装能力 (📄 Apache-2.0 • ⭐ 3 likes • 📦 v1.1.7)
+- **[@easy_refresh/easy_refresh](https://ohpm.openharmony.cn/#/cn/detail/%40easy_refresh%2Feasy_refresh)** - HarmonyOsRefresh是基于ArkUI封装的上拉下拉刷新组件，支持List、Grid、WaterFlow,Scroll组件刷新 (📄 Apache-2.0 • ⭐ 15 likes • 📦 v1.1.9)
 - **[@zhongrui/pull_to_refresh](https://ohpm.openharmony.cn/#/cn/detail/%40zhongrui%2Fpull_to_refresh)** - PullToRefresh 实现垂直列表下拉刷新,上拉加载，横向列表左拉刷新，右拉加载 (📄 MIT • ⭐ 17 likes • 📦 v1.1.5)
 - **[@hw-agconnect/ui-base](https://ohpm.openharmony.cn/#/cn/detail/%40hw-agconnect%2Fui-base)** - AppGalleryConnectSDK ui component base for OpenHarmony. (📄 ISC • ⭐ 2 likes • 📦 v1.0.1)
 - **[@tencentmap/mapvisual](https://ohpm.openharmony.cn/#/cn/detail/%40tencentmap%2Fmapvisual)** - 支持开发者快速实现地图业务开发。 (📄 Apache-2.0 • 📦 v1.0.3)
 - **[@mumu/crop](https://ohpm.openharmony.cn/#/cn/detail/%40mumu%2Fcrop)** - 鸿蒙图片裁剪组件(Image cropping component.) (📄 MIT • ⭐ 4 likes • 📦 v1.0.3)
 - **[@ibestservices/area-data](https://ohpm.openharmony.cn/#/cn/detail/%40ibestservices%2Farea-data)** - 中国省市区数据，适用于 ArkUI的 TextPicker 和 IBest-UI 的 IBestCascader 等组件。 (📄 Apache-2.0 • ⭐ 12 likes • 📦 v0.0.6)
-- **[@jjr/lottie_component](https://ohpm.openharmony.cn/#/cn/detail/%40jjr%2Flottie_component)** - 封装 lottie 为 @Component 组件，方便使用. (📄 Apache-2.0 • ⭐ 4 likes • 📦 v1.0.8)
 - **[@ohos/multitype](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fmultitype)** - 更轻松、更灵活地为 List 创建多种类型布局,支持设置布局数据源与布局样式 (📄 Apache-2.0 • 📦 v2.0.4)
+- **[@jjr/lottie_component](https://ohpm.openharmony.cn/#/cn/detail/%40jjr%2Flottie_component)** - 封装 lottie 为 @Component 组件，方便使用. (📄 Apache-2.0 • ⭐ 4 likes • 📦 v1.0.8)
 - **[@hw-agconnect/ui-calendar-picker](https://ohpm.openharmony.cn/#/cn/detail/%40hw-agconnect%2Fui-calendar-picker)** - ui-calendar-picker是基于open harmony基础组件开发的日历选择器组件，包含单日期选择、多日期选择和时间段选择的功能。支持选择时间、设置禁选日期、设置最大时间段跨度、设置上下滑动、设置左右滑动、自定义日期展示效果等功能。 (📄 ISC • ⭐ 7 likes • 📦 v1.0.3)
 - **[@ibestservices/ibest-ui-v2](https://ohpm.openharmony.cn/#/cn/detail/%40ibestservices%2Fibest-ui-v2)** - 一个轻量、简单易用、可定制主题、支持深色模式和浅色模式的鸿蒙开源UI组件库, 包含Button、Calendar、Form、Field、Picker、Popup、Toast、Dialog、ImageCropper等50+个优质组件。 (📄 MIT • ⭐ 42 likes • 📦 v1.0.1)
 - **[@abner/input_box](https://ohpm.openharmony.cn/#/cn/detail/%40abner%2Finput_box)** - InputBox是一个自动输入框，支持文本、密码等多种模式，支持自定义软键盘输入，支持动态切换下一个，适用于验证码，密码等动态切换下一个等场景。 (📄 Apache-2.0 • ⭐ 4 likes • 📦 v1.0.5)
@@ -127,8 +128,8 @@ PJTabBar is a component used to replace system Tabs, supporting indicator linkag
 - **[@chawloo/state-layout](https://ohpm.openharmony.cn/#/cn/detail/%40chawloo%2Fstate-layout)** - 一款在HarmonyOS Next上自由切换缺省状态的的框架，你值得拥有 (📄 Apache-2.0 • ⭐ 4 likes • 📦 v2.2.2)
 - **[@zyc/tablayout](https://ohpm.openharmony.cn/#/cn/detail/%40zyc%2Ftablayout)** - 仿制Android的TabLayout，可以左右中排列、超出自动滚动到中间、自由使用条形指示器、块状指示器、点指示器、自定义指示器、自定义Tab等 (📄 Apache-2.0 • ⭐ 9 likes • 📦 v1.0.15)
 - **[@xinyansoft/oh-date-picker](https://ohpm.openharmony.cn/#/cn/detail/%40xinyansoft%2Foh-date-picker)** - Openharmony & HarmonyOS平台日期选择器增强版，支持选择年月、年月日、年月日时分等多种格式 (📄 Apache-2.0 • ⭐ 8 likes • 📦 v0.0.7)
-- **[@hons/utils](https://ohpm.openharmony.cn/#/cn/detail/%40hons%2Futils)** - 包含纯TS库以及UI组件,用于处理日常逻辑，例如倒计时功能、价格格式化处理, 如 具有下划线并且可滑动的Tab、浮窗PopupModal支持滑入滑和淡入淡出、下拉上拉菜单DropdownMenu、导航点、全屏组件FullPageWithNavBar、TipMenu (📄 MIT • ⭐ 2 likes • 📦 v1.0.13)
 - **[@wuyan/hm_chart](https://ohpm.openharmony.cn/#/cn/detail/%40wuyan%2Fhm_chart)** - 一个基于echarts原库v5.5.1版本进行二次封装适配,使其可以运行在 OpenHarmony，并沿用其现有用法和特性。 (📄 Apache-2.0 • ⭐ 3 likes • 📦 v2.0.4)
+- **[@hons/utils](https://ohpm.openharmony.cn/#/cn/detail/%40hons%2Futils)** - 包含纯TS库以及UI组件,用于处理日常逻辑，例如倒计时功能、价格格式化处理, 如 具有下划线并且可滑动的Tab、浮窗PopupModal支持滑入滑和淡入淡出、下拉上拉菜单DropdownMenu、导航点、全屏组件FullPageWithNavBar、TipMenu (📄 MIT • ⭐ 2 likes • 📦 v1.0.13)
 - **[@hw-agconnect/auth-component](https://ohpm.openharmony.cn/#/cn/detail/%40hw-agconnect%2Fauth-component)** - AppGalleryConnectSDK auth-component for OpenHarmony (📄 ISC • 📦 v1.0.1)
 - **[@open_9527/dialog](https://ohpm.openharmony.cn/#/cn/detail/%40open_9527%2Fdialog)** - 鸿蒙高度自定义弹窗,使用ComponentContent和promptAction进行封装，非CustomDialog,任何地方都可以弹出,高度解偶 (📄 Apache-2.0 • ⭐ 7 likes • 📦 v2.1.1)
 - **[@gancao/hptdialog](https://ohpm.openharmony.cn/#/cn/detail/%40gancao%2Fhptdialog)** - 一款极简的弹框库，简化了其调用方式（在任何地方只需要调用`show()`方法即可），帮助开发者快速实现自定义的弹框效果，目前包含
@@ -137,8 +138,8 @@ PJTabBar is a component used to replace system Tabs, supporting indicator linkag
 - **[@zhongrui/pull_to_refresh_v2](https://ohpm.openharmony.cn/#/cn/detail/%40zhongrui%2Fpull_to_refresh_v2)** - PullToRefresh 实现垂直列表下拉刷新,上拉加载，横向列表左拉刷新，右拉加载 (📄 MIT • ⭐ 6 likes • 📦 v2.0.6)
 - **[@abner/lithe_refresh](https://ohpm.openharmony.cn/#/cn/detail/%40abner%2Flithe_refresh)** - HarmonyOsLitheRefresh是一个轻盈的上拉下拉刷新组件，无任何耦合，支持ListView、GridView，WaterFlow，支持各种任意组件刷新 (📄 Apache-2.0 • ⭐ 4 likes • 📦 v1.0.3)
 - **[hippy](https://ohpm.openharmony.cn/#/cn/detail/hippy)** - Hippy is a cross-platform development framework. (📄 Apache-2.0 • ⭐ 1 likes • 📦 v3.3.1)
-- **[@free/dialog](https://ohpm.openharmony.cn/#/cn/detail/%40free%2Fdialog)** - 这是一个鸿蒙全局弹窗：alert 提示信息、open 中间弹窗、sheet 底部弹窗、picker 选择器弹窗、tel 打电话弹窗、input 输入框弹窗、time 时间选择弹窗、date 日期选择弹窗、calendar 日历选择弹窗、custom 自定义弹窗 (📄 MIT • ⭐ 5 likes • 📦 v1.0.4)
 - **[@f-fjs/intl-unified-numberformat](https://ohpm.openharmony.cn/#/cn/detail/%40f-fjs%2Fintl-unified-numberformat)** - Ponyfill for intl unified numberformat proposal (📄 MIT • 📦 v3.2.1)
+- **[@free/dialog](https://ohpm.openharmony.cn/#/cn/detail/%40free%2Fdialog)** - 这是一个鸿蒙全局弹窗：alert 提示信息、open 中间弹窗、sheet 底部弹窗、picker 选择器弹窗、tel 打电话弹窗、input 输入框弹窗、time 时间选择弹窗、date 日期选择弹窗、calendar 日历选择弹窗、custom 自定义弹窗 (📄 MIT • ⭐ 5 likes • 📦 v1.0.4)
 - **[mooney_ui](https://ohpm.openharmony.cn/#/cn/detail/mooney_ui)** - 方便快速搭建鸿蒙页面、布局提供的UI库。包括主题切换、安全区、信息展示反馈等多个组件。 (📄 Apache-2.0 • ⭐ 10 likes • 📦 v1.2.7)
 - **[@changjing/vod](https://ohpm.openharmony.cn/#/cn/detail/%40changjing%2Fvod)** - changjing vod play sdk component (📄 Apache-2.0 • 📦 v1.2.4)
 - **[@ohos/textlayoutbuilder](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Ftextlayoutbuilder)** - 一个可定制任意文字字体样式,文字颜色,大小,间距等,文本构建工具,自定义所需风格 (📄 Apache License 2.0 • ⭐ 3 likes • 📦 v2.0.3)
@@ -147,8 +148,8 @@ PJTabBar is a component used to replace system Tabs, supporting indicator linkag
 - **[@hzw/zrefresh](https://ohpm.openharmony.cn/#/cn/detail/%40hzw%2Fzrefresh)** - 这是一个功能强大的下拉刷新和加载更多组件 (📄 Apache-2.0 • ⭐ 2 likes • 📦 v1.0.8)
 - **[@changwei/chatui](https://ohpm.openharmony.cn/#/cn/detail/%40changwei%2Fchatui)** - HarmonyOS原生聊天UI库, ArkTS编写，基础组件实现,UI可定制,支持Markdown格式消息。支持大量消息懒加载绑定,性能卓越。 (📄 MIT • ⭐ 6 likes • 📦 v0.0.6)
 - **[@ohos/smartrefreshlayout](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fsmartrefreshlayout)** - 带有动画的上拉刷新BezierRadar样式下拉刷新(BezierRadar样式、BezierCircle样式、FlyRefresh样式、WaterDrop样式等）和下拉加载的滑动列表库. (📄 Apache-2.0 • ⭐ 1 likes • 📦 v2.1.0)
-- **[@yung/uialertview](https://ohpm.openharmony.cn/#/cn/detail/%40yung%2Fuialertview)** - An ios style alert component ， suppose to build app with iOS style. (📄 MIT • 📦 v1.0.11)
 - **[@free/loading](https://ohpm.openharmony.cn/#/cn/detail/%40free%2Floading)** - 这是轻量级一个加载框，可以在任意页面使用这个弹窗，可以通过调整传入的参数改变加载的状态。 (📄 MIT • ⭐ 5 likes • 📦 v1.0.3)
+- **[@yung/uialertview](https://ohpm.openharmony.cn/#/cn/detail/%40yung%2Fuialertview)** - An ios style alert component ， suppose to build app with iOS style. (📄 MIT • 📦 v1.0.11)
 - **[@xqw/sliding-tabs](https://ohpm.openharmony.cn/#/cn/detail/%40xqw%2Fsliding-tabs)** - 支持状态管理V1&V2的Tabs组件,更灵活的布局和更丝滑的Tab切换,支持自定义TabItem和TabIndicator (📄 Apache-2.0 • ⭐ 3 likes • 📦 v1.1.1)
 - **[@maple/navigationbarview](https://ohpm.openharmony.cn/#/cn/detail/%40maple%2Fnavigationbarview)** - NavigationBarView是ArkTS上的UI自定义导航栏组件，内置了导航栏的返回按钮、标题、搜索入口、右侧按钮等常用微功能。 (📄 Apache-2.0 • ⭐ 44 likes • 📦 v1.0.5)
 - **[@smarthane/drawer-layout](https://ohpm.openharmony.cn/#/cn/detail/%40smarthane%2Fdrawer-layout)** - DrawerLayout是基于HarmonyOS，ArkTS语言封装的抽屉（侧边栏）布局组件。提供左右侧边栏可以显示和隐藏的侧边栏布局组件，通过子组件定义侧边栏和内容。 (📄 Apache-2.0 • ⭐ 7 likes • 📦 v1.0.4)
@@ -169,10 +170,10 @@ PJTabBar is a component used to replace system Tabs, supporting indicator linkag
 - **[@vicky/vhkit](https://ohpm.openharmony.cn/#/cn/detail/%40vicky%2Fvhkit)** - 一款vant风格的鸿蒙UI组件库 (📄 Apache-2.0 • ⭐ 3 likes • 📦 v2.2.1)
 - **[@yidun/quicklogin](https://ohpm.openharmony.cn/#/cn/detail/%40yidun%2Fquicklogin)** - 短信验证码升级方案。直连三大运营商，一步校验手机号与当前SIM卡号一致性。优化注册/登录/支付等场景验证流程，有效提升拉新转化率和用户留存率。不做数据加工与号码精准营销，保护用户隐私 (📄 Apache-2.0 • ⭐ 3 likes • 📦 v2.1.2)
 - **[@hw-agconnect/ui-slider](https://ohpm.openharmony.cn/#/cn/detail/%40hw-agconnect%2Fui-slider)** - ui-slider是基于open harmony基础组件开发的滑块组件。包括单滑块、双滑块和没有滑块三种显示效果，支持跟随系统语言或特定语言类型。 (📄 ISC • ⭐ 1 likes • 📦 v1.0.2)
-- **[@ibestservices/ucharts](https://ohpm.openharmony.cn/#/cn/detail/%40ibestservices%2Fucharts)** - 一款基于TypeScript的高性能跨平台数据可视化图表库，支持H5、小程序、鸿蒙等不同设备平台。 (📄 Apache-2.0 • ⭐ 22 likes • 📦 v1.0.6)
+- **[@ibestservices/ucharts](https://ohpm.openharmony.cn/#/cn/detail/%40ibestservices%2Fucharts)** - 一款基于TypeScript的高性能跨平台数据可视化图表库，支持H5、小程序、鸿蒙等不同设备平台。 (📄 Apache-2.0 • ⭐ 22 likes • 📦 v1.0.7)
 - **[@nutpi/idcard](https://ohpm.openharmony.cn/#/cn/detail/%40nutpi%2Fidcard)** - 中国居民身份证,港澳台居住证,外国人永久居留身份证解析三方库，适配HarmonyOS，OpenHarmony (📄 MIT • ⭐ 2 likes • 📦 v1.0.4)
-- **[@bianma784533/navigationbarview](https://ohpm.openharmony.cn/#/cn/detail/%40bianma784533%2Fnavigationbarview)** - navigationbarview NEXT版是ArkTS上的UI自定义导航栏组件，内置了导航栏的返回按钮、标题、搜索入口、右侧按钮等常用微功能。适配Next (📄 Apache-2.0 • ⭐ 6 likes • 📦 v1.0.4)
 - **[@keke/color-picker](https://ohpm.openharmony.cn/#/cn/detail/%40keke%2Fcolor-picker)** - color picker，颜色选择器组件。 (📄 MIT • ⭐ 3 likes • 📦 v1.0.4)
+- **[@bianma784533/navigationbarview](https://ohpm.openharmony.cn/#/cn/detail/%40bianma784533%2Fnavigationbarview)** - navigationbarview NEXT版是ArkTS上的UI自定义导航栏组件，内置了导航栏的返回按钮、标题、搜索入口、右侧按钮等常用微功能。适配Next (📄 Apache-2.0 • ⭐ 6 likes • 📦 v1.0.4)
 - **[@like/lk-ui](https://ohpm.openharmony.cn/#/cn/detail/%40like%2Flk-ui)** - 一个基于 arkUI 二次封装的UI组件，帮助开发者快速构建鸿蒙应用。 (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.0.4)
 - **[@candies/loading_more_list](https://ohpm.openharmony.cn/#/cn/detail/%40candies%2Floading_more_list)** - loading_more_list 是一款 ArkUI 插件，支持列表，表格，瀑布流等上拉加载更多效果。 (📄 Apache-2.0 • ⭐ 8 likes • 📦 v1.0.3)
 - **[@hw-agconnect/ui-countdown](https://ohpm.openharmony.cn/#/cn/detail/%40hw-agconnect%2Fui-countdown)** - ui-countdown是基于open harmony基础组件开发的倒计时组件，支持动态赋值、自由控制开始暂停等功能。 (📄 ISC • 📦 v1.0.0)
@@ -182,76 +183,76 @@ PJTabBar is a component used to replace system Tabs, supporting indicator linkag
 - **[@liuming/echarts](https://ohpm.openharmony.cn/#/cn/detail/%40liuming%2Fecharts)** - 一个简单好用的echarts封装 (📄 Apache-2.0 • ⭐ 4 likes • 📦 v1.0.0)
 - **[@kingtous/uuid](https://ohpm.openharmony.cn/#/cn/detail/%40kingtous%2Fuuid)** - UUID常用工具库 (📄 MIT • ⭐ 1 likes • 📦 v1.0.0)
 - **[@itrain/wu-ui](https://ohpm.openharmony.cn/#/cn/detail/%40itrain%2Fwu-ui)** - 一套简单易用的基于 HarmonyOS NEXT API12 的开源 UI 组件库 (📄 MIT • ⭐ 3 likes • 📦 v1.3.0)
-- **[@ohos/material-dialogs](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fmaterial-dialogs)** - A beautiful, fluid, and extensible dialogs (📄 Apache License 2.0 • 📦 v2.0.3)
 - **[@hw-agconnect/ui-file-picker](https://ohpm.openharmony.cn/#/cn/detail/%40hw-agconnect%2Fui-file-picker)** - ui-file-picker是基于open harmony基础picker组件开发的文件选择上传组件，支持图片、视频、音频、压缩包等所有文件类型的选取上传，以及支持启动自动上传到云存储。 (📄 ISC • ⭐ 2 likes • 📦 v1.0.1)
+- **[@ohos/material-dialogs](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fmaterial-dialogs)** - A beautiful, fluid, and extensible dialogs (📄 Apache License 2.0 • 📦 v2.0.3)
 - **[@ohos-cases/listexchange](https://ohpm.openharmony.cn/#/cn/detail/%40ohos-cases%2Flistexchange)** - 本案例通过List组件、组合手势GestureGroup、swipeAction属性以及attributeModifier属性等实现了列表项的交换和删除。. (📄 Apache License 2.0 • 📦 v1.0.2)
 - **[@ohos/xmpp_middleware](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fxmpp_middleware)** - 用于@xmpp/client和@xmpp/component的中间件库 (📄 ISC License • 📦 v1.0.2)
-- **[@tinet/ticloud_rtc](https://ohpm.openharmony.cn/#/cn/detail/%40tinet%2Fticloud_rtc)** - AICC TiCloudRTC 外呼鸿蒙Next版本SDK（不含UI） (📄 MIT License • 📦 v1.0.3)
-- **[@hw-agconnect/ui-keyboard](https://ohpm.openharmony.cn/#/cn/detail/%40hw-agconnect%2Fui-keyboard)** - ui-keyboard是基于open harmony基础组件开发的车牌号输入组件，支持车牌号输入，支持通过回调事件获取所输入车牌号等功能。 (📄 ISC • 📦 v1.0.2)
 - **[@peng/hm_dialog](https://ohpm.openharmony.cn/#/cn/detail/%40peng%2Fhm_dialog)** - 一款简单易用、多功能的弹窗库，支持标准弹窗、隐私弹窗、分享、Toast轻提示、Loading加载圈、Progress进度条、HUD状态提示、自定义等样式，支持局部配置和全局配置，每种样式配置隔离互补，灵活适应不同场景的不同样式，可满足项目的大部分弹窗功能使用。 (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.2.3)
-- **[@gijela/pullrefreshload](https://ohpm.openharmony.cn/#/cn/detail/%40gijela%2Fpullrefreshload)** - pullrefreshload 是一个上拉加载、下拉刷新通用基础组件。不过度封装业务逻辑，提供最基础的上拉下拉回调钩子，支持自定义刷新文案、加载文案，支持自定义刷新UI、加载UI (📄 MIT • ⭐ 1 likes • 📦 v1.0.3)
+- **[@tinet/ticloud_rtc](https://ohpm.openharmony.cn/#/cn/detail/%40tinet%2Fticloud_rtc)** - AICC TiCloudRTC 外呼鸿蒙Next版本SDK（不含UI） (📄 MIT License • 📦 v1.0.3)
 - **[@cangjie-tpc/formula](https://ohpm.openharmony.cn/#/cn/detail/%40cangjie-tpc%2Fformula)** - formula 主要目的是显示用 LaTeX 编写的数学公式。 (📄 MIT • ⭐ 1 likes • 📦 v1.1.7)
+- **[@hw-agconnect/ui-keyboard](https://ohpm.openharmony.cn/#/cn/detail/%40hw-agconnect%2Fui-keyboard)** - ui-keyboard是基于open harmony基础组件开发的车牌号输入组件，支持车牌号输入，支持通过回调事件获取所输入车牌号等功能。 (📄 ISC • 📦 v1.0.2)
+- **[@gijela/pullrefreshload](https://ohpm.openharmony.cn/#/cn/detail/%40gijela%2Fpullrefreshload)** - pullrefreshload 是一个上拉加载、下拉刷新通用基础组件。不过度封装业务逻辑，提供最基础的上拉下拉回调钩子，支持自定义刷新文案、加载文案，支持自定义刷新UI、加载UI (📄 MIT • ⭐ 1 likes • 📦 v1.0.3)
 - **[@geekapp/libgeekappui](https://ohpm.openharmony.cn/#/cn/detail/%40geekapp%2Flibgeekappui)** - 提供给开发者实用的工具类，便于快速开发，便于移植，便于新手上手开发，可以加快学习鸿蒙的脚步，为开发者提供便利 (📄 Apache-2.0 • ⭐ 1 likes • 📦 v3.0.4)
 - **[@chuck/status](https://ohpm.openharmony.cn/#/cn/detail/%40chuck%2Fstatus)** - status内含页面状态机管理。loading、错误页面，无内容等页面状态可自由切换。 (📄 Apache-2.0 • ⭐ 2 likes • 📦 v2.0.2)
 - **[@candies/like_button](https://ohpm.openharmony.cn/#/cn/detail/%40candies%2Flike_button)** - Like Button 支持推特点赞效果和点赞数量动画的 ArkUI 库. (📄 Apache-2.0 • ⭐ 3 likes • 📦 v1.0.3)
-- **[@wolfx/echarts_adaptor](https://ohpm.openharmony.cn/#/cn/detail/%40wolfx%2Fecharts_adaptor)** - 将echarts.js包装，让Web开发者能够使用熟悉的库在鸿蒙应用上画图表。 (📄 Apache-2.0 • ⭐ 2 likes • 📦 v1.1.1)
 - **[@manco/quickvision](https://ohpm.openharmony.cn/#/cn/detail/%40manco%2Fquickvision)** - 封装场景化视觉服务VisionKit，包含interactiveLiveness（人脸活体检测）、CardRecognition（卡证识别，包含身份证、银行卡、护照、驾驶证、行驶证），方便开发者快速集成。 (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.0.2)
+- **[@wolfx/echarts_adaptor](https://ohpm.openharmony.cn/#/cn/detail/%40wolfx%2Fecharts_adaptor)** - 将echarts.js包装，让Web开发者能够使用熟悉的库在鸿蒙应用上画图表。 (📄 Apache-2.0 • ⭐ 2 likes • 📦 v1.1.1)
 - **[@nutpi/privacy_dialog](https://ohpm.openharmony.cn/#/cn/detail/%40nutpi%2Fprivacy_dialog)** - 隐私协议三方库，隐私协议显示在一个Webview组件页面上，支持本地html文件和http或https返回html文件 (📄 Apache-2.0 • ⭐ 4 likes • 📦 v1.0.2)
 - **[@hcs/biu-markdown](https://ohpm.openharmony.cn/#/cn/detail/%40hcs%2Fbiu-markdown)** - biu-markdown 是一款构建于鸿蒙之上基于ArkTS+ArkUI实现的原生 Markdown 解析库，支持自定义主题，可方便快捷实现在鸿蒙设备上进行markdown的解析。 (📄 MIT • ⭐ 1 likes • 📦 v1.0.2)
-- **[@bitfun/protobuf_ets](https://ohpm.openharmony.cn/#/cn/detail/%40bitfun%2Fprotobuf_ets)** - BitFun_ProtoTransformer runtime. (📄 Apache-2.0 • 📦 v1.0.2)
 - **[@lynx/lynx](https://ohpm.openharmony.cn/#/cn/detail/%40lynx%2Flynx)** - A Powerful Cross-Platform Framework that builds native Apps with Web technologies (📄 Apache-2.0 • 📦 v3.4.0)
+- **[@bitfun/protobuf_ets](https://ohpm.openharmony.cn/#/cn/detail/%40bitfun%2Fprotobuf_ets)** - BitFun_ProtoTransformer runtime. (📄 Apache-2.0 • 📦 v1.0.2)
+- **[@gancao/hptcolorpicker](https://ohpm.openharmony.cn/#/cn/detail/%40gancao%2Fhptcolorpicker)** - 多种颜色选择器，可以一起使用，也可以分开使用，推荐fork后按需求修改 (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.0.2)
 - **[@gulang/hms-com-style](https://ohpm.openharmony.cn/#/cn/detail/%40gulang%2Fhms-com-style)** - 一款基于组件通用属性设置的式样库 (📄 Apache-2.0 • 📦 v1.0.3)
 - **[@ohos/xmpp_session_establishment](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fxmpp_session_establishment)** - 用于处理服务器发送的特性，并根据这些特性来决定如何建立会话 (📄 ISC License • 📦 v1.0.2)
 - **[@candies/pull_to_refresh](https://ohpm.openharmony.cn/#/cn/detail/%40candies%2Fpull_to_refresh)** - Harmony plugin for building pull to refresh effects with PullToRefresh quickly. (📄 Apache-2.0 • ⭐ 11 likes • 📦 v1.0.1)
+- **[@hw-agconnect/ui-load-more](https://ohpm.openharmony.cn/#/cn/detail/%40hw-agconnect%2Fui-load-more)** - ui-load-more是基于open harmony基础组件开发的加载更多组件。包括加载前、加载中和没有数据三种状态，支持跟随系统语言或特定语言类型。 (📄 ISC • 📦 v1.0.1)
 - **[@linke/ui-color-picker](https://ohpm.openharmony.cn/#/cn/detail/%40linke%2Fui-color-picker)** - A color picker UI component. (📄 Apache-2.0 • ⭐ 2 likes • 📦 v1.0.4)
+- **[@hw-agconnect/ui-swiper](https://ohpm.openharmony.cn/#/cn/detail/%40hw-agconnect%2Fui-swiper)** - ui-swiper是基于open harmony基础组件开发的缩放轮播图组件，支持滑动过程中缩放图片、自动轮播等功能。 (📄 ISC • ⭐ 2 likes • 📦 v1.0.0)
 - **[@ohos-cases/shortvideo](https://ohpm.openharmony.cn/#/cn/detail/%40ohos-cases%2Fshortvideo)** - 短视频切换在应用开发中是一种常见场景，上下滑动可以切换视频，十分方便。本模块基于Swiper组件和Video组件实现短视频切换功能。评论区弹窗请参考[评论组件案例实现](./README_COMMENT.md)。 (📄 Apache License 2.0 • ⭐ 1 likes • 📦 v1.0.2)
 - **[@cornflower/tabslayout](https://ohpm.openharmony.cn/#/cn/detail/%40cornflower%2Ftabslayout)** - tabslayout 是一个UI组件库,主要用于导航的tabItem,可配置图片,文字,等基础属性 (📄 Apache-2.0 • ⭐ 5 likes • 📦 v1.0.2)
-- **[@hw-agconnect/ui-swiper](https://ohpm.openharmony.cn/#/cn/detail/%40hw-agconnect%2Fui-swiper)** - ui-swiper是基于open harmony基础组件开发的缩放轮播图组件，支持滑动过程中缩放图片、自动轮播等功能。 (📄 ISC • ⭐ 2 likes • 📦 v1.0.0)
-- **[@gancao/hptcolorpicker](https://ohpm.openharmony.cn/#/cn/detail/%40gancao%2Fhptcolorpicker)** - 多种颜色选择器，可以一起使用，也可以分开使用，推荐fork后按需求修改 (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.0.2)
+- **[@hw-agconnect/ui-number-box](https://ohpm.openharmony.cn/#/cn/detail/%40hw-agconnect%2Fui-number-box)** - ui-number-box是基于open harmony基础组件开发的带加减按钮的数字输入框组件，支持设置最大值、最小值、步长等。 (📄 ISC • 📦 v1.0.2)
 - **[@ohos-cases/votingcomponent](https://ohpm.openharmony.cn/#/cn/detail/%40ohos-cases%2Fvotingcomponent)** - 本示例介绍使用绘制组件中的Polygon组件配合使用显式动画以及borderRadius实现投票pk组件。
  (📄 Apache License 2.0 • 📦 v1.0.2)
 - **[@flk/strip-tab](https://ohpm.openharmony.cn/#/cn/detail/%40flk%2Fstrip-tab)** - StripTabLayout是一个封装了指示器tab，优化了系统tab，自定义tabBar，支持滑动渐变动画，选中tab自动居中等功能。 (📄 Apache-2.0 • 📦 v2.0.0)
-- **[@hw-agconnect/ui-number-box](https://ohpm.openharmony.cn/#/cn/detail/%40hw-agconnect%2Fui-number-box)** - ui-number-box是基于open harmony基础组件开发的带加减按钮的数字输入框组件，支持设置最大值、最小值、步长等。 (📄 ISC • 📦 v1.0.2)
-- **[@hw-agconnect/ui-load-more](https://ohpm.openharmony.cn/#/cn/detail/%40hw-agconnect%2Fui-load-more)** - ui-load-more是基于open harmony基础组件开发的加载更多组件。包括加载前、加载中和没有数据三种状态，支持跟随系统语言或特定语言类型。 (📄 ISC • 📦 v1.0.1)
 - **[ttie_input](https://ohpm.openharmony.cn/#/cn/detail/ttie_input)** - 为多功能输入框，可进行验证码、密码的输入. (📄 Apache-2.0 • 📦 v1.0.2)
-- **[@aispeech/duiasr](https://ohpm.openharmony.cn/#/cn/detail/%40aispeech%2Fduiasr)** - 基于苏州思必驰科技股份有限公司研发的在线识别引擎，识别语音内容，转化为相应的文字 (📄 MIT • 📦 v1.0.6)
 - **[@ohos/swipelayout](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fswipelayout)** - Support the sliding layout in the up, down, left and right directions. (📄 MIT License • 📦 v2.0.2)
-- **[@xsqd/component](https://ohpm.openharmony.cn/#/cn/detail/%40xsqd%2Fcomponent)** - 写实清单应用相关组件库，日历、下拉刷新、时间工具、按钮、输入框等 (📄 proprietary • ⭐ 1 likes • 📦 v1.1.1)
-- **[@magicnumber/mnuikit](https://ohpm.openharmony.cn/#/cn/detail/%40magicnumber%2Fmnuikit)** - MNUIKit is a HarmonyOS development UI library launched by MagicNumber, which provides rich UI components and constant configurations, aiming to simplify the UI design process of HarmonyOS development. (📄 MIT • ⭐ 1 likes • 📦 v1.0.2)
+- **[@aispeech/duiasr](https://ohpm.openharmony.cn/#/cn/detail/%40aispeech%2Fduiasr)** - 基于苏州思必驰科技股份有限公司研发的在线识别引擎，识别语音内容，转化为相应的文字 (📄 MIT • 📦 v1.0.6)
 - **[@wgw/table](https://ohpm.openharmony.cn/#/cn/detail/%40wgw%2Ftable)** - 轻量级的表格组件 (📄 Apache-2.0 • 📦 v1.0.1)
+- **[@xsqd/component](https://ohpm.openharmony.cn/#/cn/detail/%40xsqd%2Fcomponent)** - 写实清单应用相关组件库，日历、下拉刷新、时间工具、按钮、输入框等 (📄 proprietary • ⭐ 1 likes • 📦 v1.1.1)
 - **[@nutpi/calendar-tool](https://ohpm.openharmony.cn/#/cn/detail/%40nutpi%2Fcalendar-tool)** - Chinese lunar calendar (📄 Apache • ⭐ 1 likes • 📦 v1.0.0)
+- **[@magicnumber/mnuikit](https://ohpm.openharmony.cn/#/cn/detail/%40magicnumber%2Fmnuikit)** - MNUIKit is a HarmonyOS development UI library launched by MagicNumber, which provides rich UI components and constant configurations, aiming to simplify the UI design process of HarmonyOS development. (📄 MIT • ⭐ 1 likes • 📦 v1.0.2)
 - **[punycode](https://ohpm.openharmony.cn/#/cn/detail/punycode)** - A robust Punycode converter that fully complies to RFC 3492 and RFC 5891, and works on nearly all JavaScript platforms. (📄 MIT • 📦 v1.2.0)
-- **[@hong/harmonystylesdialog](https://ohpm.openharmony.cn/#/cn/detail/%40hong%2Fharmonystylesdialog)** - 提供显示alert、sheet的弹窗。特点：可自定义弹窗内容，以及设置相关属性 (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.0.2)
 - **[@ohos-cases/calendarswitch](https://ohpm.openharmony.cn/#/cn/detail/%40ohos-cases%2Fcalendarswitch)** - 本示例介绍使用Swiper实现自定义日历年视图、月视图、周视图左右滑动切换年、月、周的效果。同时使用Tabs实现年视图、月视图、周视图之间的切换效果。还有使用Calendar Kit日历服务实现日程提醒的功能. (📄 Apache License 2.0 • ⭐ 1 likes • 📦 v1.0.1)
-- **[@lionmobo/qsad_banner](https://ohpm.openharmony.cn/#/cn/detail/%40lionmobo%2Fqsad_banner)** - 青山横幅广告SDK——LionMoBo Banner Advertising SDK (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.0.2)
 - **[hi-signature](https://ohpm.openharmony.cn/#/cn/detail/hi-signature)** - 签名UI组件 (📄 MIT • ⭐ 1 likes • 📦 v1.0.0)
+- **[@hong/harmonystylesdialog](https://ohpm.openharmony.cn/#/cn/detail/%40hong%2Fharmonystylesdialog)** - 提供显示alert、sheet的弹窗。特点：可自定义弹窗内容，以及设置相关属性 (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.0.2)
+- **[@lionmobo/qsad_banner](https://ohpm.openharmony.cn/#/cn/detail/%40lionmobo%2Fqsad_banner)** - 青山横幅广告SDK——LionMoBo Banner Advertising SDK (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.0.2)
+- **[antd_dialog](https://ohpm.openharmony.cn/#/cn/detail/antd_dialog)** - 一款简单易用，轻量级零侵入，可高度自定义的弹框 (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.0.6)
 - **[@ohadss/adaptive_dialog](https://ohpm.openharmony.cn/#/cn/detail/%40ohadss%2Fadaptive_dialog)** - 一款极简的自适应跟手弹窗库，提升大屏幕弹窗的交互体验，支持根据不同的屏幕宽度设置不同的弹窗位置（居中、跟手等） (📄 Apache-2.0 • 📦 v1.0.1)
-- **[antd_dialog](https://ohpm.openharmony.cn/#/cn/detail/antd_dialog)** - 一款简单易用，轻量级零侵入，可高度自定义的弹框 (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.0.5)
+- **[@xsqd/calendar](https://ohpm.openharmony.cn/#/cn/detail/%40xsqd%2Fcalendar)** - 日历相关的组件库，内含日历组件、时间相关的api。 (📄 proprietary • ⭐ 3 likes • 📦 v1.0.1)
+- **[@hw-agconnect/ui-category](https://ohpm.openharmony.cn/#/cn/detail/%40hw-agconnect%2Fui-category)** - ui-category是基于open harmony基础组件开发的分类组件，支持单级分类、多级分类。开发者可根据类别，在多种容器内分类展示，分类筛选内容。 (📄 ISC • ⭐ 2 likes • 📦 v1.0.1)
 - **[@work/refresh](https://ohpm.openharmony.cn/#/cn/detail/%40work%2Frefresh)** - Refresh，自定义刷新加载组件、扩装封装系统Refresh (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.0.1)
 - **[@wuyo/wuyotable](https://ohpm.openharmony.cn/#/cn/detail/%40wuyo%2Fwuyotable)** - 轻量化即插即用表格渲染组件，支持多行、多列固定，二级三级表头，下滑右滑滚动查看~ (📄 Apache-2.0 • ⭐ 2 likes • 📦 v1.0.0)
+- **[@ohos/dd-plist](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fdd-plist)** - 提供一个解析XML、ASCII、二进制类型的文件的属性列表的工具库 (📄 MIT License • 📦 v2.0.2)
 - **[@serein/mycalendar](https://ohpm.openharmony.cn/#/cn/detail/%40serein%2Fmycalendar)** - calendar component (📄 Apache-2.0 • 📦 v1.0.2)
 - **[@hw-agconnect/ui-video](https://ohpm.openharmony.cn/#/cn/detail/%40hw-agconnect%2Fui-video)** - ui-video是基于open harmony基础组件开发的视频组件，支持横屏显示，以及音量、亮度和进度调节。 (📄 ISC • ⭐ 2 likes • 📦 v1.0.0)
 - **[rapid_kit](https://ohpm.openharmony.cn/#/cn/detail/rapid_kit)** - Real-time Audio-visual Platform for IoT Devices. (📄 Apache-2.0 • 📦 v0.0.3)
 - **[@rv/markdown-preview](https://ohpm.openharmony.cn/#/cn/detail/%40rv%2Fmarkdown-preview)** - MarkdownPreview是基于ArkUI的一款轻量级Markdown预览工具，支持设置样式，自定义语法解析，自定义代码高亮规则等 (📄 Apache-2.0 • ⭐ 5 likes • 📦 v1.0.1)
-- **[@xsqd/calendar](https://ohpm.openharmony.cn/#/cn/detail/%40xsqd%2Fcalendar)** - 日历相关的组件库，内含日历组件、时间相关的api。 (📄 proprietary • ⭐ 3 likes • 📦 v1.0.1)
 - **[refresh_pulltorefresh](https://ohpm.openharmony.cn/#/cn/detail/refresh_pulltorefresh)** - Changes based on ohos/pulltorefresh (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.0.2)
-- **[@hw-agconnect/ui-category](https://ohpm.openharmony.cn/#/cn/detail/%40hw-agconnect%2Fui-category)** - ui-category是基于open harmony基础组件开发的分类组件，支持单级分类、多级分类。开发者可根据类别，在多种容器内分类展示，分类筛选内容。 (📄 ISC • ⭐ 2 likes • 📦 v1.0.1)
 - **[@bbb3/loadrefresh](https://ohpm.openharmony.cn/#/cn/detail/%40bbb3%2Floadrefresh)** - 上拉加载和下拉刷新 (📄 MIT • 📦 v1.0.1)
-- **[@ohos/dd-plist](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fdd-plist)** - 提供一个解析XML、ASCII、二进制类型的文件的属性列表的工具库 (📄 MIT License • 📦 v2.0.2)
+- **[@work/hud](https://ohpm.openharmony.cn/#/cn/detail/%40work%2Fhud)** - HUD：弹窗组件；Dialog，Loading、Toast，灵活弹窗组件，封装openCustomDialog、融合封装系统弹窗 (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.0.3)
 - **[@sj/tabbar](https://ohpm.openharmony.cn/#/cn/detail/%40sj%2Ftabbar)** - 一个灵活、可定制的标签栏组件，适用于频道页、选项切换、与 `Tabs` 联动等场景。 (📄 MIT • ⭐ 3 likes • 📦 v1.0.5)
 - **[@humor/dialog](https://ohpm.openharmony.cn/#/cn/detail/%40humor%2Fdialog)** - 丰富便捷的Toast、loading等使用 (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.0.2)
-- **[@work/hud](https://ohpm.openharmony.cn/#/cn/detail/%40work%2Fhud)** - HUD：自定义弹窗Dialog，Loading、Toast，灵活弹窗组件，封装openCustomDialog、融合封装系统弹窗 (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.0.2)
 - **[@tulongchao/gridview](https://ohpm.openharmony.cn/#/cn/detail/%40tulongchao%2Fgridview)** - 栅格控件实现的GridView (📄 Apache-2.0 • ⭐ 4 likes • 📦 v1.0.2)
 - **[silk_ui](https://ohpm.openharmony.cn/#/cn/detail/silk_ui)** - 自定义ui组件库，使用参照vant4的使用方式 (📄 Apache-2.0 • ⭐ 2 likes • 📦 v1.1.0)
+- **[@youlanjihua/yloadinghud](https://ohpm.openharmony.cn/#/cn/detail/%40youlanjihua%2Fyloadinghud)** - 一行代码实现所有的加载动画和提示弹窗 (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.0.6)
 - **[refreshtool](https://ohpm.openharmony.cn/#/cn/detail/refreshtool)** - 支持上拉加载和下拉刷新 (📄 Apache-2.0 • ⭐ 2 likes • 📦 v1.0.2)
 - **[@sj/slider](https://ohpm.openharmony.cn/#/cn/detail/%40sj%2Fslider)** - 一个滑动组件, 支持水平滑动和垂直滑动, 提供自定义轨道、轨迹、滑块和标记点的能力. 适用于音频播放、视频进度、参数调节等场景. (📄 MIT • 📦 v1.0.3)
-- **[@youlanjihua/yloadinghud](https://ohpm.openharmony.cn/#/cn/detail/%40youlanjihua%2Fyloadinghud)** - 一行代码实现所有的加载动画和提示弹窗 (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.0.6)
 - **[@hilondev/any_format](https://ohpm.openharmony.cn/#/cn/detail/%40hilondev%2Fany_format)** - 常见的数据格式化，如日期格式化、金额格式化、数字格式化、敏感数据脱敏等 (📄 Apache-2.0 • 📦 v1.0.0)
+- **[@hw-agconnect/ui-scale-view](https://ohpm.openharmony.cn/#/cn/detail/%40hw-agconnect%2Fui-scale-view)** - ui-scale-view是基于open harmony基础组件开发的可横竖滑动缩放容器组件，支持传入内容水平、垂直方向的滑动及缩小、放大等功能。 (📄 ISC • ⭐ 1 likes • 📦 v1.0.0)
 - **[@ohos-cases/customtabbar](https://ohpm.openharmony.cn/#/cn/detail/%40ohos-cases%2Fcustomtabbar)** - TabBar在大部分的APP当中都能够使用到，不同的APP可能存在不一样的TabBar样式，Tab组件自带的TabBar属性对于部分效果无法满足，如页签中间显示一圈圆弧外轮廓等，因此我们需要去自己定义一个TabBar页签来满足开发的需要. (📄 Apache License 2.0 • ⭐ 1 likes • 📦 v1.0.1)
 - **[indexlistview](https://ohpm.openharmony.cn/#/cn/detail/indexlistview)** - indexlistview是一款OpenHarmony环境下的带索引的城市选择组件 (📄 Apache-2.0 • 📦 v1.0.1)
 - **[@ohos/spine](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fspine)** - 2D skeletal animation runtimes for Spine. (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.0.0)
 - **[rich_text_vista](https://ohpm.openharmony.cn/#/cn/detail/rich_text_vista)** - RichTextVista is a high-performance, extensible rich text component designed for HarmonyOS applications, supporting diverse rich text styling capabilities. Named for its ability to render content with panoramic clarity, RichTextVista ensures every detail of the text shines in harmony (HarmonyOS). (📄 MIT • ⭐ 5 likes • 📦 v1.0.0)
-- **[@hw-agconnect/ui-scale-view](https://ohpm.openharmony.cn/#/cn/detail/%40hw-agconnect%2Fui-scale-view)** - ui-scale-view是基于open harmony基础组件开发的可横竖滑动缩放容器组件，支持传入内容水平、垂直方向的滑动及缩小、放大等功能。 (📄 ISC • ⭐ 1 likes • 📦 v1.0.0)
 - **[@zj/expandablelist](https://ohpm.openharmony.cn/#/cn/detail/%40zj%2Fexpandablelist)** - 可折叠列表组件，或者叫二级列表组件、手风琴组件、折叠面板组件，ArkUI封装实现。An expandable List component, or secondary list, accordion, foldable panel (📄 MIT • ⭐ 1 likes • 📦 v1.0.1)
 - **[@ohos-cases/imagegridlayout](https://ohpm.openharmony.cn/#/cn/detail/%40ohos-cases%2Fimagegridlayout)** - 本示例介绍使用([Flex](https://developer.huawei.com/consumer/cn/doc/harmonyos-guides/arkts-layout-development-flex-layout-0000001774120126))
 组件实现图片在不同个数情况下的布局效果(默认布局和自定义布局)。该场景多用于社交类应用 (📄 Apache License 2.0 • ⭐ 1 likes • 📦 v1.0.1)
@@ -261,21 +262,21 @@ PJTabBar is a component used to replace system Tabs, supporting indicator linkag
 - **[@loww/tabbar](https://ohpm.openharmony.cn/#/cn/detail/%40loww%2Ftabbar)** - 实现了一个Tabbar组件 (📄 Apache-2.0 • 📦 v1.0.1)
 - **[@ohos_lib/calendar_event](https://ohpm.openharmony.cn/#/cn/detail/%40ohos_lib%2Fcalendar_event)** - 这是一款基于HarmonyNext CalendarKit（日历服务）api进行二次封装的开源插件、用于简化三方应用同步系统-日程管理【提醒】等操作 (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.0.1)
 - **[@caijiabin/slidinglinkage](https://ohpm.openharmony.cn/#/cn/detail/%40caijiabin%2Fslidinglinkage)** - SlidingLinkageLayout是一个自定义组件，支持页面Scroll组件与List组件的联动滑动并支持吸顶。 (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.0.1)
-- **[@cspecialj/prettycalendar](https://ohpm.openharmony.cn/#/cn/detail/%40cspecialj%2Fprettycalendar)** - 上传一个日历功能 (📄 Apache-2.0 • 📦 v1.0.1)
 - **[lite_chart](https://ohpm.openharmony.cn/#/cn/detail/lite_chart)** - lite_chart是一款轻量的图表绘制工具。它可以使用非常少的代码绘制出漂亮的折线图、曲线图等图形样式。源代码少、调用方便。适合初学者学习 (📄 Apache-2.0 • ⭐ 2 likes • 📦 v0.0.1)
+- **[@cspecialj/prettycalendar](https://ohpm.openharmony.cn/#/cn/detail/%40cspecialj%2Fprettycalendar)** - 上传一个日历功能 (📄 Apache-2.0 • 📦 v1.0.1)
 - **[@kingmgg/refresh](https://ohpm.openharmony.cn/#/cn/detail/%40kingmgg%2Frefresh)** - 自定义下拉刷新组件 (📄 Apache-2.0 • 📦 v1.0.1)
 - **[@ohos-cases/collapsemenu](https://ohpm.openharmony.cn/#/cn/detail/%40ohos-cases%2Fcollapsemenu)** - 本示例通过定义层级实现多层折叠面板，并在首页性能文章tab实际使用跳转到对应文章的web页面。 (📄 Apache License 2.0 • 📦 v1.0.0)
 - **[@yx/klinechart](https://ohpm.openharmony.cn/#/cn/detail/%40yx%2Fklinechart)** - 一个k线组件库，包含基本的k线功能以及MA线，目前包含的手势有滑动，点击 (📄 Apache-2.0 • 📦 v1.0.1)
+- **[@fx/theme](https://ohpm.openharmony.cn/#/cn/detail/%40fx%2Ftheme)** - 一套支持动态切换、外观模式监听、自定义主题、扩展模板色的主题框架 (📄 Apache-2.0 • ⭐ 3 likes • 📦 v1.0.1)
+- **[@hw-agconnect/ui-sticky-scroll](https://ohpm.openharmony.cn/#/cn/detail/%40hw-agconnect%2Fui-sticky-scroll)** - ui-sticky-scroll是基于open harmony基础组件开发的滚动吸顶组件，支持滚动吸顶、自定义多种样式风格、滑动切换tab栏等功能。 (📄 ISC • 📦 v1.0.0)
 - **[vendors](https://ohpm.openharmony.cn/#/cn/detail/vendors)** - List of vendor prefixes known to the web platform (📄 MIT • 📦 v1.1.0)
 - **[@wuyan/date_picker](https://ohpm.openharmony.cn/#/cn/detail/%40wuyan%2Fdate_picker)** - 一款好看的日期选中插件，支持日期回显。 (📄 Apache-2.0 • 📦 v1.0.0)
 - **[@huolala/pull-refresh](https://ohpm.openharmony.cn/#/cn/detail/%40huolala%2Fpull-refresh)** - 本组件是基于官方开源 DEMO 基础上，实现鸿蒙下可同时实现动态分组列表进行下拉刷新、上拉加载的组件 (📄 Apache-2.0 • 📦 v1.0.1)
-- **[@fx/theme](https://ohpm.openharmony.cn/#/cn/detail/%40fx%2Ftheme)** - 一套支持动态切换、外观模式监听、自定义主题、扩展模板色的主题框架 (📄 Apache-2.0 • ⭐ 3 likes • 📦 v1.0.1)
 - **[@sunshine/multilist](https://ohpm.openharmony.cn/#/cn/detail/%40sunshine%2Fmultilist)** - 多布局双向滑动列表，支持横向和纵向滑动。可以自定义列表字段，支持首行首列冻结效果。 (📄 MIT • ⭐ 2 likes • 📦 v1.0.3)
 - **[ohuuid](https://ohpm.openharmony.cn/#/cn/detail/ohuuid)** - 鸿蒙NEXT原生UUID工具 (📄 Apache-2.0 • 📦 v0.0.2)
 - **[@tabs/tabs](https://ohpm.openharmony.cn/#/cn/detail/%40tabs%2Ftabs)** - 仿Android TabLayout+ViewPager 联动效果，支持滑动动画 (📄 Apache-2.0 • ⭐ 3 likes • 📦 v1.0.1)
 - **[@zhaolei/float-tab-bar](https://ohpm.openharmony.cn/#/cn/detail/%40zhaolei%2Ffloat-tab-bar)** - 一款使用场景非常广泛的底部导航栏组件，对其进行了一定程度的美化，支持高度自定义设置。 (📄 Apache-2.0 • ⭐ 4 likes • 📦 v1.0.1)
 - **[minimalistic-assert](https://ohpm.openharmony.cn/#/cn/detail/minimalistic-assert)** - minimalistic-assert === (📄 ISC • 📦 v1.0.1)
-- **[@hw-agconnect/ui-sticky-scroll](https://ohpm.openharmony.cn/#/cn/detail/%40hw-agconnect%2Fui-sticky-scroll)** - ui-sticky-scroll是基于open harmony基础组件开发的滚动吸顶组件，支持滚动吸顶、自定义多种样式风格、滑动切换tab栏等功能。 (📄 ISC • 📦 v1.0.0)
 - **[path-to-regexp](https://ohpm.openharmony.cn/#/cn/detail/path-to-regexp)** - Express style path to RegExp utility (📄 MIT • 📦 v8.2.0)
 - **[@njdm/dmcommonui](https://ohpm.openharmony.cn/#/cn/detail/%40njdm%2Fdmcommonui)** - common ui. (📄 Apache-2.0 • 📦 v0.0.2)
 - **[color-picker](https://ohpm.openharmony.cn/#/cn/detail/color-picker)** - Color picker based on HSV color model (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.0.0)
@@ -310,20 +311,20 @@ PJTabBar is a component used to replace system Tabs, supporting indicator linkag
 - **[@notsleep/pull_refresh](https://ohpm.openharmony.cn/#/cn/detail/%40notsleep%2Fpull_refresh)** - 用于实现下拉刷新、上拉加载更多的组件. (📄 MIT • 📦 v1.0.0)
 - **[@ohos/adaptivecards](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fadaptivecards)** - 自适应卡片是一种开放式的卡片格式，让开发人员能够使用JSON生成 UI 内容 (📄 MIT • 📦 v1.0.0)
 - **[@hw-agconnect/ui-fav](https://ohpm.openharmony.cn/#/cn/detail/%40hw-agconnect%2Fui-fav)** - ui-fav是一个基于open harmony基础组件开发的收藏按钮，包含常规、无图标、彩色实底、边框描边、图标描边、纯图标等类型的样式，支持自定义主题色、按钮文字，同时支持3种按钮大小可以选择。 (📄 ISC • 📦 v1.0.0)
+- **[@hw-agconnect/ui-collapse](https://ohpm.openharmony.cn/#/cn/detail/%40hw-agconnect%2Fui-collapse)** - ui-collapse是基于open harmony基础组件开发的折叠面板组件，支持显示过长文本，支持修改图标、手风琴效果等功能。 (📄 ISC • 📦 v1.0.0)
 - **[@hview/icons_antd](https://ohpm.openharmony.cn/#/cn/detail/%40hview%2Ficons_antd)** - Icons 图标资源 -  Ant Design Icons (📄 MIT • ⭐ 1 likes • 📦 v1.0.0)
 - **[gridedit](https://ohpm.openharmony.cn/#/cn/detail/gridedit)** - 基于API9实现的网格布局编辑排序功能，使用Grid实现拖拽排序等动画。 (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.0.0)
-- **[@hw-agconnect/ui-collapse](https://ohpm.openharmony.cn/#/cn/detail/%40hw-agconnect%2Fui-collapse)** - ui-collapse是基于open harmony基础组件开发的折叠面板组件，支持显示过长文本，支持修改图标、手风琴效果等功能。 (📄 ISC • 📦 v1.0.0)
 - **[@hw-agconnect/ui-cascader](https://ohpm.openharmony.cn/#/cn/detail/%40hw-agconnect%2Fui-cascader)** - ui-cascader是基于open harmony基础组件开发的级联选择器组件，支持多级选择、传入所选项回显等功能。 (📄 ISC • ⭐ 1 likes • 📦 v1.0.0)
 - **[@ohos-cases/editaddress](https://ohpm.openharmony.cn/#/cn/detail/%40ohos-cases%2Feditaddress)** - 如何快速实现一个自定义TextPicker (📄 Apache License 2.0 • 📦 v1.0.0)
 - **[@hw-agconnect/ui-pagination](https://ohpm.openharmony.cn/#/cn/detail/%40hw-agconnect%2Fui-pagination)** - ui-pagination是一个基于open harmony基础组件开发的分页器组件，包括图标按钮和文字按钮两种版本，支持输入当前页码以及支持设置主题色等。 (📄 ISC • 📦 v1.0.0)
 - **[@xll/hud](https://ohpm.openharmony.cn/#/cn/detail/%40xll%2Fhud)** - hud是一个非常好用的Loading和Toast组件，相对于系统组件更加的美观且可以高度自定制 (📄 MIT • ⭐ 2 likes • 📦 v1.0.1)
+- **[protobufjs_aspromise_arkts](https://ohpm.openharmony.cn/#/cn/detail/protobufjs_aspromise_arkts)** - Returns a promise from a node-style callback function. (📄 BSD-3-Clause • 📦 v1.0.0)
 - **[@hw-agconnect/ui-steps](https://ohpm.openharmony.cn/#/cn/detail/%40hw-agconnect%2Fui-steps)** - ui-steps是基于open harmony基础组件开发的步骤条组件，包括横向和纵向两种布局，同时支持修改图标、全屏显示等功能。 (📄 ISC • 📦 v1.0.0)
 - **[@hw-agconnect/ui-fab](https://ohpm.openharmony.cn/#/cn/detail/%40hw-agconnect%2Fui-fab)** - ui-fab是基于open harmony基础组件开发的悬浮按钮组件，点击可展开一个或多个按钮菜单。 (📄 ISC • 📦 v1.0.0)
 - **[refreshview1](https://ohpm.openharmony.cn/#/cn/detail/refreshview1)** - refreshView 支持瀑布流、列表、网格页面的下拉刷新、上提加载更多，支持自定义页面头部、尾部界面，支持自定义列表元素页面。 (📄 Apache-2.0 • ⭐ 3 likes • 📦 v1.0.0)
 - **[@hereby/common_loading](https://ohpm.openharmony.cn/#/cn/detail/%40hereby%2Fcommon_loading)** - 全局loading实现 (📄 MIT • 📦 v1.0.0)
 - **[@qincji/dialog](https://ohpm.openharmony.cn/#/cn/detail/%40qincji%2Fdialog)** - Harmony NEXT 每个项目都需要标配的《提示对话框》。特点：使用简单、支持各种样式定制、支持Text和Web显示。 (📄 Apache-2.0 • 📦 v1.0.0)
 - **[@duiker/uil](https://ohpm.openharmony.cn/#/cn/detail/%40duiker%2Fuil)** - 一款功能丰富、高效易用的 UI 组件库,封装了常用的组件如Button,Dialog,Loading,Cascade,通知,位置,窗口等,旨在帮助开发者快速构建美观、交互流畅的用户界面. (📄 Apache-2.0 • ⭐ 2 likes • 📦 v1.0.1)
-- **[protobufjs_aspromise_arkts](https://ohpm.openharmony.cn/#/cn/detail/protobufjs_aspromise_arkts)** - Returns a promise from a node-style callback function. (📄 BSD-3-Clause • 📦 v1.0.0)
 - **[ohos_dfu_library](https://ohpm.openharmony.cn/#/cn/detail/ohos_dfu_library)** - The DFU is design to update the firmware of nRF51 or nRF52 Series SoCs. (📄 MIT license • ⭐ 1 likes • 📦 v1.0.0)
 - **[@atguigu/refreshvirtuallist](https://ohpm.openharmony.cn/#/cn/detail/%40atguigu%2Frefreshvirtuallist)** - RefreshVirtualList是一款OpenHarmony环境下可用的下拉刷新和上拉加载的虚拟列表组件 (📄 Apache License 2.0 • 📦 v1.0.0)
 - **[@hw-agconnect/login-component-ohos](https://ohpm.openharmony.cn/#/cn/detail/%40hw-agconnect%2Flogin-component-ohos)** - agconnect login component for ohos (📄 ISC • 📦 v1.1.0)
@@ -351,6 +352,7 @@ PJTabBar is a component used to replace system Tabs, supporting indicator linkag
 - **[yk_toast](https://ohpm.openharmony.cn/#/cn/detail/yk_toast)** - yk_toast 是一个简单易用的Toast组件，支持Loading，success，failure,Text等样式 (📄 MIT • 📦 v1.0.0)
 - **[@dfyj/component](https://ohpm.openharmony.cn/#/cn/detail/%40dfyj%2Fcomponent)** - 东方公共库，包括组件，通过函数，工具类等 (📄 Apache-2.0 • ⭐ 1 likes • 📦 v0.0.1-beta.0)
 - **[@luyao/flowlayout](https://ohpm.openharmony.cn/#/cn/detail/%40luyao%2Fflowlayout)** - Flow Tag Layout on HarmonyOS PlatForm (📄 Apache-2.0 • 📦 v1.0.0)
+- **[@ludir/tabbar](https://ohpm.openharmony.cn/#/cn/detail/%40ludir%2Ftabbar)** - 通用的底部导航页面，快捷高效的配置底部导航，使用起来方便高效，需要使用v2版本 (📄 Apache-2.0 • 📦 v1.0.1)
 - **[@biandangroup/bdcalendar](https://ohpm.openharmony.cn/#/cn/detail/%40biandangroup%2Fbdcalendar)** - biandan calendar component (📄 MIT • ⭐ 3 likes • 📦 v1.0.0)
 - **[@qfsls/loadrefresh](https://ohpm.openharmony.cn/#/cn/detail/%40qfsls%2Floadrefresh)** - pullup loadmore pulldown refresh (📄 MIT • ⭐ 1 likes • 📦 v1.0.0)
 - **[@lq/refresh](https://ohpm.openharmony.cn/#/cn/detail/%40lq%2Frefresh)** - 用于获取数据，实现上拉刷新，下拉刷新的效果 (📄 MIT • 📦 v1.0.0)
@@ -361,7 +363,6 @@ PJTabBar is a component used to replace system Tabs, supporting indicator linkag
 - **[@pie/design](https://ohpm.openharmony.cn/#/cn/detail/%40pie%2Fdesign)** - 一个风格统一、轻量、注重用户体验的OpenHarmony应用组件库。 (📄 Apache-2.0 • ⭐ 1 likes • 📦 v0.1.0)
 - **[@hw-agconnect/auth-component-ohos](https://ohpm.openharmony.cn/#/cn/detail/%40hw-agconnect%2Fauth-component-ohos)** - agconnect login component for ohos (📄 ISC • 📦 v1.1.3)
 - **[@hw-agconnect/pay-component-ohos](https://ohpm.openharmony.cn/#/cn/detail/%40hw-agconnect%2Fpay-component-ohos)** - AppGalleryConnectSDK pay component for OpenHarmony (📄 ISC • 📦 v1.1.3)
-- **[@ludir/tabbar](https://ohpm.openharmony.cn/#/cn/detail/%40ludir%2Ftabbar)** - 通用的底部导航页面，快捷高效的配置底部导航，使用起来方便高效，需要使用v2版本 (📄 Apache-2.0 • 📦 v1.0.1)
 - **[cardstack](https://ohpm.openharmony.cn/#/cn/detail/cardstack)** - 一个类似探探的划卡组件。将多张卡片叠放在一起，划走上面一张会露出下面一张。 (📄 Apache-2.0 • ⭐ 2 likes • 📦 v1.0.1)
 - **[@yxcx/showtoast](https://ohpm.openharmony.cn/#/cn/detail/%40yxcx%2Fshowtoast)** - 实现一个简易弹窗 (📄 Apache-2.0 • 📦 v1.0.0)
 - **[@ruixue/hmssdk](https://ohpm.openharmony.cn/#/cn/detail/%40ruixue%2Fhmssdk)** - ruixue sdk for openharmony. (📄 Apache-2.0 • 📦 v2.4.4)
@@ -408,10 +409,10 @@ PJTabBar is a component used to replace system Tabs, supporting indicator linkag
 - **[buttonni](https://ohpm.openharmony.cn/#/cn/detail/buttonni)** - buttonNI 是上面图片，下面文字的按钮组件 (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.0.0)
 - **[@tinet/toskit](https://ohpm.openharmony.cn/#/cn/detail/%40tinet%2Ftoskit)** - Tinet 在线客服SDK Kit层服务（含UI） (📄 MIT License • 📦 v1.0.0)
 - **[filterview](https://ohpm.openharmony.cn/#/cn/detail/filterview)** - FilterViewls contentView 需要传入 @Builder 自定义构建函数. (📄 Apache-2.0 • 📦 v1.0.0)
+- **[customercolorpicker](https://ohpm.openharmony.cn/#/cn/detail/customercolorpicker)** - 这是一个自定义的颜色选择器，用于直观地选取想要的颜色 (📄 Apache-2.0 • 📦 v1.0.0)
 - **[@hadss/adaptive_component](https://ohpm.openharmony.cn/#/cn/detail/%40hadss%2Fadaptive_component)** - A adaptive component library developed for OpenHarmony. (📄 Apache-2.0 • 📦 v1.0.0)
 - **[@umeng/verify_no_ui](https://ohpm.openharmony.cn/#/cn/detail/%40umeng%2Fverify_no_ui)** - 友盟+鸿蒙智能认证组件（标准版），提供给用户一键登录功能。 (📄 Apache-2.0 • 📦 v1.0.0)
 - **[loading-swipe-refresher](https://ohpm.openharmony.cn/#/cn/detail/loading-swipe-refresher)** - 内容加载指获取内容并加载出来，常用于衔接展示下拉加载的内容。 (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.0.0)
-- **[customercolorpicker](https://ohpm.openharmony.cn/#/cn/detail/customercolorpicker)** - 这是一个自定义的颜色选择器，用于直观地选取想要的颜色 (📄 Apache-2.0 • 📦 v1.0.0)
 - **[feilongui](https://ohpm.openharmony.cn/#/cn/detail/feilongui)** - fei long ui (📄 Apache-2.0 • 📦 v1.0.0)
 - **[imagebutton](https://ohpm.openharmony.cn/#/cn/detail/imagebutton)** - imagebutton是一个带有图片的按钮组件 (📄 Apache-2.0 • 📦 v1.0.0)
 - **[@shine/pulldown](https://ohpm.openharmony.cn/#/cn/detail/%40shine%2Fpulldown)** - 基于ArkUI封装的上拉加载下拉刷新的组件，支持列表、网格、瀑布流、以及各种自定义组件的下拉刷新，支持接口数据等的上拉加载。 (📄 MIT • 📦 v1.0.0)
@@ -421,8 +422,8 @@ PJTabBar is a component used to replace system Tabs, supporting indicator linkag
 - **[library_chart_har](https://ohpm.openharmony.cn/#/cn/detail/library_chart_har)** - This is a chart template!!! (📄 Apache-2.0 • 📦 v1.0.0)
 - **[input_animate](https://ohpm.openharmony.cn/#/cn/detail/input_animate)** - aoi_tabs是一个基于Tabs的页签组件 (📄 Apache-2.0 • 📦 v1.0.0)
 - **[@liqianliang/carid_input](https://ohpm.openharmony.cn/#/cn/detail/%40liqianliang%2Fcarid_input)** - 一个通用的车牌号输入键盘组件 (📄 MIT • 📦 v1.0.2)
-- **[@hadss/size_class_layout](https://ohpm.openharmony.cn/#/cn/detail/%40hadss%2Fsize_class_layout)** - A simplification of regular and compact layout frames for OpenHarmony (📄 Apache-2.0 • 📦 v1.0.0-rc.0)
 - **[@work/ui](https://ohpm.openharmony.cn/#/cn/detail/%40work%2Fui)** - HarmonyOS开发便利性UI组件，高扩展高灵活性功能UI组件，Cell/ButtonLoading/Web/Search/TabsPage (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.0.0-alpha.1)
+- **[@hadss/size_class_layout](https://ohpm.openharmony.cn/#/cn/detail/%40hadss%2Fsize_class_layout)** - A simplification of regular and compact layout frames for OpenHarmony (📄 Apache-2.0 • 📦 v1.0.0-rc.0)
 - **[@hadss/adaptive_dialog](https://ohpm.openharmony.cn/#/cn/detail/%40hadss%2Fadaptive_dialog)** - A custom adaptive dialog developed for OpenHarmony. (📄 Apache-2.0 • 📦 v1.0.0)
 - **[commonbutton](https://ohpm.openharmony.cn/#/cn/detail/commonbutton)** - commonbutton是一个基于Button的按钮组件 (📄 Apache-2.0 • ⭐ 4 likes • 📦 v1.0.0)
 - **[guide](https://ohpm.openharmony.cn/#/cn/detail/guide)** - 鸿蒙Next引导组件 (📄 Apache-2.0 • 📦 v1.0.0)
@@ -438,8 +439,8 @@ PJTabBar is a component used to replace system Tabs, supporting indicator linkag
 - **[arkui_animations](https://ohpm.openharmony.cn/#/cn/detail/arkui_animations)** - HarmonyOS NEXT ArkUI 动画组件库 - 包含35个精美的动画示例，适用于HarmonyOS NEXT开发 (📄 MIT • 📦 v1.0.0)
 - **[@qfwkr/refresh_hm](https://ohpm.openharmony.cn/#/cn/detail/%40qfwkr%2Frefresh_hm)** - 这是我封装的一个上拉加载，下拉刷新的商品列表的案例 (📄 Apache-2.0 • 📦 v1.0.0)
 - **[mycalendar](https://ohpm.openharmony.cn/#/cn/detail/mycalendar)** - 一个简单的日历 (📄 Apache-2.0 • 📦 v1.0.0)
-- **[postcss](https://ohpm.openharmony.cn/#/cn/detail/postcss)** - Tool for transforming styles with JS plugins (📄 MIT • 📦 v8.5.3)
 - **[@cangjie-tpc/formula_hybrid](https://ohpm.openharmony.cn/#/cn/detail/%40cangjie-tpc%2Fformula_hybrid)** - formula 主要目的是显示用 LaTeX 编写的数学公式。 (📄 MIT • ⭐ 1 likes • 📦 v1.2.0)
+- **[postcss](https://ohpm.openharmony.cn/#/cn/detail/postcss)** - Tool for transforming styles with JS plugins (📄 MIT • 📦 v8.5.3)
 - **[@cxy/selecteablemenu](https://ohpm.openharmony.cn/#/cn/detail/%40cxy%2Fselecteablemenu)** - 鸿蒙文本选择菜单，用于聊天消息文本选择复制 (📄 Apache-2.0 • ⭐ 2 likes • 📦 v1.0.0)
 - **[@hysc/boomui](https://ohpm.openharmony.cn/#/cn/detail/%40hysc%2Fboomui)** - 中视慧云会议SDK UI基础类库 (📄 Apache-2.0 • 📦 v1.0.0)
 
@@ -447,7 +448,7 @@ PJTabBar is a component used to replace system Tabs, supporting indicator linkag
 
 Utility libraries, helper functions, and development tools
 
-**563 packages** • Avg popularity: 294
+**563 packages** • Avg popularity: 297
 
 - **[@ohos/lottie](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Flottie)** - lottie是一个适用于OpenHarmony的动画库，它可以使用Bodymovin解析以json格式导出的Adobe After Effects动画，并在移动设备上进行本地渲染 (📄 MIT • ⭐ 41 likes • 📦 v2.0.23)
 - **[bignumber.js](https://ohpm.openharmony.cn/#/cn/detail/bignumber.js)** - A library for arbitrary-precision decimal and non-decimal arithmetic (📄 MIT • ⭐ 2 likes • 📦 v9.3.0)
@@ -460,8 +461,8 @@ Utility libraries, helper functions, and development tools
 - **[@tencent/libpag](https://ohpm.openharmony.cn/#/cn/detail/%40tencent%2Flibpag)** - libpag is a real-time rendering library for PAG (Portable Animated Graphics) files that renders both vector-based and raster-based animations across most platforms, such as iOS, Android, OpenHarmony, macOS, Windows, Linux, and Web. (📄 Apache-2.0 • ⭐ 6 likes • 📦 v4.4.31)
 - **[@hw-agconnect/ohos-apms](https://ohpm.openharmony.cn/#/cn/detail/%40hw-agconnect%2Fohos-apms)** - APMS Harmony SDK. collect crash, anr and performance info (📄 ISC • 📦 v1.0.0)
 - **[class-transformer](https://ohpm.openharmony.cn/#/cn/detail/class-transformer)** - Proper decorator-based transformation / serialization / deserialization of plain javascript objects to class constructors (📄 MIT • ⭐ 3 likes • 📦 v0.5.1)
-- **[@yunkss/ef_rcp](https://ohpm.openharmony.cn/#/cn/detail/%40yunkss%2Fef_rcp)** - eftool的rcp网络请求封装包,封装了rcp的统一请求拦截,上传,下载,post,get等提供一系列快捷操作方法. (📄 Apache-2.0 • ⭐ 16 likes • 📦 v1.0.12)
 - **[@ohos/mp4parser](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fmp4parser)** - 一个读取、写入操作音视频文件编辑的工具。支持视频裁剪、视频合成、音频裁剪、音频合成、视频取帧。 (📄 Apache License 2.0 • ⭐ 13 likes • 📦 v2.0.6)
+- **[@yunkss/ef_rcp](https://ohpm.openharmony.cn/#/cn/detail/%40yunkss%2Fef_rcp)** - eftool的rcp网络请求封装包,封装了rcp的统一请求拦截,上传,下载,post,get等提供一系列快捷操作方法. (📄 Apache-2.0 • ⭐ 16 likes • 📦 v1.0.12)
 - **[@ohos/disklrucache](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fdisklrucache)** - 专门为OpenHarmony打造的一款磁盘缓存库，通过LRU算法进行磁盘数据存取。 (📄 Apache License 2.0 • ⭐ 2 likes • 📦 v2.0.3)
 - **[@yunkss/ef_core](https://ohpm.openharmony.cn/#/cn/detail/%40yunkss%2Fef_core)** - eftool的核心封装包,封装了常用工具类如字符串、正则、身份证、格式校验、日期、手机号、base64等,提供一系列快捷操作方法. (📄 Apache-2.0 • ⭐ 6 likes • 📦 v1.0.3)
 - **[lodash](https://ohpm.openharmony.cn/#/cn/detail/lodash)** - Lodash modular utilities. (📄 MIT • ⭐ 1 likes • 📦 v4.17.21)
@@ -474,19 +475,19 @@ Utility libraries, helper functions, and development tools
 - **[@ohos-port/xlog](https://ohpm.openharmony.cn/#/cn/detail/%40ohos-port%2Fxlog)** - 基于OpenHarmony/HarmonyOS使用ArkTS重写的XLog日志框架库， 具备轻量、美观强大、可扩展的特性 (📄 MulanPSL-2.0 • ⭐ 5 likes • 📦 v1.2.0)
 - **[@aliyun/logger](https://ohpm.openharmony.cn/#/cn/detail/%40aliyun%2Flogger)** - basic logger interface for sdk development (📄 MIT • 📦 v1.0.2)
 - **[@yunkss/ef_json](https://ohpm.openharmony.cn/#/cn/detail/%40yunkss%2Fef_json)** - eftool的JSON封装包,封装了常用工具类如JSONUtil、JSONObject等,提供一系列快捷操作方法. (📄 Apache-2.0 • ⭐ 10 likes • 📦 v1.0.3)
-- **[@ohmos/json-bigint](https://ohpm.openharmony.cn/#/cn/detail/%40ohmos%2Fjson-bigint)** - JSON.parse/stringify with bigints support for HarmonyOS Next. (📄 Apache-2.0 • ⭐ 4 likes • 📦 v1.0.0)
 - **[@types/pako](https://ohpm.openharmony.cn/#/cn/detail/%40types%2Fpako)** - TypeScript definitions for pako (📄 MIT • 📦 v2.0.0)
+- **[@ohmos/json-bigint](https://ohpm.openharmony.cn/#/cn/detail/%40ohmos%2Fjson-bigint)** - JSON.parse/stringify with bigints support for HarmonyOS Next. (📄 Apache-2.0 • ⭐ 4 likes • 📦 v1.0.0)
 - **[@js-joda/core](https://ohpm.openharmony.cn/#/cn/detail/%40js-joda%2Fcore)** - a date and time library for javascript (📄 BSD-3-Clause • 📦 v5.6.5)
-- **[@magongshou/harmony-cordova](https://ohpm.openharmony.cn/#/cn/detail/%40magongshou%2Fharmony-cordova)** - Cordova,跨平台SDK,自带所有插件遵守cordova官方接口规范，几分钟内完成android/ios项目迁移鸿蒙 (📄 Apache-2.0 • ⭐ 5 likes • 📦 v1.8.2)
 - **[@umeng/common](https://ohpm.openharmony.cn/#/cn/detail/%40umeng%2Fcommon)** - 适配原生鸿蒙的友盟统计分析sdk的common包模块，用于日志的缓存和发送 (📄 Apache-2.0 • 📦 v1.1.8)
+- **[@magongshou/harmony-cordova](https://ohpm.openharmony.cn/#/cn/detail/%40magongshou%2Fharmony-cordova)** - Cordova,跨平台SDK,自带所有插件遵守cordova官方接口规范，几分钟内完成android/ios项目迁移鸿蒙 (📄 Apache-2.0 • ⭐ 5 likes • 📦 v1.8.2)
 - **[@aliyun/els](https://ohpm.openharmony.cn/#/cn/detail/%40aliyun%2Fels)** - A library for long connection channels based on the ELS (Emas Link Service) protocol. (📄 MIT • 📦 v1.3.1)
 - **[@abner/log](https://ohpm.openharmony.cn/#/cn/detail/%40abner%2Flog)** - HarmonyOSLog是一个日志打印工具，支持hilog和console两种工具打印，支持各种类型包含JSON格式化打印，非常的方便！ (📄 Apache-2.0 • ⭐ 19 likes • 📦 v1.0.5)
-- **[@peakmain/library](https://ohpm.openharmony.cn/#/cn/detail/%40peakmain%2Flibrary)** - 一款基于API 12封装的基本库，提升开发效率 (📄 Apache-2.0 • ⭐ 17 likes • 📦 v2.1.1)
+- **[@peakmain/library](https://ohpm.openharmony.cn/#/cn/detail/%40peakmain%2Flibrary)** - 一款基于API 12封装的基本库，提升开发效率 (📄 Apache-2.0 • ⭐ 18 likes • 📦 v2.1.1)
 - **[snappyjs](https://ohpm.openharmony.cn/#/cn/detail/snappyjs)** - JavaScript implementation of Google's Snappy compression library (📄 MIT • 📦 v0.7.0)
 - **[@dcloudio/uni-app-runtime](https://ohpm.openharmony.cn/#/cn/detail/%40dcloudio%2Funi-app-runtime)** - uni-app (📄 Apache-2.0 • ⭐ 2 likes • 📦 v4.76.2025082101)
 - **[@pura/picker_utils](https://ohpm.openharmony.cn/#/cn/detail/%40pura%2Fpicker_utils)** - [harmony-utils]拆分出来的一个子库，包含PhotoHelper、PickerUtil、ScanUtil。 主要解决：当使用 harmony-utils 三方库且未使用picker能力时，隐私政策中无需声明相机权限与储存权限。 (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.0.1)
+- **[@dove/p7zip](https://ohpm.openharmony.cn/#/cn/detail/%40dove%2Fp7zip)** - OpenHarmony/HarmonyOS 7-zip解压缩库(OpenHarmony/HarmonyOS 7-zip zip/unzip library) (📄 Mulan PSL v2 • 📦 v0.18.0)
 - **[@hview/dayjs](https://ohpm.openharmony.cn/#/cn/detail/%40hview%2Fdayjs)** - 2KB immutable date time library alternative to Moment.js with the same modern API。 (📄 MIT • ⭐ 4 likes • 📦 v1.11.11)
-- **[@dove/p7zip](https://ohpm.openharmony.cn/#/cn/detail/%40dove%2Fp7zip)** - OpenHarmony/HarmonyOS 7-zip解压缩库(OpenHarmony/HarmonyOS 7-zip zip/unzip library) (📄 Mulan PSL v2 • 📦 v0.13.0)
 - **[@aliyun/rest](https://ohpm.openharmony.cn/#/cn/detail/%40aliyun%2Frest)** - send information, use by EMAS (📄 MIT • 📦 v1.0.0)
 - **[@aliyun/oss](https://ohpm.openharmony.cn/#/cn/detail/%40aliyun%2Foss)** - Alibaba Cloud OSS(Object Storage Service) SDK for Harmony OS (📄 MIT • ⭐ 1 likes • 📦 v2.0.0-beta.1)
 - **[@aliyunsls/producer](https://ohpm.openharmony.cn/#/cn/detail/%40aliyunsls%2Fproducer)** - Aliyun log producer for HarmonyOS. (📄 MIT • ⭐ 2 likes • 📦 v0.3.2)
@@ -498,10 +499,10 @@ Utility libraries, helper functions, and development tools
 - **[@abner/net](https://ohpm.openharmony.cn/#/cn/detail/%40abner%2Fnet)** - HarmonyOSNet基于http封装而来，简化了请求方式，增加了常见的业务功能，支持同步、异步、支持多种返回数据类型，Json、对象、数组，支持数据缓存，支持dialog加载，支持控制台请求信息格式化输出…… (📄 Apache-2.0 • ⭐ 21 likes • 📦 v1.1.7)
 - **[compare-versions](https://ohpm.openharmony.cn/#/cn/detail/compare-versions)** - Compare semver version strings to find greater, equal or lesser. (📄 MIT • ⭐ 1 likes • 📦 v6.1.1)
 - **[@ohos/jszip](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fjszip)** - A library for creating, reading and editing .zip files with JavaScript, with a lovely and simple API. (📄 MIT • 📦 v1.0.1)
-- **[@types/commonmark](https://ohpm.openharmony.cn/#/cn/detail/%40types%2Fcommonmark)** - TypeScript definitions for commonmark (📄 MIT • 📦 v0.27.9)
 - **[domutils](https://ohpm.openharmony.cn/#/cn/detail/domutils)** - Utilities for working with htmlparser2's dom (📄 BSD-2-Clause • 📦 v3.2.2)
-- **[@ohos/htmlparser2](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fhtmlparser2)** - The fast & forgiving HTML and XML parser (📄 MIT License • ⭐ 7 likes • 📦 v1.0.3)
+- **[@types/commonmark](https://ohpm.openharmony.cn/#/cn/detail/%40types%2Fcommonmark)** - TypeScript definitions for commonmark (📄 MIT • 📦 v0.27.9)
 - **[@ohos/jsonschema](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fjsonschema)** - JSON schema validator, which is designed to be fast and simple to use. JSON Schema versions through draft-07 are fully supported. (📄 MIT • ⭐ 1 likes • 📦 v2.0.2)
+- **[@ohos/htmlparser2](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fhtmlparser2)** - The fast & forgiving HTML and XML parser (📄 MIT License • ⭐ 7 likes • 📦 v1.0.3)
 - **[fflate](https://ohpm.openharmony.cn/#/cn/detail/fflate)** - High performance (de)compression in an 8kB package (📄 MIT • 📦 v0.8.2)
 - **[string.prototype.repeat](https://ohpm.openharmony.cn/#/cn/detail/string.prototype.repeat)** - A robust & optimized `String.prototype.repeat` polyfill, based on the ECMAScript 6 specification. (📄 MIT • 📦 v1.0.0)
 - **[@types/mime](https://ohpm.openharmony.cn/#/cn/detail/%40types%2Fmime)** - TypeScript definitions for mime (📄 MIT • 📦 v3.0.3)
@@ -515,8 +516,8 @@ Utility libraries, helper functions, and development tools
 - **[lz4js](https://ohpm.openharmony.cn/#/cn/detail/lz4js)** - An Lz4 implementation for the browser. (📄 ISC • 📦 v0.2.0)
 - **[ohpm_king_custom_navtion](https://ohpm.openharmony.cn/#/cn/detail/ohpm_king_custom_navtion)** - 自定义导航栏，导航栏整，吐司，弹窗，对话框等，自定义弹窗 (📄 Apache-2.0 • ⭐ 3 likes • 📦 v1.2.2)
 - **[domelementtype](https://ohpm.openharmony.cn/#/cn/detail/domelementtype)** - all the types of nodes in htmlparser2's dom (📄 BSD-2-Clause • 📦 v2.3.0)
-- **[@ohos_lib/filedownload](https://ohpm.openharmony.cn/#/cn/detail/%40ohos_lib%2Ffiledownload)** - 这是一款支持大文件断点下载的开源插件，退出应用程序进程杀掉以后或无网络情况下恢复网络后，可以在上次位置继续恢复下载等 (📄 Apache-2.0 • ⭐ 4 likes • 📦 v1.1.6)
 - **[domhandler](https://ohpm.openharmony.cn/#/cn/detail/domhandler)** - Handler for htmlparser2 that turns pages into a dom (📄 BSD-2-Clause • 📦 v5.0.3)
+- **[@ohos_lib/filedownload](https://ohpm.openharmony.cn/#/cn/detail/%40ohos_lib%2Ffiledownload)** - 这是一款支持大文件断点下载的开源插件，退出应用程序进程杀掉以后或无网络情况下恢复网络后，可以在上次位置继续恢复下载等 (📄 Apache-2.0 • ⭐ 4 likes • 📦 v1.1.6)
 - **[dom-serializer](https://ohpm.openharmony.cn/#/cn/detail/dom-serializer)** - render domhandler DOM nodes to a string (📄 MIT • 📦 v2.0.0)
 - **[@yyz116/jsbn](https://ohpm.openharmony.cn/#/cn/detail/%40yyz116%2Fjsbn)** - jsbn（JavaScript BigInteger Library）是一个用于JavaScript环境中的大整数（BigInteger）计算的开源库。本软件是移植开源软件jsbn源码在OpenHarmony上进行功能适配。jsbn,javascript big number, (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.0.2)
 - **[eventemitter3](https://ohpm.openharmony.cn/#/cn/detail/eventemitter3)** - EventEmitter3 focuses on performance while maintaining a Node.js AND browser compatible interface. (📄 MIT • 📦 v5.0.1)
@@ -524,20 +525,21 @@ Utility libraries, helper functions, and development tools
 - **[@chawloo/immersion-bar](https://ohpm.openharmony.cn/#/cn/detail/%40chawloo%2Fimmersion-bar)** - ImmersionBar,是一个修改系统状态栏和导航栏的工具，没有过多花里胡哨的API，简单高效 (📄 MIT • ⭐ 3 likes • 📦 v1.1.1)
 - **[@nzy/logger](https://ohpm.openharmony.cn/#/cn/detail/%40nzy%2Flogger)** - OpenHarmony 中简单，漂亮和强大的日志 (📄 Apache-2.0 • ⭐ 2 likes • 📦 v1.0.7)
 - **[@zyl/wxcommonlibhar](https://ohpm.openharmony.cn/#/cn/detail/%40zyl%2Fwxcommonlibhar)** - 微信封装使用微信分享，微信登录，微信支付等 (📄 Apache-2.0 • ⭐ 34 likes • 📦 v1.1.2)
-- **[@sj/mediacache](https://ohpm.openharmony.cn/#/cn/detail/%40sj%2Fmediacache)** - 用于支持音视频边播放边缓存(mp3、mp4、m3u8等); 旨在代理媒体数据请求并优先提供缓存数据, 从而减少网络流量并提高播放流畅度. (📄 MIT • ⭐ 5 likes • 📦 v1.0.8)
 - **[jsipp](https://ohpm.openharmony.cn/#/cn/detail/jsipp)** - An IPP library for HarmonyOS. (📄 MIT • 📦 v1.0.0)
 - **[@zyl/commonlibhar](https://ohpm.openharmony.cn/#/cn/detail/%40zyl%2Fcommonlibhar)** - 常用的公共方法封装，如网络图片->沙箱路径便于分享，保存相册临时授权拉起，批量下载网络图片，下载网络视频到本地沙箱路径便于分享微博 (📄 Apache-2.0 • ⭐ 30 likes • 📦 v1.0.9)
+- **[@sj/mediacache](https://ohpm.openharmony.cn/#/cn/detail/%40sj%2Fmediacache)** - 用于支持音视频边播放边缓存(mp3、mp4、m3u8等); 旨在代理媒体数据请求并优先提供缓存数据, 从而减少网络流量并提高播放流畅度. (📄 MIT • ⭐ 5 likes • 📦 v1.0.8)
 - **[@ohos/socketio](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fsocketio)** - 客户端和服务器两者之间实现低延迟、双向消息通信以及基于事件的通信组件 (📄 MIT License • ⭐ 4 likes • 📦 v2.1.2)
 - **[@devzeng/xlog](https://ohpm.openharmony.cn/#/cn/detail/%40devzeng%2Fxlog)** - Tencent mars xlog for HarmonyOS (📄 MIT • ⭐ 3 likes • 📦 v0.2.0)
 - **[@flk/easy-json](https://ohpm.openharmony.cn/#/cn/detail/%40flk%2Feasy-json)** - json解析库 (📄 Apache-2.0 • ⭐ 2 likes • 📦 v3.0.5)
-- **[@gzstv/shd_task](https://ohpm.openharmony.cn/#/cn/detail/%40gzstv%2Fshd_task)** - 任务调度框架库，包括Axios任务封装. (📄 Apache-2.0 • ⭐ 2 likes • 📦 v0.0.17)
 - **[@wolfx/json5](https://ohpm.openharmony.cn/#/cn/detail/%40wolfx%2Fjson5)** - Migrating JSON5 Parser Library to ArkTS (📄 MIT • ⭐ 1 likes • 📦 v2.2.3-rc.1)
+- **[@gzstv/shd_task](https://ohpm.openharmony.cn/#/cn/detail/%40gzstv%2Fshd_task)** - 任务调度框架库，包括Axios任务封装. (📄 Apache-2.0 • ⭐ 2 likes • 📦 v0.0.17)
 - **[@charles/amrnbconverter](https://ohpm.openharmony.cn/#/cn/detail/%40charles%2Famrnbconverter)** - This library enables the bidirectional conversion between AMR_NB and PCM audio formats, facilitating easier audio processing and manipulation. (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.0.1)
-- **[logger](https://ohpm.openharmony.cn/#/cn/detail/logger)** - Logger 是一个简单、美观、实用的 HarmonyOS 应用程序日志框架 (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.2.7)
+- **[@webabcd/harmony-utils](https://ohpm.openharmony.cn/#/cn/detail/%40webabcd%2Fharmony-utils)** - 简单易用的 HarmonyOS 工具库 (📄 Apache-2.0 • 📦 v1.0.1)
 - **[@ohos/xmldom](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fxmldom)** - 专门为OpenHarmony打造的一个提供了符合 W3C 标准的 DOMParser 和 XMLSerializer 功能的 JavaScript 模块。它允许你在浏览器和 Node.js 环境中解析和操作 XML 数据，并提供了将 DOM 文档对象转换为 XML 字符串的能力。这使得处理和操作 XML 数据变得更加方便和标准化 (📄 MIT License • ⭐ 2 likes • 📦 v2.0.1)
+- **[logger](https://ohpm.openharmony.cn/#/cn/detail/logger)** - Logger 是一个简单、美观、实用的 HarmonyOS 应用程序日志框架 (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.2.7)
 - **[mustache](https://ohpm.openharmony.cn/#/cn/detail/mustache)** - Logic-less {{mustache}} templates with JavaScript (📄 MIT • ⭐ 1 likes • 📦 v4.2.0)
-- **[@wuyan/html_parse](https://ohpm.openharmony.cn/#/cn/detail/%40wuyan%2Fhtml_parse)** - 一款轻量级富文本解析器-支持自定义主题色-支持事件回调-支持调整字体大小等，支持标签嵌套等复杂显示逻辑。 (📄 Apache-2.0 • ⭐ 4 likes • 📦 v1.0.7)
 - **[@ohos/protobuf_format](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fprotobuf_format)** - 基于@ohos/protobufjs 1.0.1版本的Message，提供格式转换能力，允许将Message输出重写为基本文本格式，如xml,json,html。 (📄 Apache License 2.0 • ⭐ 2 likes • 📦 v1.0.4)
+- **[@wuyan/html_parse](https://ohpm.openharmony.cn/#/cn/detail/%40wuyan%2Fhtml_parse)** - 一款轻量级富文本解析器-支持自定义主题色-支持事件回调-支持调整字体大小等，支持标签嵌套等复杂显示逻辑。 (📄 Apache-2.0 • ⭐ 4 likes • 📦 v1.0.7)
 - **[fast_xml_parser](https://ohpm.openharmony.cn/#/cn/detail/fast_xml_parser)** - Validate XML, Parse XML to JS Object, or Build XML from JS Object without C/C++ based libraries and no callback.
 
  (📄 MIT • 📦 v5.2.5)
@@ -545,21 +547,20 @@ Utility libraries, helper functions, and development tools
 - **[@kuikly-open/render](https://ohpm.openharmony.cn/#/cn/detail/%40kuikly-open%2Frender)** - Kuikly is a comprehensive cross-platform solution for UI and logic based on Kotlin multi-platform. It was launched by Tencent's company-level Oteam in the front-end field. It aims to provide a high-performance, full-platform development framework with unified codebase, ultimate ease of use, and dynamic flexibility (📄 KuiklyUI • 📦 v2.4.0)
 - **[@jjr/wvjb](https://ohpm.openharmony.cn/#/cn/detail/%40jjr%2Fwvjb)** - HarmonyOS native and JS interaction, WebViewJavascriptBridge. (📄 Apache-2.0 • ⭐ 5 likes • 📦 v1.0.11)
 - **[is-any-array](https://ohpm.openharmony.cn/#/cn/detail/is-any-array)** - Check if a value is any kind of array (📄 MIT • 📦 v2.0.1)
-- **[@webabcd/harmony-utils](https://ohpm.openharmony.cn/#/cn/detail/%40webabcd%2Fharmony-utils)** - 简单易用的 HarmonyOS 工具库 (📄 Apache-2.0 • 📦 v1.0.1)
 - **[@mui/dayjs](https://ohpm.openharmony.cn/#/cn/detail/%40mui%2Fdayjs)** - Day.js is a minimalist JavaScript library that parses, validates, manipulates, and displays dates and times for modern browsers with a largely Moment.js-compatible API. If you use Moment.js, you already know how to use Day.js. (📄 MIT • ⭐ 2 likes • 📦 v1.11.13)
-- **[@mui/remeda](https://ohpm.openharmony.cn/#/cn/detail/%40mui%2Fremeda)** - The first "data-first" and "data-last" utility library designed especially for TypeScript. (📄 MIT • 📦 v2.22.3)
 - **[ml-array-max](https://ohpm.openharmony.cn/#/cn/detail/ml-array-max)** - Get the maximum value in an array (📄 MIT • 📦 v1.2.4)
-- **[harmony-cordova](https://ohpm.openharmony.cn/#/cn/detail/harmony-cordova)** - Cordova,跨平台SDK,自带所有插件遵守cordova官方接口规范，几分钟内完成android/ios项目迁移鸿蒙 (📄 Apache-2.0 • ⭐ 2 likes • 📦 v1.7.1)
+- **[@mui/remeda](https://ohpm.openharmony.cn/#/cn/detail/%40mui%2Fremeda)** - The first "data-first" and "data-last" utility library designed especially for TypeScript. (📄 MIT • 📦 v2.22.3)
 - **[@f-fjs/intl-messageformat-parser](https://ohpm.openharmony.cn/#/cn/detail/%40f-fjs%2Fintl-messageformat-parser)** - Parses ICU Message strings into an AST via JavaScript. (📄 BSD-3-Clause • 📦 v4.1.2)
 - **[ml-array-rescale](https://ohpm.openharmony.cn/#/cn/detail/ml-array-rescale)** - Rescale an array into a range (📄 MIT • 📦 v1.3.7)
 - **[@f-fjs/intl-utils](https://ohpm.openharmony.cn/#/cn/detail/%40f-fjs%2Fintl-utils)** - Smartly determine best unit for relative time format (📄 MIT • 📦 v2.2.1)
-- **[ml-array-min](https://ohpm.openharmony.cn/#/cn/detail/ml-array-min)** - Get the minimum value in an array (📄 MIT • 📦 v1.2.3)
 - **[nth-check](https://ohpm.openharmony.cn/#/cn/detail/nth-check)** - Parses and compiles CSS nth-checks to highly optimized functions. (📄 BSD-2-Clause • 📦 v2.1.1)
-- **[@abner/http](https://ohpm.openharmony.cn/#/cn/detail/%40abner%2Fhttp)** - HarmonyOSHttp基于 Remote Communication Kit（远场通信服务） 封装而来，简化了请求方式，增加了常见的业务功能，支持同步、异步、支持多种返回数据类型，Json、对象、数组，支持数据缓存，支持dialog加载，支持控制台请求信息格式化输出…… (📄 Apache-2.0 • ⭐ 8 likes • 📦 v1.0.6)
+- **[ml-array-min](https://ohpm.openharmony.cn/#/cn/detail/ml-array-min)** - Get the minimum value in an array (📄 MIT • 📦 v1.2.3)
+- **[harmony-cordova](https://ohpm.openharmony.cn/#/cn/detail/harmony-cordova)** - Cordova,跨平台SDK,自带所有插件遵守cordova官方接口规范，几分钟内完成android/ios项目迁移鸿蒙 (📄 Apache-2.0 • ⭐ 2 likes • 📦 v1.7.1)
 - **[ml-matrix](https://ohpm.openharmony.cn/#/cn/detail/ml-matrix)** - Matrix manipulation and computation library (📄 MIT • 📦 v6.10.2)
+- **[@abner/http](https://ohpm.openharmony.cn/#/cn/detail/%40abner%2Fhttp)** - HarmonyOSHttp基于 Remote Communication Kit（远场通信服务） 封装而来，简化了请求方式，增加了常见的业务功能，支持同步、异步、支持多种返回数据类型，Json、对象、数组，支持数据缓存，支持dialog加载，支持控制台请求信息格式化输出…… (📄 Apache-2.0 • ⭐ 8 likes • 📦 v1.0.6)
+- **[@jjr/collections-ext](https://ohpm.openharmony.cn/#/cn/detail/%40jjr%2Fcollections-ext)** - 包装 `@ohos.util` 下的集合类，简化初始化操作 (📄 Apache-2.0 • 📦 v1.0.1)
 - **[@ohos/socketio_2.x](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fsocketio_2.x)** - 客户端和服务器两者之间实现低延迟、双向消息通信以及基于事件的通信组件 (📄 MIT License • ⭐ 2 likes • 📦 v1.0.4)
 - **[querystringify](https://ohpm.openharmony.cn/#/cn/detail/querystringify)** - Querystringify - Small, simple but powerful query string parser. (📄 MIT • ⭐ 1 likes • 📦 v2.2.0)
-- **[@jjr/collections-ext](https://ohpm.openharmony.cn/#/cn/detail/%40jjr%2Fcollections-ext)** - 包装 `@ohos.util` 下的集合类，简化初始化操作 (📄 Apache-2.0 • 📦 v1.0.1)
 - **[@hw-agconnect/function-ohos](https://ohpm.openharmony.cn/#/cn/detail/%40hw-agconnect%2Ffunction-ohos)** - AppGalleryConnectSDK function for OpenHarmony (📄 ISC • 📦 v1.1.3)
 - **[@psdk/frame-father](https://ohpm.openharmony.cn/#/cn/detail/%40psdk%2Fframe-father)** - [psdk] [@psdk/frame-father]: psdk - frame father basic interface and common types (📄 ISC • 📦 v0.7.8)
 - **[@hzw/logger](https://ohpm.openharmony.cn/#/cn/detail/%40hzw%2Flogger)** - Logger是一款简单、漂亮、实用的鸿蒙应用日志框架，可自定义日志行为，比如日志缓存、上报等 (📄 Apache-2.0 • ⭐ 9 likes • 📦 v1.0.2)
@@ -570,29 +571,29 @@ Utility libraries, helper functions, and development tools
 - **[decimal.js](https://ohpm.openharmony.cn/#/cn/detail/decimal.js)** - An arbitrary-precision Decimal type for JavaScript. (📄 MIT • 📦 v10.5.0)
 - **[@ohos/axiosforhttpclient](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Faxiosforhttpclient)** - This library is based on the project of adapting the httpclient to the axios.It supports the original capabilities of the axios library and extends the functions of the httpclient library. For example, user-defined DNS, user-defined certificate verification, queue priority, event listening, proxy, request setting return value response type, cache, support for gzip, support for bidirectional certificates in pem format, and certificate locking. (📄 Apache License 2.0 • ⭐ 1 likes • 📦 v1.0.0)
 - **[@ohos-rs/snappy](https://ohpm.openharmony.cn/#/cn/detail/%40ohos-rs%2Fsnappy)** - Fastest Snappy compression library in OpenHarmony, powered by ohos-rs and rust-snappy. (📄 MIT • 📦 v0.0.7)
-- **[@wolfx/fill_class](https://ohpm.openharmony.cn/#/cn/detail/%40wolfx%2Ffill_class)** - Fill JSON data into class instance. (📄 MIT • ⭐ 4 likes • 📦 v2.0.1)
 - **[@zyl/qqcommonlibhar](https://ohpm.openharmony.cn/#/cn/detail/%40zyl%2Fqqcommonlibhar)** - qq二次封装，简化使用qq分享，qq授权登录，计算签名等 (📄 Apache-2.0 • ⭐ 31 likes • 📦 v1.0.5)
+- **[@wolfx/fill_class](https://ohpm.openharmony.cn/#/cn/detail/%40wolfx%2Ffill_class)** - Fill JSON data into class instance. (📄 MIT • ⭐ 4 likes • 📦 v2.0.1)
 - **[@huolala/logger](https://ohpm.openharmony.cn/#/cn/detail/%40huolala%2Flogger)** - Logger, 是一款极轻量级的日志库。支持：格式化输出、长日志自动换行、打印调用堆栈、切换日志引擎、扩展其他日志系统等，满足开发者打印日志需求。 (📄 Apache-2.0 • ⭐ 2 likes • 📦 v1.0.0)
 - **[@liudonghan/axios](https://ohpm.openharmony.cn/#/cn/detail/%40liudonghan%2Faxios)** - Liu Dong Han Unique Develop Utils Package AxiosServiceManager (📄 Apache License 2.0 • ⭐ 25 likes • 📦 v1.0.6)
 - **[url-parse](https://ohpm.openharmony.cn/#/cn/detail/url-parse)** - Small footprint URL parser that works seamlessly across Node.js and browser environments (📄 MIT • 📦 v1.5.10)
 - **[@sobot/sobot_common](https://ohpm.openharmony.cn/#/cn/detail/%40sobot%2Fsobot_common)** - sobot_common是针对HarmonyOS项目的工具库，用于快速开发鸿蒙应用。 (📄 MIT • 📦 v1.0.6)
-- **[@pdp/evaluation](https://ohpm.openharmony.cn/#/cn/detail/%40pdp%2Fevaluation)** - 口语评测引擎 (📄 Apache-2.0 • 📦 v2.0.4)
 - **[@ohos-rs/pinyin](https://ohpm.openharmony.cn/#/cn/detail/%40ohos-rs%2Fpinyin)** - Fastest Chinese words to pinyin library for OpenHarmony. (📄 MIT • 📦 v0.0.4)
+- **[@pdp/evaluation](https://ohpm.openharmony.cn/#/cn/detail/%40pdp%2Fevaluation)** - 口语评测引擎 (📄 Apache-2.0 • 📦 v2.0.4)
 - **[@ilye/commons](https://ohpm.openharmony.cn/#/cn/detail/%40ilye%2Fcommons)** - common function for other libs. (📄 MIT • ⭐ 1 likes • 📦 v1.3.0)
 - **[iconv-lite](https://ohpm.openharmony.cn/#/cn/detail/iconv-lite)** - Convert character encodings in pure javascript. (📄 MIT • 📦 v0.6.3)
 - **[@ppd/ffrt](https://ohpm.openharmony.cn/#/cn/detail/%40ppd%2Fffrt)** - Provides C++ interfaces of Function Flow Runtime Kit (FFRT). (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.1.4)
 - **[@ohos-rs/ability](https://ohpm.openharmony.cn/#/cn/detail/%40ohos-rs%2Fability)** - Adaptor for OpenHarmony/HarmonyNext Application with Rust (📄 MIT • 📦 v0.2.2)
 - **[@obs/esdk-obs-harmony](https://ohpm.openharmony.cn/#/cn/detail/%40obs%2Fesdk-obs-harmony)** - The Harmony SDK provides a comprehensive interface for interacting with Huawei's Object Storage Service (OBS).  (📄 MIT • 📦 v3.24.9)
-- **[@open/date](https://ohpm.openharmony.cn/#/cn/detail/%40open%2Fdate)** - 轻量级日期时间戳格式化模块，通过YmdHis随意组合转换，使其可以运行在 OpenHarmony，并沿用其现有用法和特性。 (📄 MIT • ⭐ 5 likes • 📦 v1.0.1)
 - **[@growingio/tools](https://ohpm.openharmony.cn/#/cn/detail/%40growingio%2Ftools)** - ToolsKit for GrowingIO HarmonyOS SDK. (📄 Apache License 2.0 • 📦 v1.3.0)
-- **[@yunkss/ef_audio](https://ohpm.openharmony.cn/#/cn/detail/%40yunkss%2Fef_audio)** - eftool的音频相关封装包,封装了常用的播放，暂停，快进，设置url等,提供一系列快捷操作方法. (📄 Apache-2.0 • ⭐ 2 likes • 📦 v1.1.1)
+- **[@open/date](https://ohpm.openharmony.cn/#/cn/detail/%40open%2Fdate)** - 轻量级日期时间戳格式化模块，通过YmdHis随意组合转换，使其可以运行在 OpenHarmony，并沿用其现有用法和特性。 (📄 MIT • ⭐ 5 likes • 📦 v1.0.1)
 - **[@kuiklybase/knoi](https://ohpm.openharmony.cn/#/cn/detail/%40kuiklybase%2Fknoi)** - Kotlin Native Ohos Interaction. (📄 Apache-2.0 • 📦 v0.0.4)
-- **[@ohos/mail](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fmail)** - Ohos_mail mainly provides management functions for sending and receiving emails using SMTP, POP3, and IMAP protocols. It can parse and construct emails in EML format, identify MIME type headers and message bodies of emails, and facilitate developers to perform commonly used email transfers. (📄 Eclipse Public License version 2.0 • ⭐ 3 likes • 📦 v2.0.1)
+- **[@yunkss/ef_audio](https://ohpm.openharmony.cn/#/cn/detail/%40yunkss%2Fef_audio)** - eftool的音频相关封装包,封装了常用的播放，暂停，快进，设置url等,提供一系列快捷操作方法. (📄 Apache-2.0 • ⭐ 2 likes • 📦 v1.1.1)
 - **[@hzw/zjson-transform](https://ohpm.openharmony.cn/#/cn/detail/%40hzw%2Fzjson-transform)** - Json / Object / 具体类型的对象 转换工具类ZJsonUtil (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.0.5)
+- **[@ohos/mail](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fmail)** - Ohos_mail mainly provides management functions for sending and receiving emails using SMTP, POP3, and IMAP protocols. It can parse and construct emails in EML format, identify MIME type headers and message bodies of emails, and facilitate developers to perform commonly used email transfers. (📄 Eclipse Public License version 2.0 • ⭐ 3 likes • 📦 v2.0.1)
 - **[@njdm/dmcommonutils](https://ohpm.openharmony.cn/#/cn/detail/%40njdm%2Fdmcommonutils)** - common utils. (📄 MIT • 📦 v0.0.6)
 - **[@taro-oh/library](https://ohpm.openharmony.cn/#/cn/detail/%40taro-oh%2Flibrary)** - Taro C++ Library for Harmony (📄 MIT • ⭐ 1 likes • 📦 v4.1.5)
-- **[common_title_bar](https://ohpm.openharmony.cn/#/cn/detail/common_title_bar)** - 通用标题栏，沉浸式状态，正常状态左侧返回、居中标题、右侧更多，左中右均可自定义视图。 (📄 Apache-2.0 • ⭐ 2 likes • 📦 v1.0.4)
 - **[@polyvharmony/live-scenes-foundation](https://ohpm.openharmony.cn/#/cn/detail/%40polyvharmony%2Flive-scenes-foundation)** - polyv live-scenes-foundation (📄 MIT • 📦 v1.2.0)
+- **[common_title_bar](https://ohpm.openharmony.cn/#/cn/detail/common_title_bar)** - 通用标题栏，沉浸式状态，正常状态左侧返回、居中标题、右侧更多，左中右均可自定义视图。 (📄 Apache-2.0 • ⭐ 2 likes • 📦 v1.0.4)
 - **[@changjing/cc_common_lib](https://ohpm.openharmony.cn/#/cn/detail/%40changjing%2Fcc_common_lib)** - 获得场景视频-云直播鸿蒙基础库 (📄 Apache-2.0 • 📦 v1.0.1)
 - **[@changjing/common](https://ohpm.openharmony.cn/#/cn/detail/%40changjing%2Fcommon)** - common function for changjing other libs (📄 Apache-2.0 • 📦 v1.0.1)
 - **[@ohos/emailjs](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Femailjs)** - send text/html emails and attachments (files, streams and strings) from node.js to any smtp server (📄 MIT • 📦 v1.0.2)
@@ -600,30 +601,30 @@ Utility libraries, helper functions, and development tools
 - **[@hadss/datacache](https://ohpm.openharmony.cn/#/cn/detail/%40hadss%2Fdatacache)** - A lightweight open-source caching framework developed for OpenHarmony. (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.0.0-rc.2)
 - **[@ohos/eventsource](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Feventsource)** - This library is a pure JavaScript implementation of the EventSource client. (📄 MIT • 📦 v2.0.3)
 - **[@ohos/xmpp_connection](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fxmpp_connection)** - 提供了XMPP（一种基于XML的即时通讯协议）的客户端连接功能，支持WebSocket、TLS加密和SSL/TLS安全连接 (📄 ISC License • 📦 v1.0.3)
-- **[@xp2p/xp2p](https://ohpm.openharmony.cn/#/cn/detail/%40xp2p%2Fxp2p)** - Provide p2p transmission capability of files/streams. (📄 MIT • 📦 v2.0.0)
 - **[@therouter/library](https://ohpm.openharmony.cn/#/cn/detail/%40therouter%2Flibrary)** - A framework for assisting in the renovation of Harmony componentization (📄 Apache-2.0 • ⭐ 4 likes • 📦 v1.0.1)
+- **[class-transformer-arkts](https://ohpm.openharmony.cn/#/cn/detail/class-transformer-arkts)** - Proper decorator-based transformation / serialization / deserialization of plain javascript objects to class constructors (📄 MIT • 📦 v1.0.0)
+- **[@xp2p/xp2p](https://ohpm.openharmony.cn/#/cn/detail/%40xp2p%2Fxp2p)** - Provide p2p transmission capability of files/streams. (📄 MIT • 📦 v2.0.0)
 - **[@cangjie/cjhyapiregister](https://ohpm.openharmony.cn/#/cn/detail/%40cangjie%2Fcjhyapiregister)** - Mount objects in hms for interoperability calls by Cangjie. (📄 Apache-2.0 • 📦 v1.0.3)
 - **[js-sha1](https://ohpm.openharmony.cn/#/cn/detail/js-sha1)** - A simple SHA1 hash function for JavaScript supports UTF-8 encoding. (📄 MIT • 📦 v0.7.0)
-- **[class-transformer-arkts](https://ohpm.openharmony.cn/#/cn/detail/class-transformer-arkts)** - Proper decorator-based transformation / serialization / deserialization of plain javascript objects to class constructors (📄 MIT • 📦 v1.0.0)
 - **[@ohos/epublib](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fepublib)** - Epublib is a library for reading/writing/manipulating EPUB files (📄 LGPL-3.0 • ⭐ 1 likes • 📦 v2.0.5)
 - **[@ohos/xmpp_connection_tcp](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fxmpp_connection_tcp)** - 用于建立和管理XMPP连接的库，提供了一个用于建立和管理XMPP连接的。 (📄 ISC License • 📦 v1.0.3)
+- **[tinycolor2](https://ohpm.openharmony.cn/#/cn/detail/tinycolor2)** - Fast Color Parsing and Manipulation (📄 MIT • 📦 v1.6.0)
 - **[@ilye/utilcode](https://ohpm.openharmony.cn/#/cn/detail/%40ilye%2Futilcode)** - HarmonyUtilCode是一个功能丰富且易用的兼容API13的OpenHarmony/HarmonyOS工具包，封装了部分常用工具类，提供了一系列简单易用的方法以帮助开发者快速便捷地完成鸿蒙应用的构建和开发任务。 (📄 MIT License • ⭐ 1 likes • 📦 v1.1.1)
 - **[steam-totp](https://ohpm.openharmony.cn/#/cn/detail/steam-totp)** - A library developed using the ArkTS language to obtain Steam mobile authentication codes | 使用 ArkTS 语言开发的实现获取 Steam 手机令牌验证码的库 (📄 MIT • ⭐ 1 likes • 📦 v1.2.1)
-- **[tinycolor2](https://ohpm.openharmony.cn/#/cn/detail/tinycolor2)** - Fast Color Parsing and Manipulation (📄 MIT • 📦 v1.6.0)
 - **[@xuvw/klog](https://ohpm.openharmony.cn/#/cn/detail/%40xuvw%2Fklog)** - 日志拦截工具，支持拦截应用范围内所有指定domain日志 (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.0.7)
-- **[is-number](https://ohpm.openharmony.cn/#/cn/detail/is-number)** - Returns true if a number or string value is a finite number. Useful for regex matches, parsing, user input, etc. (📄 MIT • ⭐ 1 likes • 📦 v4.2.0)
-- **[@open/log](https://ohpm.openharmony.cn/#/cn/detail/%40open%2Flog)** - log一款加快项目开发的打印工具，支持任意类型、格式化快速打印. (📄 MIT • ⭐ 1 likes • 📦 v1.0.0)
-- **[@ohos/okio](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fokio)** - Okio is a library that complements java.io and java.nio to make it much easier to access, store, and process your data (📄 Apache License 2.0 • ⭐ 2 likes • 📦 v2.0.2)
 - **[@work/json](https://ohpm.openharmony.cn/#/cn/detail/%40work%2Fjson)** - json 结构化数据，json/Object/xml、数据交换、Model基础协议 (📄 Apache-2.0 • ⭐ 2 likes • 📦 v1.0.4)
-- **[@ohos-rs/image](https://ohpm.openharmony.cn/#/cn/detail/%40ohos-rs%2Fimage)** - Image processing library for HarmonyOS,powered by ohos-rs. (📄 MIT • ⭐ 2 likes • 📦 v0.0.4)
+- **[@open/log](https://ohpm.openharmony.cn/#/cn/detail/%40open%2Flog)** - log一款加快项目开发的打印工具，支持任意类型、格式化快速打印. (📄 MIT • ⭐ 1 likes • 📦 v1.0.0)
+- **[is-number](https://ohpm.openharmony.cn/#/cn/detail/is-number)** - Returns true if a number or string value is a finite number. Useful for regex matches, parsing, user input, etc. (📄 MIT • ⭐ 1 likes • 📦 v4.2.0)
+- **[@ohos/okio](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fokio)** - Okio is a library that complements java.io and java.nio to make it much easier to access, store, and process your data (📄 Apache License 2.0 • ⭐ 2 likes • 📦 v2.0.2)
 - **[@ohos/commons-fileupload](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fcommons-fileupload)** - 专门为OpenHarmony打造的一款包含基础请求以及文件上传等功能的库 (📄 Apache License 2.0 • 📦 v1.0.2)
+- **[@ohos-rs/image](https://ohpm.openharmony.cn/#/cn/detail/%40ohos-rs%2Fimage)** - Image processing library for HarmonyOS,powered by ohos-rs. (📄 MIT • ⭐ 2 likes • 📦 v0.0.4)
 - **[@changjing/cc_socket_io](https://ohpm.openharmony.cn/#/cn/detail/%40changjing%2Fcc_socket_io)** - 获得场景视频-云直播socket-io库 (📄 Apache-2.0 • 📦 v2.0.3)
 - **[@ohos/xmpp_tcp](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fxmpp_tcp)** - 在OpenHarmony上提供了一个用于建立和管理TCP连接的library。 (📄 ISC License • 📦 v1.0.3)
 - **[@ohos-rs/jsonwebtoken](https://ohpm.openharmony.cn/#/cn/detail/%40ohos-rs%2Fjsonwebtoken)** - Rust jsonwebtoken binding for OpenHarmony. (📄 MIT • 📦 v0.0.4)
 - **[@tangs/apputils](https://ohpm.openharmony.cn/#/cn/detail/%40tangs%2Fapputils)** - App常用的一些工具方法 (📄 GPL-3.0 • ⭐ 1 likes • 📦 v1.1.4)
+- **[complex.js](https://ohpm.openharmony.cn/#/cn/detail/complex.js)** - A complex numbers library (📄 MIT • 📦 v2.4.2)
 - **[@ohos/luaarkts](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fluaarkts)** - Implement the ability to access Lua scripts and TS scripts through LuaJIT and NAPI, and simplify C++and Arkts      development through the AKI library (📄 Apache-2.0 • 📦 v1.0.1)
 - **[@nutpi/luxon](https://ohpm.openharmony.cn/#/cn/detail/%40nutpi%2Fluxon)** - Luxon is a library for processing dates and times, retaining its usage and features to adapt to API 12 (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.0.3)
-- **[complex.js](https://ohpm.openharmony.cn/#/cn/detail/complex.js)** - A complex numbers library (📄 MIT • 📦 v2.4.2)
 - **[@dcloudio/uni-app-x-runtime](https://ohpm.openharmony.cn/#/cn/detail/%40dcloudio%2Funi-app-x-runtime)** - uni-app-x (📄 Apache-2.0 • ⭐ 1 likes • 📦 v4.76.2025082101)
 - **[@wisdomgarden/cloak-plugin-permission](https://ohpm.openharmony.cn/#/cn/detail/%40wisdomgarden%2Fcloak-plugin-permission)** - A Permission Plugin of Cloak framework(A Hybrid Development Framework for HarmonyOS) (📄 Apache-2.0 • 📦 v1.0.4)
 - **[speech_eval_sdk](https://ohpm.openharmony.cn/#/cn/detail/speech_eval_sdk)** - 智言语音评测基于新一代端到端框架技术构建的发音评测引擎，支持多设备、多场景、多语种、多题型、多维度的发音评测，让学习者能通过APP、平板、电脑和其他智能硬件获得堪比真人教师和考官的评价和指导，系统提供HarmonyOS、iOS、Android、H5、微信小程序、Linux等平台SDK。可以针对用户的发音进行多维度的评估，比如说流利度、准确度、完整度、单词发音、音素发音等进行评估。本库基于鸿蒙操作系统进行适配，使其可以运行在 HarmonyOS中，并沿用其现有用法和特性。 (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.0.5)
@@ -638,11 +639,11 @@ Utility libraries, helper functions, and development tools
 - **[scrypt](https://ohpm.openharmony.cn/#/cn/detail/scrypt)** - A simple Scrypt implementation for OpenHarmony. (📄 MIT • 📦 v2.0.1)
 - **[typed-function](https://ohpm.openharmony.cn/#/cn/detail/typed-function)** - Type checking for JavaScript functions (📄 MIT • 📦 v4.2.1)
 - **[@dove/xlog](https://ohpm.openharmony.cn/#/cn/detail/%40dove%2Fxlog)** - 基于OpenHarmony/HarmonyOS使用ArkTS重写的XLog日志框架库， 具备轻量、美观强大、可扩展的特性 (📄 MulanPSL-2.0 • ⭐ 1 likes • 📦 v1.2.1)
+- **[fraction.js](https://ohpm.openharmony.cn/#/cn/detail/fraction.js)** - A rational numbers library (📄 MIT • 📦 v5.2.2)
 - **[@lionmobo/qsad](https://ohpm.openharmony.cn/#/cn/detail/%40lionmobo%2Fqsad)** - 青山广告SDK——LionMoBo Advertising SDK (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.0.3)
 - **[@ohos/socketio_tls](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fsocketio_tls)** - 客户端和服务器两者之间实现低延迟、双向消息通信以及基于事件的通信组件 (📄 MIT License • ⭐ 1 likes • 📦 v1.0.1)
 - **[@ohos/msgpack](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fmsgpack)** - This library is an implementation of MessagePack for TypeScript and JavaScript, providing a compact and efficient binary serialization format. (📄 ISC License • 📦 v1.0.1)
 - **[json2class](https://ohpm.openharmony.cn/#/cn/detail/json2class)** - A CLI tool to generate class objects from JSON or JSON5, supporting serialization and deserialization. (📄 ISC • ⭐ 1 likes • 📦 v0.0.14)
-- **[fraction.js](https://ohpm.openharmony.cn/#/cn/detail/fraction.js)** - A rational numbers library (📄 MIT • 📦 v5.2.2)
 - **[regenerator-runtime](https://ohpm.openharmony.cn/#/cn/detail/regenerator-runtime)** - Runtime for Regenerator-compiled generator and async functions. (📄 MIT • 📦 v0.14.0)
 - **[escape-string-regexp](https://ohpm.openharmony.cn/#/cn/detail/escape-string-regexp)** - Escape RegExp special characters (📄 MIT • 📦 v4.0.0)
 - **[@aurora/logger](https://ohpm.openharmony.cn/#/cn/detail/%40aurora%2Flogger)** - Aurora 框架的日志记录模块，提供简单易用且功能强大的日志记录功能 (📄 Apache-2.0 • 📦 v0.0.2)
@@ -672,21 +673,21 @@ Utility libraries, helper functions, and development tools
 - **[@ohos/jwks_rsa](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fjwks_rsa)** - 用于从 JWKS（JSON Web 密钥集）端点检索RSA签名密钥的库，支持所有当前注册的 JWK 类型和 JWS 算法 (📄 MIT License • 📦 v2.0.1)
 - **[@yyz116/emitter](https://ohpm.openharmony.cn/#/cn/detail/%40yyz116%2Femitter)** - Simple event emitter,It's simpler and more lightweight, 本软件是移植开源软件socketio-emitter源码在OpenHarmony上进行功能适配。 (📄 MIT • 📦 v1.0.2)
 - **[parser-html-json](https://ohpm.openharmony.cn/#/cn/detail/parser-html-json)** - one lib to parser html(dom css) to json (📄 MIT • 📦 v1.0.3)
+- **[javascript-natural-sort](https://ohpm.openharmony.cn/#/cn/detail/javascript-natural-sort)** - Natural Sort algorithm for Javascript - Version 0.7 - Released under MIT license (📄 MIT • 📦 v0.7.1)
 - **[@lionmobo/qsad_splash](https://ohpm.openharmony.cn/#/cn/detail/%40lionmobo%2Fqsad_splash)** - 青山开屏广告SDK——LionMoBo Splash Advertising SDK (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.0.2)
 - **[@ohos/recyclerview-animators](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Frecyclerview-animators)** - RecyclerView Animators is an Ohos library that allows developers to easily create RecyclerView with animations. (📄 Apache License 2.0 • 📦 v2.1.0)
 - **[@hong/harmonyxtools](https://ohpm.openharmony.cn/#/cn/detail/%40hong%2Fharmonyxtools)** - 封装鸿蒙常用工具类，比如: XAppUtils、XCache、XUtils等等. (📄 Apache-2.0 • 📦 v1.0.2)
-- **[javascript-natural-sort](https://ohpm.openharmony.cn/#/cn/detail/javascript-natural-sort)** - Natural Sort algorithm for Javascript - Version 0.7 - Released under MIT license (📄 MIT • 📦 v0.7.1)
 - **[static_library_common](https://ohpm.openharmony.cn/#/cn/detail/static_library_common)** - 鸿蒙Next静态库(HAR),导出自定义组件,页面,类和函数.提供工具类:Log、HiLog、RouterHelper、AbilityHelper、ToastHelper (📄 Apache-2.0 • 📦 v1.0.3)
 - **[@lionmobo/qsad_interstitial](https://ohpm.openharmony.cn/#/cn/detail/%40lionmobo%2Fqsad_interstitial)** - 青山插屏广告SDK——LionMoBo Interstitial Advertising SDK (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.0.2)
-- **[@ohos/rebound](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Frebound)** - rebound is a simple library that models Spring dynamics for the purpose of driving physical animations. (📄 BSD License • 📦 v2.0.1)
 - **[mathjs](https://ohpm.openharmony.cn/#/cn/detail/mathjs)** - Math.js is an extensive math library for JavaScript and Node.js. It features a flexible expression parser with support for symbolic computation, comes with a large set of built-in functions and constants, and offers an integrated solution to work with different data types like numbers, big numbers, complex numbers, fractions, units, and matrices. (📄 Apache-2.0 • 📦 v14.5.3)
+- **[@ohos/rebound](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Frebound)** - rebound is a simple library that models Spring dynamics for the purpose of driving physical animations. (📄 BSD License • 📦 v2.0.1)
 - **[@ohos/flatbuffers](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fflatbuffers)** - Memory Efficient Serialization Library (📄 Apache-2.0 • 📦 v1.0.1)
 - **[leven](https://ohpm.openharmony.cn/#/cn/detail/leven)** - Measure the difference between two strings using the Levenshtein distance algorithm (📄 MIT • 📦 v4.0.0)
 - **[@nutpi/chinese-number-format](https://ohpm.openharmony.cn/#/cn/detail/%40nutpi%2Fchinese-number-format)** - 数字转中文、数字转中文含单位、中文转数字、中文数字转大写，适配API12及以上 (📄 MIT • 📦 v1.0.1)
 - **[@changwei/openai](https://ohpm.openharmony.cn/#/cn/detail/%40changwei%2Fopenai)** - OpenAI SDK鸿蒙原生版，采用ArkTS编写，支持ChatCompletiong,Embedding等接口实现，调用方式和python SDK一致 (📄 MIT • 📦 v0.0.2)
+- **[suncalc](https://ohpm.openharmony.cn/#/cn/detail/suncalc)** - A tiny ArkTS library for calculating sun/moon positions and phases. (📄 BSD • 📦 v1.2.0)
 - **[@polyvharmony/common-libs](https://ohpm.openharmony.cn/#/cn/detail/%40polyvharmony%2Fcommon-libs)** - polyv common-libs (📄 MIT • 📦 v1.0.0)
 - **[xml2js](https://ohpm.openharmony.cn/#/cn/detail/xml2js)** - Simple XML to JavaScript object converter. (📄 MIT • 📦 v0.6.2)
-- **[suncalc](https://ohpm.openharmony.cn/#/cn/detail/suncalc)** - A tiny ArkTS library for calculating sun/moon positions and phases. (📄 BSD • 📦 v1.2.0)
 - **[@xmldom/xmldom](https://ohpm.openharmony.cn/#/cn/detail/%40xmldom%2Fxmldom)** - A pure JavaScript W3C standard-based (XML DOM Level 2 Core) DOMParser and XMLSerializer module. (📄 MIT • 📦 v0.9.8)
 - **[sax](https://ohpm.openharmony.cn/#/cn/detail/sax)** - An evented streaming XML parser in JavaScript (📄 ISC • 📦 v1.4.1)
 - **[@a_zwj/netweb](https://ohpm.openharmony.cn/#/cn/detail/%40a_zwj%2Fnetweb)** - 基于JSBridge混合开发-实现android、ios、harmonyOs混合开发 (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.0.1)
@@ -697,14 +698,14 @@ Utility libraries, helper functions, and development tools
 - **[@harmony_class_room/calc_by_string](https://ohpm.openharmony.cn/#/cn/detail/%40harmony_class_room%2Fcalc_by_string)** - 一款字符串计算工具。传入字符串表达式，输出number类型的计算结果 (📄 MIT • ⭐ 1 likes • 📦 v0.0.2)
 - **[@ohos/gson-ts](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fgson-ts)** - Gson用于对象与JSON字符串之间的互相转换，并支持JsonElement对象类型 (📄 Apache License 2.0 • 📦 v2.0.1)
 - **[@q/harmony-utils](https://ohpm.openharmony.cn/#/cn/detail/%40q%2Fharmony-utils)** - 一款高效的OpenHarmony/HarmonyOS工具包，封装了常用工具类，提供一系列简单易用的方法。帮助开发者快速构建鸿蒙应用。 (📄 Apache-2.0 • ⭐ 2 likes • 📦 v1.0.1)
+- **[@ohos-rs/traceroute](https://ohpm.openharmony.cn/#/cn/detail/%40ohos-rs%2Ftraceroute)** - A simple traceroute implementation in OpenHarmony/HarmonyNext with Rust (📄 MIT • ⭐ 1 likes • 📦 v0.1.1)
 - **[@mediatom/ad_common](https://ohpm.openharmony.cn/#/cn/detail/%40mediatom%2Fad_common)** - 本项目是mediatom聚合平台请求广告网络的基础功能库，基础的请求API都包含在此库中。 (📄 Apache-2.0 • 📦 v2.8.6)
 - **[arr-every](https://ohpm.openharmony.cn/#/cn/detail/arr-every)** - A tiny, faster alternative to native Array.prototype.every (📄 MIT • 📦 v1.2.0)
 - **[@nutpi/relationship](https://ohpm.openharmony.cn/#/cn/detail/%40nutpi%2Frelationship)** - Chinese Relative Relationship Calculator  (📄 Apache-2.0 • ⭐ 4 likes • 📦 v1.0.1)
 - **[twoweekslibrary](https://ohpm.openharmony.cn/#/cn/detail/twoweekslibrary)** - twoweekslibrary是一款可以提供两周日历与星期的日历组件，并可以自动标记当天日期所在的位置，使用场景比较小众，如景点购票或预约或其他仅需要两行两周最近日期的场景，仅供开发者学习和交流使用，商用时可参考本组件代码结构即可 (📄 Apache-2.0 • ⭐ 2 likes • 📦 v1.0.2)
-- **[@ohos/flexsearch](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fflexsearch)** - Next-Generation full text search library with zero dependencies for ohos. (📄 Apache-2.0 • 📦 v2.0.1)
-- **[@ohos-rs/traceroute](https://ohpm.openharmony.cn/#/cn/detail/%40ohos-rs%2Ftraceroute)** - A simple traceroute implementation in OpenHarmony/HarmonyNext with Rust (📄 MIT • 📦 v0.1.0)
-- **[@dove/webdav](https://ohpm.openharmony.cn/#/cn/detail/%40dove%2Fwebdav)** - OpenHarmony/HarmonyOS webdav库(OpenHarmony/HarmonyOS webdav library) (📄 Mulan PSL v2 • 📦 v0.2.3)
 - **[@zxzw/pdfannotation](https://ohpm.openharmony.cn/#/cn/detail/%40zxzw%2Fpdfannotation)** - pdf annotation tool. (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.0.1)
+- **[@ohos/flexsearch](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fflexsearch)** - Next-Generation full text search library with zero dependencies for ohos. (📄 Apache-2.0 • 📦 v2.0.1)
+- **[@dove/webdav](https://ohpm.openharmony.cn/#/cn/detail/%40dove%2Fwebdav)** - OpenHarmony/HarmonyOS webdav库(OpenHarmony/HarmonyOS webdav library) (📄 Mulan PSL v2 • 📦 v0.2.3)
 - **[@liuzhanghao/rocker](https://ohpm.openharmony.cn/#/cn/detail/%40liuzhanghao%2Frocker)** - Three party library for drawing joysticks (📄 Apache-2.0 • 📦 v1.0.2)
 - **[@dove/subtitles](https://ohpm.openharmony.cn/#/cn/detail/%40dove%2Fsubtitles)** - OpenHarmony/HarmonyOS 字幕解析库(OpenHarmony/HarmonyOS subtitles analysis library) (📄 Mulan PSL v2 • 📦 v0.3.2)
 - **[@magicnumber/dispatch](https://ohpm.openharmony.cn/#/cn/detail/%40magicnumber%2Fdispatch)** - dispatch is a HarmonyOS development library launched by MagicNumber (📄 MIT • 📦 v1.0.0)
@@ -716,29 +717,29 @@ Utility libraries, helper functions, and development tools
 - **[brace-expansion](https://ohpm.openharmony.cn/#/cn/detail/brace-expansion)** - Brace expansion as known from sh/bash (📄 MIT • 📦 v1.1.0)
 - **[common](https://ohpm.openharmony.cn/#/cn/detail/common)** - Please describe the basic information. (📄 Apache-2.0 • 📦 v1.0.0)
 - **[@types/cbor-js](https://ohpm.openharmony.cn/#/cn/detail/%40types%2Fcbor-js)** - TypeScript definitions for cbor-js (📄 MIT • 📦 v0.1.1)
+- **[@tc/date_format](https://ohpm.openharmony.cn/#/cn/detail/%40tc%2Fdate_format)** - 轻量级OpenHarmony日期格式化库 (📄 MIT • 📦 v1.0.1)
 - **[@types/js-sha1](https://ohpm.openharmony.cn/#/cn/detail/%40types%2Fjs-sha1)** - TypeScript definitions for js-sha1 (📄 MIT • 📦 v0.6.3)
 - **[@yyz116/engine.io-parser](https://ohpm.openharmony.cn/#/cn/detail/%40yyz116%2Fengine.io-parser)** - This is the JavaScript parser for the engine.io protocol encoding, 本软件是移植开源软件engine.io-parser源码在OpenHarmony上进行功能适配。 (📄 MIT • 📦 v1.0.1)
 - **[@fortanix/pvutils](https://ohpm.openharmony.cn/#/cn/detail/%40fortanix%2Fpvutils)** - Common utilities for products from Peculiar Ventures (📄 MIT • 📦 v1.0.17)
 - **[@isrc/fuse.js](https://ohpm.openharmony.cn/#/cn/detail/%40isrc%2Ffuse.js)** - Powerful, lightweight fuzzy-search library, with zero dependencies. (📄 Apache-2.0 • 📦 v1.0.1)
 - **[@ohos_lib/net_connection](https://ohpm.openharmony.cn/#/cn/detail/%40ohos_lib%2Fnet_connection)** - 这是一款基于HarmonyNext网络连接管理模块API封装的开源插件 (📄 Apache-2.0 • ⭐ 2 likes • 📦 v1.0.1)
-- **[@tc/date_format](https://ohpm.openharmony.cn/#/cn/detail/%40tc%2Fdate_format)** - 轻量级OpenHarmony日期格式化库 (📄 MIT • 📦 v1.0.1)
-- **[random-item](https://ohpm.openharmony.cn/#/cn/detail/random-item)** - Get a random item from an array (📄 MIT • 📦 v1.2.0)
 - **[diff](https://ohpm.openharmony.cn/#/cn/detail/diff)** - A JavaScript text diff implementation. (📄 BSD-3-Clause • 📦 v7.0.0)
+- **[@lark/ohos_pb](https://ohpm.openharmony.cn/#/cn/detail/%40lark%2Fohos_pb)** - pre-declaration of protoc-gen-ets generated code interface (📄 MIT • 📦 v1.0.0)
+- **[@inversifyjs/common](https://ohpm.openharmony.cn/#/cn/detail/%40inversifyjs%2Fcommon)** - InversifyJs common utils (📄 MIT • 📦 v1.5.2)
+- **[random-item](https://ohpm.openharmony.cn/#/cn/detail/random-item)** - Get a random item from an array (📄 MIT • 📦 v1.2.0)
 - **[@nutpi/validation](https://ohpm.openharmony.cn/#/cn/detail/%40nutpi%2Fvalidation)** - 包含常见的电话号码，邮箱,身份证验证等工具，可以快速验证判断,助力快速开发 (📄 MIT • 📦 v1.0.1)
 - **[fast-levenshtein](https://ohpm.openharmony.cn/#/cn/detail/fast-levenshtein)** - Efficient implementation of Levenshtein algorithm  with locale-specific collator support. (📄 MIT • 📦 v1.1.0)
-- **[@lark/ohos_pb](https://ohpm.openharmony.cn/#/cn/detail/%40lark%2Fohos_pb)** - pre-declaration of protoc-gen-ets generated code interface (📄 MIT • 📦 v1.0.0)
 - **[@nutpi/simple-swizzle](https://ohpm.openharmony.cn/#/cn/detail/%40nutpi%2Fsimple-swizzle)** - Please describe the basic information. (📄 MIT • 📦 v1.0.1)
 - **[@condy/tools](https://ohpm.openharmony.cn/#/cn/detail/%40condy%2Ftools)** - tools是帮助快速处理数据，得到开发人员需要的结果，辅助开发的工具类集合 (📄 Apache-2.0 • 📦 v1.0.1)
 - **[@fortanix/asn1js](https://ohpm.openharmony.cn/#/cn/detail/%40fortanix%2Fasn1js)** - asn1js is a pure JavaScript library implementing this standard. ASN.1 is the basis of all X.509 related data structures and numerous other protocols used on the web (📄 MIT • 📦 v2.0.27)
-- **[@inversifyjs/common](https://ohpm.openharmony.cn/#/cn/detail/%40inversifyjs%2Fcommon)** - InversifyJs common utils (📄 MIT • 📦 v1.5.2)
 - **[@ohos_lib/utils_helper](https://ohpm.openharmony.cn/#/cn/detail/%40ohos_lib%2Futils_helper)** - 这是一款致力于提升HarmonyNext开发效率的开源插件，包含了诸多常用开发工具类 (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.0.2)
+- **[@lynx/lynx_log_service](https://ohpm.openharmony.cn/#/cn/detail/%40lynx%2Flynx_log_service)** - Lynx Log Service (📄 Apache-2.0 • 📦 v3.4.0)
 - **[metaphone](https://ohpm.openharmony.cn/#/cn/detail/metaphone)** - Metaphone implementation (📄 MIT • 📦 v2.0.1)
 - **[@trustdecision/apisign](https://ohpm.openharmony.cn/#/cn/detail/%40trustdecision%2Fapisign)** - False Traffic Identification Interface Protection. (📄 Apache-2.0 • 📦 v1.0.1)
-- **[@lynx/lynx_log_service](https://ohpm.openharmony.cn/#/cn/detail/%40lynx%2Flynx_log_service)** - Lynx Log Service (📄 Apache-2.0 • 📦 v3.4.0)
-- **[hex-rgb](https://ohpm.openharmony.cn/#/cn/detail/hex-rgb)** - Convert HEX color to RGBA (📄 MIT • ⭐ 2 likes • 📦 v1.1.0)
 - **[cjcommon](https://ohpm.openharmony.cn/#/cn/detail/cjcommon)** - cjcommon 是一款整理了日常项目开发中常用的一些工具类合集 (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.0.0)
-- **[yn](https://ohpm.openharmony.cn/#/cn/detail/yn)** - Parse yes/no like values (📄 MIT • 📦 v1.1.0)
+- **[hex-rgb](https://ohpm.openharmony.cn/#/cn/detail/hex-rgb)** - Convert HEX color to RGBA (📄 MIT • ⭐ 2 likes • 📦 v1.1.0)
 - **[@lynx/lynx_devtool](https://ohpm.openharmony.cn/#/cn/detail/%40lynx%2Flynx_devtool)** - Lynx DevTool (📄 Apache-2.0 • 📦 v3.4.0)
+- **[yn](https://ohpm.openharmony.cn/#/cn/detail/yn)** - Parse yes/no like values (📄 MIT • 📦 v1.1.0)
 - **[soundex-code](https://ohpm.openharmony.cn/#/cn/detail/soundex-code)** - Soundex phonetic algorithm (📄 MIT • 📦 v2.0.1)
 - **[string-natural-compare](https://ohpm.openharmony.cn/#/cn/detail/string-natural-compare)** - Compare alphanumeric strings the same way a human would, using a natural order algorithm (📄 MIT • 📦 v1.1.0)
 - **[robotsim](https://ohpm.openharmony.cn/#/cn/detail/robotsim)** - Yet Another Robot Simulation, WIP (📄 MIT • 📦 v1.1.0)
@@ -746,6 +747,7 @@ Utility libraries, helper functions, and development tools
 - **[@wuyan/region_cascade](https://ohpm.openharmony.cn/#/cn/detail/%40wuyan%2Fregion_cascade)** - 一款好看的省市区街道最大4级联快捷选择插件,支持只选省份，支持只选省份+市区，支持只选省份+市区+区县，支持选中省份+市区+区县+街道/镇乡。 (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.0.0)
 - **[otplibrary](https://ohpm.openharmony.cn/#/cn/detail/otplibrary)** - Comprehensive OTP library for ArkTS supporting TOTP, HOTP, and Steam Guard (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.0.3)
 - **[unicode-match-property-value-ecmascript](https://ohpm.openharmony.cn/#/cn/detail/unicode-match-property-value-ecmascript)** - Match a Unicode property or property alias to its canonical property name per the algorithm used for RegExp Unicode property escapes in ECMAScript. (📄 MIT • 📦 v1.1.0)
+- **[quickselect](https://ohpm.openharmony.cn/#/cn/detail/quickselect)** - A tiny and fast selection algorithm in JavaScript. (📄 ISC • 📦 v1.1.0)
 - **[ip-regex](https://ohpm.openharmony.cn/#/cn/detail/ip-regex)** - Regular expression for matching IP addresses (IPv4 & IPv6) (📄 MIT • 📦 v1.1.0)
 - **[time_river](https://ohpm.openharmony.cn/#/cn/detail/time_river)** - 时间的长河。用于展示时间与事件进度的库。目前还比较简陋，持续更新中，欢迎测试，期待共建。 (📄 Apache License 2.0 • ⭐ 1 likes • 📦 v0.0.2)
 - **[@ohos/stringtemplate](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fstringtemplate)** - StringTemplate v4 for JavaScript (📄 BSD-3-Clause • 📦 v1.0.1)
@@ -753,12 +755,13 @@ Utility libraries, helper functions, and development tools
 - **[expr-parser](https://ohpm.openharmony.cn/#/cn/detail/expr-parser)** - this is a simple javascript expression parser (📄 MIT • 📦 v1.0.0)
 - **[hllama](https://ohpm.openharmony.cn/#/cn/detail/hllama)** - Use llama.cpp models implementation for HarmonyOS Next. (📄 MIT • ⭐ 1 likes • 📦 v0.0.2)
 - **[tinyqueue](https://ohpm.openharmony.cn/#/cn/detail/tinyqueue)** - The smallest and simplest JavaScript priority queue (📄 ISC • 📦 v1.1.0)
-- **[quickselect](https://ohpm.openharmony.cn/#/cn/detail/quickselect)** - A tiny and fast selection algorithm in JavaScript. (📄 ISC • 📦 v1.1.0)
 - **[polylabel](https://ohpm.openharmony.cn/#/cn/detail/polylabel)** - An ArkTS library for finding optimal label position inside a polygon (📄 ISC • 📦 v1.1.0)
 - **[leven-arkts](https://ohpm.openharmony.cn/#/cn/detail/leven-arkts)** - Measure the difference between two strings using the Levenshtein distance algorithm (📄 MIT • 📦 v1.1.0)
 - **[gl-quat](https://ohpm.openharmony.cn/#/cn/detail/gl-quat)** - gl-matrix's quaternion, split into smaller pieces (📄 Zlib • 📦 v1.1.0)
 - **[@ztwwcqtest/esdk-obs-harmony](https://ohpm.openharmony.cn/#/cn/detail/%40ztwwcqtest%2Fesdk-obs-harmony)** - The Harmony SDK provides a comprehensive interface for interacting with Huawei's Object Storage Service (OBS).  (📄 MIT • 📦 v3.24.9)
 - **[pvutils](https://ohpm.openharmony.cn/#/cn/detail/pvutils)** - Common utilities for products from Peculiar Ventures (📄 MIT • 📦 v1.1.3)
+- **[@happay/ark_permission](https://ohpm.openharmony.cn/#/cn/detail/%40happay%2Fark_permission)** - 专为鸿蒙应用设计的静态库，提供统一的权限申请、管理和引导解决方案，支持多语言环境，简化应用开发过程中的权限处理流程 (📄 Apache-2.0 • 📦 v1.0.0)
+- **[@sgaolei/lrc_parser](https://ohpm.openharmony.cn/#/cn/detail/%40sgaolei%2Flrc_parser)** - LrcParser 是一个基于 C++ TagLib 库的歌词解析模块，可用于解析歌曲文件的内嵌歌词。 (📄 MIT • ⭐ 2 likes • 📦 v1.0.0)
 - **[easy_subscriber](https://ohpm.openharmony.cn/#/cn/detail/easy_subscriber)** - A simple tool for publish and subscribe common event (📄 Apache License 2.0 • 📦 v1.0.0)
 - **[percentile](https://ohpm.openharmony.cn/#/cn/detail/percentile)** - Calculate a percentile for given array of values (📄 MIT • 📦 v1.1.0)
 - **[median-quickselect](https://ohpm.openharmony.cn/#/cn/detail/median-quickselect)** - Fast implementation of median search using quickselect algorithm (📄 ISC • 📦 v1.1.0)
@@ -767,17 +770,16 @@ Utility libraries, helper functions, and development tools
 - **[fmix](https://ohpm.openharmony.cn/#/cn/detail/fmix)** - MurmurHash3 x86 finalization mix implemented in ArkTS. (📄 MIT • 📦 v1.1.0)
 - **[encode-utf8](https://ohpm.openharmony.cn/#/cn/detail/encode-utf8)** - Turn a string into an ArrayBufferLike by using the UTF8 encoding. (📄 MIT • 📦 v1.1.0)
 - **[camelcase-css](https://ohpm.openharmony.cn/#/cn/detail/camelcase-css)** - Convert a kebab-cased CSS property into a camelCased DOM property. (📄 MIT • ⭐ 1 likes • 📦 v1.1.0)
+- **[@nutpi/hexconvert](https://ohpm.openharmony.cn/#/cn/detail/%40nutpi%2Fhexconvert)** - 实现二进制、八进制、十进制、十六进制、二十六进制、三十二进制、三十六进制、五十二进制、五十八进制和六十二进制之间的相互转换 (📄 Apache-2.0 • 📦 v1.0.0)
 - **[hptradio](https://ohpm.openharmony.cn/#/cn/detail/hptradio)** - HarmonyOS的可定制单选按钮组件，支持群组功能和灵活的后台定制。 (📄 MIT • ⭐ 2 likes • 📦 v1.0.1)
 - **[@yic/fast_base_util](https://ohpm.openharmony.cn/#/cn/detail/%40yic%2Ffast_base_util)** - 基于 HarmonyOS NEXT 开发,常用工具封装,包含防抖，节流，日志工具类等 (📄 Apache-2.0 • 📦 v1.0.2)
 - **[inversify-binding-decorators](https://ohpm.openharmony.cn/#/cn/detail/inversify-binding-decorators)** - An utility that allows developers to declare InversifyJS bindings using ES2016 decorators (📄 MIT • 📦 v4.0.0)
 - **[unisoundspeechlibrary](https://ohpm.openharmony.cn/#/cn/detail/unisoundspeechlibrary)** - 把语音(≤60秒)转换成对应的文字信息，适用于较短的语音交互场景，如语音搜索、语音输入、语音控制等。 (📄 Apache-2.0 • 📦 v1.0.3)
-- **[@happay/ark_permission](https://ohpm.openharmony.cn/#/cn/detail/%40happay%2Fark_permission)** - 专为鸿蒙应用设计的静态库，提供统一的权限申请、管理和引导解决方案，支持多语言环境，简化应用开发过程中的权限处理流程 (📄 Apache-2.0 • 📦 v1.0.0)
-- **[@sgaolei/lrc_parser](https://ohpm.openharmony.cn/#/cn/detail/%40sgaolei%2Flrc_parser)** - LrcParser 是一个基于 C++ TagLib 库的歌词解析模块，可用于解析歌曲文件的内嵌歌词。 (📄 MIT • ⭐ 2 likes • 📦 v1.0.0)
 - **[math-interval-parser](https://ohpm.openharmony.cn/#/cn/detail/math-interval-parser)** - Parse math interval (📄 MIT • 📦 v1.1.0)
 - **[jstates](https://ohpm.openharmony.cn/#/cn/detail/jstates)** - JStates - A simple js state library (📄 MIT • 📦 v1.1.0)
 - **[dijkstras-algorithm-ts](https://ohpm.openharmony.cn/#/cn/detail/dijkstras-algorithm-ts)** - typescript implementation of the greedy first search djikstra's shortest path algorithm, compatible with javascript projects too of course (📄 MIT • 📦 v1.1.0)
-- **[@nutpi/hexconvert](https://ohpm.openharmony.cn/#/cn/detail/%40nutpi%2Fhexconvert)** - 实现二进制、八进制、十进制、十六进制、二十六进制、三十二进制、三十六进制、五十二进制、五十八进制和六十二进制之间的相互转换 (📄 Apache-2.0 • 📦 v1.0.0)
 - **[fsutils](https://ohpm.openharmony.cn/#/cn/detail/fsutils)** - 文件系统相关操作工具包 (📄 MIT • ⭐ 4 likes • 📦 v2.0.1)
+- **[protobufjs_utf8_arkts](https://ohpm.openharmony.cn/#/cn/detail/protobufjs_utf8_arkts)** - A minimal UTF8 implementation for number arrays. (📄 BSD-3-Clause • 📦 v1.0.0)
 - **[@lhm/date](https://ohpm.openharmony.cn/#/cn/detail/%40lhm%2Fdate)** - 轻量级日期时间戳格式化模块，通过YmdHis随意组合转换，使其可以运行在 OpenHarmony，并沿用其现有用法和特性。 (📄 MIT • 📦 v1.0.0)
 - **[nearest-periodic-value](https://ohpm.openharmony.cn/#/cn/detail/nearest-periodic-value)** - Find the nearest value of a discrete periodic function, given a point. (📄 MIT • 📦 v1.1.0)
 - **[matchit](https://ohpm.openharmony.cn/#/cn/detail/matchit)** - Quickly parse & match URLs (📄 MIT • 📦 v1.1.0)
@@ -787,7 +789,7 @@ Utility libraries, helper functions, and development tools
 - **[@handwer/dist_kv_utils](https://ohpm.openharmony.cn/#/cn/detail/%40handwer%2Fdist_kv_utils)** - 一个对分布式KV的封装工具 (📄 MIT License • 📦 v1.0.1)
 - **[myfx](https://ohpm.openharmony.cn/#/cn/detail/myfx)** - A modular utility library with more utils, higher performance and simpler declarations ... (📄 MIT • ⭐ 4 likes • 📦 v1.11.1)
 - **[@ohos_lib/clearcache](https://ohpm.openharmony.cn/#/cn/detail/%40ohos_lib%2Fclearcache)** - 这是一款清除当前Harmony应用缓存的开源插件 (📄 Apache-2.0 • ⭐ 2 likes • 📦 v1.0.0)
-- **[protobufjs_utf8_arkts](https://ohpm.openharmony.cn/#/cn/detail/protobufjs_utf8_arkts)** - A minimal UTF8 implementation for number arrays. (📄 BSD-3-Clause • 📦 v1.0.0)
+- **[protobufjs_base64_arkts](https://ohpm.openharmony.cn/#/cn/detail/protobufjs_base64_arkts)** - A minimal base64 implementation for number arrays. (📄 BSD-3-Clause • 📦 v1.0.0)
 - **[dz_json](https://ohpm.openharmony.cn/#/cn/detail/dz_json)** - 添加JSONObject、JSONArray的使用文档, 修改name: dz_json (📄 Apache-2.0 • 📦 v1.0.2)
 - **[fast-blurhash](https://ohpm.openharmony.cn/#/cn/detail/fast-blurhash)** - Fast and tiny js decoder for the Wolt BlurHash algorithm (📄 ISC • 📦 v1.1.0)
 - **[css-color-names](https://ohpm.openharmony.cn/#/cn/detail/css-color-names)** - A JSON Object of css color names mapped to their hex value (📄 MIT • 📦 v1.1.0)
@@ -795,7 +797,6 @@ Utility libraries, helper functions, and development tools
 - **[@ohos-port/xlog-ts](https://ohpm.openharmony.cn/#/cn/detail/%40ohos-port%2Fxlog-ts)** - 基于OpenHarmony/HarmonyOS使用ArkTS重写的XLog日志框架库，具备轻量、美观强大、可扩展的特性，本库为ts兼容版本 (📄 MulanPSL-2.0 • 📦 v1.2.1)
 - **[@types/mustache](https://ohpm.openharmony.cn/#/cn/detail/%40types%2Fmustache)** - TypeScript definitions for mustache (📄 MIT • 📦 v4.2.5)
 - **[@ohos/libssh](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Flibssh)** - A HarmonyOS third-party library that supports both SFTP servers and SSH clients, encapsulated based on the libssh-0.11.1 C++ library. (📄 GNU-2.1 • ⭐ 1 likes • 📦 v1.0.0)
-- **[protobufjs_base64_arkts](https://ohpm.openharmony.cn/#/cn/detail/protobufjs_base64_arkts)** - A minimal base64 implementation for number arrays. (📄 BSD-3-Clause • 📦 v1.0.0)
 - **[@ohos/asn1-ber](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fasn1-ber)** - provides the ability to generate and parse ASN1.BER objects. (📄 MIT License • 📦 v1.0.0)
 - **[@nutpi/color-name](https://ohpm.openharmony.cn/#/cn/detail/%40nutpi%2Fcolor-name)** - A JSON with color names and its values. (📄 MIT • 📦 v1.0.0)
 - **[ota_library](https://ohpm.openharmony.cn/#/cn/detail/ota_library)** - 实现PHY+全系芯片SBK(单分区)和SLB(双分区) OTA升级 (📄 Apache-2.0 • 📦 v1.0.1)
@@ -808,13 +809,14 @@ Utility libraries, helper functions, and development tools
 - **[@dove/samba_protocol](https://ohpm.openharmony.cn/#/cn/detail/%40dove%2Fsamba_protocol)** - OpenHarmony/HarmonyOS samba协议库(OpenHarmony/HarmonyOS samba protocol library) (📄 Mulan PSL v2 • 📦 v1.0.0)
 - **[@types/brotli](https://ohpm.openharmony.cn/#/cn/detail/%40types%2Fbrotli)** - TypeScript definitions for brotli (📄 MIT • 📦 v1.3.4)
 - **[jmespath](https://ohpm.openharmony.cn/#/cn/detail/jmespath)** - JMESPath implementation in javascript (📄 Apache-2.0 • 📦 v0.16.0)
+- **[@duke/logan-ext](https://ohpm.openharmony.cn/#/cn/detail/%40duke%2Flogan-ext)** - Logan For HarmonyOS Extended Edition (📄 MIT • ⭐ 1 likes • 📦 v2.0.0)
 - **[@ohos/asn1](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fasn1)** - Javascript library for parsing Abstract Syntax Notation One (ASN.1) (📄 MIT • ⭐ 1 likes • 📦 v1.0.1)
 - **[@bbyy/date](https://ohpm.openharmony.cn/#/cn/detail/%40bbyy%2Fdate)** - 这个是日期。。。 (📄 MIT • 📦 v1.0.0)
 - **[@breeze/date](https://ohpm.openharmony.cn/#/cn/detail/%40breeze%2Fdate)** - 轻量级日期时间戳格式化模块，通过YmdHis随意组合转换，使其可以运行在 OpenHarmony，并沿用其现有用法和特性。 (📄 MIT • 📦 v1.0.0)
 - **[@sy/hmpermission](https://ohpm.openharmony.cn/#/cn/detail/%40sy%2Fhmpermission)** - OpenHarmony操作系统下的权限动态申请库，简化了权限请求的代码 (📄 Apache-2.0 • 📦 v1.0.0)
 - **[@dove/path](https://ohpm.openharmony.cn/#/cn/detail/%40dove%2Fpath)** - OpenHarmony/HarmonyOS文件处理工具库(OpenHarmony/HarmonyOS File handle util library) (📄 Mulan PSL v2 • 📦 v1.0.0)
 - **[@wwy/log](https://ohpm.openharmony.cn/#/cn/detail/%40wwy%2Flog)** - log一款加快项目开发的打印工具，支持任意类型、格式化快速打印. (📄 MIT • 📦 v1.0.0)
-- **[@duke/logan-ext](https://ohpm.openharmony.cn/#/cn/detail/%40duke%2Flogan-ext)** - Logan For HarmonyOS Extended Edition (📄 MIT • ⭐ 1 likes • 📦 v2.0.0)
+- **[@xiaoye/log](https://ohpm.openharmony.cn/#/cn/detail/%40xiaoye%2Flog)** - log一款加快项目开发的打印工具，支持任意类型、格式化快速打印. (📄 MIT • ⭐ 2 likes • 📦 v1.0.0)
 - **[slsbetweendate](https://ohpm.openharmony.cn/#/cn/detail/slsbetweendate)** - Calculate the number of days between two dates (📄 Apache-2.0 • ⭐ 4 likes • 📦 v1.0.0)
 - **[@types/xml2js](https://ohpm.openharmony.cn/#/cn/detail/%40types%2Fxml2js)** - TypeScript definitions for xml2js (📄 MIT • 📦 v0.4.14)
 - **[@types/validator](https://ohpm.openharmony.cn/#/cn/detail/%40types%2Fvalidator)** - TypeScript definitions for validator (📄 MIT • 📦 v13.12.2)
@@ -822,7 +824,7 @@ Utility libraries, helper functions, and development tools
 - **[@pie/throttle_debounce](https://ohpm.openharmony.cn/#/cn/detail/%40pie%2Fthrottle_debounce)** - Debounce or throttle your function elegantly. (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.0.0)
 - **[@types/snappyjs](https://ohpm.openharmony.cn/#/cn/detail/%40types%2Fsnappyjs)** - TypeScript definitions for snappyjs (📄 MIT • 📦 v0.7.1)
 - **[js-md2](https://ohpm.openharmony.cn/#/cn/detail/js-md2)** - A simple MD2 hash function for JavaScript supports UTF-8 encoding. (📄 MIT • 📦 v0.2.2)
-- **[@xiaoye/log](https://ohpm.openharmony.cn/#/cn/detail/%40xiaoye%2Flog)** - log一款加快项目开发的打印工具，支持任意类型、格式化快速打印. (📄 MIT • ⭐ 2 likes • 📦 v1.0.0)
+- **[@jackiehou/collapsing-toolbar](https://ohpm.openharmony.cn/#/cn/detail/%40jackiehou%2Fcollapsing-toolbar)** - HarmonyOS下的折叠工具栏效果。 (📄 Apache-2.0 • ⭐ 2 likes • 📦 v1.0.4)
 - **[@types/boolbase](https://ohpm.openharmony.cn/#/cn/detail/%40types%2Fboolbase)** - TypeScript definitions for boolbase (📄 MIT • 📦 v1.0.3)
 - **[@jhuix/prettier](https://ohpm.openharmony.cn/#/cn/detail/%40jhuix%2Fprettier)** - Prettier is an opinionated code formatter, converted by jhuix (📄 MIT • 📦 v3.4.2)
 - **[@ohmos/timeago](https://ohpm.openharmony.cn/#/cn/detail/%40ohmos%2Ftimeago)** - a nano library(less than 2 kb) used to format datetime with *** time ago statement. eg: '3 hours ago' (📄 Apache-2.0 • 📦 v4.0.2)
@@ -830,10 +832,13 @@ Utility libraries, helper functions, and development tools
 - **[@types/ahocorasick](https://ohpm.openharmony.cn/#/cn/detail/%40types%2Fahocorasick)** - TypeScript definitions for ahocorasick (📄 MIT • 📦 v1.0.0)
 - **[@nutpi/filesize](https://ohpm.openharmony.cn/#/cn/detail/%40nutpi%2Ffilesize)** - generate a human readable String describing the file size (📄 MIT • 📦 v1.0.0)
 - **[@hview/validator](https://ohpm.openharmony.cn/#/cn/detail/%40hview%2Fvalidator)** - String validation and sanitization.在原有基础上增加 typescript 文件 (📄 MIT • 📦 v13.12.0)
+- **[verification_code](https://ohpm.openharmony.cn/#/cn/detail/verification_code)** - 鸿蒙版验证码输入控件 (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.0.0)
 - **[@smarthane/appupdate](https://ohpm.openharmony.cn/#/cn/detail/%40smarthane%2Fappupdate)** - AppUpdate是基于ArkTS封装的HarmonyOS通用、功能全面的版本升级组件（也可做为自定义弹窗使用）。 (📄 Apache-2.0 • ⭐ 6 likes • 📦 v1.0.0)
 - **[@types/diff](https://ohpm.openharmony.cn/#/cn/detail/%40types%2Fdiff)** - TypeScript definitions for diff (📄 MIT • 📦 v5.0.9)
 - **[timers](https://ohpm.openharmony.cn/#/cn/detail/timers)** - A tiny cron-like tools for humman. (📄 MIT • 📦 v0.1.1)
 - **[easy-replace](https://ohpm.openharmony.cn/#/cn/detail/easy-replace)** - Replace strings with optional lookarounds, but without regexes (📄 MIT • 📦 v5.1.1)
+- **[@inversifyjs/reflect-metadata-utils](https://ohpm.openharmony.cn/#/cn/detail/%40inversifyjs%2Freflect-metadata-utils)** - Reflect metadata utils (📄 MIT • 📦 v1.2.0)
+- **[datetimeselecter](https://ohpm.openharmony.cn/#/cn/detail/datetimeselecter)** - 日期时间选择器是一个集成了日期选择器与时间选择器的组件,可以实时返回string格式或Data格式的被选择的当前日期值,适用面很广如预定酒店,预定门票,定时器,备忘录等场景 (📄 Apache-2.0 • 📦 v1.0.0)
 - **[htmlparser2](https://ohpm.openharmony.cn/#/cn/detail/htmlparser2)** - Fast & forgiving HTML/XML parser (📄 MIT • 📦 v10.0.0)
 - **[audiotools](https://ohpm.openharmony.cn/#/cn/detail/audiotools)** - 这是一个专为鸿蒙操作系统设计的高性能媒体播放器组件，采用TypeScript开发，支持多种音频格式播放、播放列表管理和播放模式切换。组件遵循鸿蒙开发规范，提供简洁易用的API接口，可轻松集成到各类鸿蒙应用中。 (📄 MIT • ⭐ 1 likes • 📦 v1.0.0)
 - **[@lsp/harmonyos_utils_tool](https://ohpm.openharmony.cn/#/cn/detail/%40lsp%2Fharmonyos_utils_tool)** - 一款功能丰富且极易上手的HarmonyOS工具库，持续更新中... (📄 MIT • 📦 v0.0.1)
@@ -844,18 +849,15 @@ Utility libraries, helper functions, and development tools
 - **[@hulu/debug-log](https://ohpm.openharmony.cn/#/cn/detail/%40hulu%2Fdebug-log)** - 一款极简的调试日志库，通过@DebugLog注解自动打印函数入参、返回值及执行耗时。 (📄 Apache-2.0 • 📦 v1.0.0-rc.0)
 - **[@types/mdurl](https://ohpm.openharmony.cn/#/cn/detail/%40types%2Fmdurl)** - TypeScript definitions for mdurl (📄 MIT • 📦 v2.0.0)
 - **[@nutpi/is_arrayish](https://ohpm.openharmony.cn/#/cn/detail/%40nutpi%2Fis_arrayish)** - Check if an object can be used like an Array (📄 MIT • 📦 v1.0.0)
-- **[verification_code](https://ohpm.openharmony.cn/#/cn/detail/verification_code)** - 鸿蒙版验证码输入控件 (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.0.0)
 - **[@dove/danmaku2ass](https://ohpm.openharmony.cn/#/cn/detail/%40dove%2Fdanmaku2ass)** - 转换哔哩哔哩弹幕到ASS字幕文件(convert bilibili danmaku to subtitle - ass file) (📄 Mulan PSL v2 • ⭐ 1 likes • 📦 v1.0.0)
 - **[@types/events](https://ohpm.openharmony.cn/#/cn/detail/%40types%2Fevents)** - TypeScript definitions for events (📄 MIT • 📦 v3.0.3)
 - **[@types/pcx-js](https://ohpm.openharmony.cn/#/cn/detail/%40types%2Fpcx-js)** - TypeScript definitions for pcx-js (📄 MIT • 📦 v1.1.0)
 - **[cbor-js](https://ohpm.openharmony.cn/#/cn/detail/cbor-js)** - The Concise Binary Object Representation (CBOR) data format (RFC7049) implemented in pure JavaScript. (📄 MIT • 📦 v0.1.0)
 - **[@ohos/asn1-der](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fasn1-der)** - Javascript library for DER and PEM serialization/deserialization of Abstract Syntax Notation One (ASN.2) object models (📄 MIT License • ⭐ 1 likes • 📦 v1.0.1)
-- **[@jackiehou/collapsing-toolbar](https://ohpm.openharmony.cn/#/cn/detail/%40jackiehou%2Fcollapsing-toolbar)** - HarmonyOS下的折叠工具栏效果。 (📄 Apache-2.0 • ⭐ 2 likes • 📦 v1.0.4)
-- **[@inversifyjs/reflect-metadata-utils](https://ohpm.openharmony.cn/#/cn/detail/%40inversifyjs%2Freflect-metadata-utils)** - Reflect metadata utils (📄 MIT • 📦 v1.2.0)
-- **[datetimeselecter](https://ohpm.openharmony.cn/#/cn/detail/datetimeselecter)** - 日期时间选择器是一个集成了日期选择器与时间选择器的组件,可以实时返回string格式或Data格式的被选择的当前日期值,适用面很广如预定酒店,预定门票,定时器,备忘录等场景 (📄 Apache-2.0 • 📦 v1.0.0)
 - **[@liuzhanghao/remote](https://ohpm.openharmony.cn/#/cn/detail/%40liuzhanghao%2Fremote)** - Three party library for drawing joysticks (📄 Apache-2.0 • 📦 v1.0.0)
 - **[hash.js](https://ohpm.openharmony.cn/#/cn/detail/hash.js)** - Various hash functions that could be run by both browser and node (📄 MIT • 📦 v1.1.7)
 - **[@guoxiao/easy_deeplink](https://ohpm.openharmony.cn/#/cn/detail/%40guoxiao%2Feasy_deeplink)** - a deeplink library that use friendly (📄 Apache-2.0 • ⭐ 1 likes • 📦 v0.0.1)
+- **[@weicheng/textlog](https://ohpm.openharmony.cn/#/cn/detail/%40weicheng%2Ftextlog)** - Text组件显示日志，便于查看、分享 (📄 Apache-2.0 • 📦 v1.0.0)
 - **[@types/text-encoding](https://ohpm.openharmony.cn/#/cn/detail/%40types%2Ftext-encoding)** - TypeScript definitions for text-encoding (📄 MIT • 📦 v0.0.40)
 - **[@lv/reselect](https://ohpm.openharmony.cn/#/cn/detail/%40lv%2Freselect)** - A library for creating memoized selector functions. (📄 MIT License • 📦 v5.1.0)
 - **[@dunk/tools](https://ohpm.openharmony.cn/#/cn/detail/%40dunk%2Ftools)** - 封装一些常用的组件和函数方法 (📄 MIT • ⭐ 1 likes • 📦 v1.0.1)
@@ -870,7 +872,6 @@ Utility libraries, helper functions, and development tools
 - **[@hef/date](https://ohpm.openharmony.cn/#/cn/detail/%40hef%2Fdate)** - 轻量级日期时间戳格式化模块，通过YmdHis随意组合转换，使其可以运行在 OpenHarmony，并沿用其现有用法和特性。 (📄 wof • 📦 v1.0.0)
 - **[nanoid](https://ohpm.openharmony.cn/#/cn/detail/nanoid)** - A tiny (109 bytes), secure URL-friendly unique string ID generator (📄 MIT • 📦 v5.0.4)
 - **[@devzeng/unrar](https://ohpm.openharmony.cn/#/cn/detail/%40devzeng%2Funrar)** - unrar library for HarmonyOS. (📄 MIT • ⭐ 1 likes • 📦 v0.1.0)
-- **[@weicheng/textlog](https://ohpm.openharmony.cn/#/cn/detail/%40weicheng%2Ftextlog)** - Text组件显示日志，便于查看、分享 (📄 Apache-2.0 • 📦 v1.0.0)
 - **[@koo/mediasession](https://ohpm.openharmony.cn/#/cn/detail/%40koo%2Fmediasession)** - 一个鸿蒙Next系统上的多媒体播控中心框架封装，可以大大简化鸿蒙系统上音视频等多媒体播放时的控制逻辑 (📄 Apache-2.0 • 📦 v1.0.0)
 - **[@xuvw/datatools](https://ohpm.openharmony.cn/#/cn/detail/%40xuvw%2Fdatatools)** - 数据转换工具，支持string/ArrayBuffer/Uint8Array/Base64... (📄 Apache-2.0 • 📦 v1.0.0)
 - **[@cococolor/tools](https://ohpm.openharmony.cn/#/cn/detail/%40cococolor%2Ftools)** - cococolor tools for dev (📄 Apache-2.0 • 📦 v1.0.0)
@@ -933,6 +934,7 @@ Utility libraries, helper functions, and development tools
 - **[@types/caverphone](https://ohpm.openharmony.cn/#/cn/detail/%40types%2Fcaverphone)** - TypeScript definitions for caverphone (📄 MIT • 📦 v1.0.0)
 - **[csv-generate](https://ohpm.openharmony.cn/#/cn/detail/csv-generate)** - CSVandobjectgenerationimplementingtheNode.js`stream.Readable`API (📄 MIT • 📦 v4.2.6)
 - **[amf-convert](https://ohpm.openharmony.cn/#/cn/detail/amf-convert)** -  (📄 MIT • 📦 v1.1.3)
+- **[@inversifyjs/prototype-utils](https://ohpm.openharmony.cn/#/cn/detail/%40inversifyjs%2Fprototype-utils)** - Prototype related utils (📄 MIT • 📦 v0.1.2)
 - **[math](https://ohpm.openharmony.cn/#/cn/detail/math)** - 基于API15创建的数学相关操作方法 (📄 MIT • 📦 v2.1.4)
 - **[protobufjs_codegen_arkts](https://ohpm.openharmony.cn/#/cn/detail/protobufjs_codegen_arkts)** - A minimalistic code generation utility. (📄 BSD-3-Clause • 📦 v1.0.0)
 - **[numera](https://ohpm.openharmony.cn/#/cn/detail/numera)** - A lightweight math expression parser for HarmonyOS with support for basic arithmetic operations (+, -, *, /). (📄 Apache-2.0 • ⭐ 2 likes • 📦 v1.0.0)
@@ -957,7 +959,6 @@ Utility libraries, helper functions, and development tools
 - **[ohutils](https://ohpm.openharmony.cn/#/cn/detail/ohutils)** - 一个持续完善的OpenHarmony/HarmonyOS工具集，封装常用的字符串、正则、集合、JSON、分页、日期及鸿蒙系统API (📄 MIT • 📦 v0.0.1)
 - **[csv](https://ohpm.openharmony.cn/#/cn/detail/csv)** - A mature CSV toolset with simple api, full of options and tested against large datasets. (📄 MIT • 📦 v6.2.1)
 - **[google-libphonenumber](https://ohpm.openharmony.cn/#/cn/detail/google-libphonenumber)** - The up-to-date and reliable Google's libphonenumber package for node.js. (📄 (MIT AND Apache-2.0) • 📦 v3.2.42)
-- **[@inversifyjs/prototype-utils](https://ohpm.openharmony.cn/#/cn/detail/%40inversifyjs%2Fprototype-utils)** - Prototype related utils (📄 MIT • 📦 v0.1.2)
 - **[@ohos_samples/preferenceslibrary](https://ohpm.openharmony.cn/#/cn/detail/%40ohos_samples%2Fpreferenceslibrary)** - This sample describes how to implement preferences. (📄 Apache-2.0 • 📦 v1.0.1)
 - **[zhalibrarycenterone](https://ohpm.openharmony.cn/#/cn/detail/zhalibrarycenterone)** - Please describe the basic information.尝试库的创建提供日志封装的接口 (📄 MIT • 📦 v1.0.0)
 - **[@zzll/date](https://ohpm.openharmony.cn/#/cn/detail/%40zzll%2Fdate)** - Date，轻量级日期时间戳格式化模块，通过YmdHis随意组合转换，使其可以运行在 OpenHarmony，并沿用其现有用法和特性。 (📄 MIT • 📦 v1.0.0)
@@ -1009,20 +1010,20 @@ Utility libraries, helper functions, and development tools
 - **[@aispeech/common](https://ohpm.openharmony.cn/#/cn/detail/%40aispeech%2Fcommon)** - 思必驰基础库 (📄 MIT • 📦 v1.0.0)
 - **[@dove/lz77](https://ohpm.openharmony.cn/#/cn/detail/%40dove%2Flz77)** - OpenHarmony/HarmonyOS lz77解压缩库(OpenHarmony/HarmonyOS lz77 compress/decompress library) (📄 Mulan PSL v2 • 📦 v0.1.0)
 - **[@shuai_bin/shuaibin](https://ohpm.openharmony.cn/#/cn/detail/%40shuai_bin%2Fshuaibin)** - 关于axios的二次封装 (📄 Apache-2.0 • 📦 v1.0.0)
-- **[@esand/etaslibrary](https://ohpm.openharmony.cn/#/cn/detail/%40esand%2Fetaslibrary)** - IFAA免密身份认证SDK (📄 Apache-2.0 • 📦 v1.1.1)
+- **[@esand/etaslibrary](https://ohpm.openharmony.cn/#/cn/detail/%40esand%2Fetaslibrary)** - IFAA免密身份认证SDK (📄 Apache-2.0 • 📦 v1.1.2)
 - **[@wlt1423/testlibrary](https://ohpm.openharmony.cn/#/cn/detail/%40wlt1423%2Ftestlibrary)** - This package includes source code for customization (📄 Apache-2.0 • 📦 v1.0.0)
 - **[@huolala/sophon](https://ohpm.openharmony.cn/#/cn/detail/%40huolala%2Fsophon)** - harmony dev toolkit (📄 Apache-2.0 • 📦 v1.0.0)
 - **[@catch/notificationevent](https://ohpm.openharmony.cn/#/cn/detail/%40catch%2Fnotificationevent)** - 方便易用的通知，notificationManager (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.0.0)
-- **[amqplib](https://ohpm.openharmony.cn/#/cn/detail/amqplib)** - An AMQP 0-9-1 (e.g., RabbitMQ) library and client. (📄 MIT • 📦 v0.8.0)
-- **[xhook](https://ohpm.openharmony.cn/#/cn/detail/xhook)** - A PLT hook library for Android native ELF. (📄 MIT • 📦 v1.2.0)
 - **[@ohos_lib/file-saver](https://ohpm.openharmony.cn/#/cn/detail/%40ohos_lib%2Ffile-saver)** - 此开源库为基于 HarmonyOS ArkTS 的应用提供便捷功能，支持将图片一键保存至系统相册和应用内部存储 (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.0.20)
+- **[xhook](https://ohpm.openharmony.cn/#/cn/detail/xhook)** - A PLT hook library for Android native ELF. (📄 MIT • 📦 v1.2.0)
+- **[amqplib](https://ohpm.openharmony.cn/#/cn/detail/amqplib)** - An AMQP 0-9-1 (e.g., RabbitMQ) library and client. (📄 MIT • 📦 v0.8.0)
 - **[@duke/logan](https://ohpm.openharmony.cn/#/cn/detail/%40duke%2Flogan)** - Logan For HarmonyOS (📄 MIT • ⭐ 1 likes • 📦 v1.0.0)
 
 ### 🌐 Networking & APIs
 
 HTTP clients, API wrappers, networking libraries, and communication tools
 
-**138 packages** • Avg popularity: 277
+**138 packages** • Avg popularity: 279
 
 - **[@ohos/axios](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Faxios)** - Axios ，是一个基于 promise 的网络请求库。本库基于npm Axios 原库进行适配，使其可以运行在 OpenHarmony，并沿用其现有用法和特性。 (📄 MIT • ⭐ 297 likes • 📦 v2.2.6)
 - **[reflect-metadata](https://ohpm.openharmony.cn/#/cn/detail/reflect-metadata)** - Polyfill for Metadata Reflection API (📄 Apache-2.0 • ⭐ 3 likes • 📦 v0.2.1)
@@ -1030,8 +1031,8 @@ HTTP clients, API wrappers, networking libraries, and communication tools
 - **[buffer](https://ohpm.openharmony.cn/#/cn/detail/buffer)** - Node.js Buffer API, for the browser (📄 MIT • 📦 v6.0.3)
 - **[@luvi/lv-markdown-in](https://ohpm.openharmony.cn/#/cn/detail/%40luvi%2Flv-markdown-in)** - lv-markdown-in是鸿蒙ArkTS原生Markdown解析插件，支持api9（1.x.x版本）、api10及以上（2.x.x版本），致力于更便捷的OpenHarmony设备的Markdown内容解析。 (📄 MIT • ⭐ 21 likes • 📦 v2.0.15)
 - **[@aliyun/httpdns](https://ohpm.openharmony.cn/#/cn/detail/%40aliyun%2Fhttpdns)** - get ip of host over http request (📄 MIT • 📦 v1.2.2)
-- **[@ohos/polka](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fpolka)** - 专门为OpenHarmony打造的一款本地http服务库，致力于更高效、更轻便、更简单. (📄 MIT • ⭐ 10 likes • 📦 v1.0.3)
 - **[text-encoding](https://ohpm.openharmony.cn/#/cn/detail/text-encoding)** - Polyfill for the Encoding Living Standard's API. (📄 (Unlicense OR Apache-2.0) • 📦 v0.7.0)
+- **[@ohos/polka](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fpolka)** - 专门为OpenHarmony打造的一款本地http服务库，致力于更高效、更轻便、更简单. (📄 MIT • ⭐ 10 likes • 📦 v1.0.3)
 - **[@hw-agconnect/petal-aegis](https://ohpm.openharmony.cn/#/cn/detail/%40hw-agconnect%2Fpetal-aegis)** - Aegis（安全编码SDK）基于HarmonyOS应用特点，由专业安全团队开发，提供简单易用的安全API，集成后可进一步提升应用的安全质量。
 
 为保护用户的个人信息和应用的敏感信息的机密性、完整性、不可抵赖性等，Aegis为您提供丰富的加解密算法，如：哈希算法、消息认证码算法、对称加解密算法、非对称加解密算法、签名验签算法等。 (📄 ISC • ⭐ 6 likes • 📦 v1.4.11-300)
@@ -1050,8 +1051,8 @@ HTTP clients, API wrappers, networking libraries, and communication tools
 - **[@coremail/mail_base](https://ohpm.openharmony.cn/#/cn/detail/%40coremail%2Fmail_base)** - E-mail protocols SDK, supports SMTP, IMAP, POP3. Easy to use and powerful (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.0.1)
 - **[requires-port](https://ohpm.openharmony.cn/#/cn/detail/requires-port)** - Check if a protocol requires a certain port number to be added to an URL. (📄 MIT • 📦 v1.0.0)
 - **[fetch_event_source](https://ohpm.openharmony.cn/#/cn/detail/fetch_event_source)** - 前端库fetch_event_source的鸿蒙版 (📄 MIT License • 📦 v1.0.0)
-- **[@polyvharmony/httpdns-api](https://ohpm.openharmony.cn/#/cn/detail/%40polyvharmony%2Fhttpdns-api)** - httpdns-api (📄 MIT • 📦 v1.0.3)
 - **[@ohos/basic-ftp](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fbasic-ftp)** - This is an FTP client library for Node.js. It supports FTPS over TLS, Passive Mode over IPv6, has a Promise-based API, and offers methods to operate on whole directories. (📄 MIT • ⭐ 1 likes • 📦 v1.0.3)
+- **[@polyvharmony/httpdns-api](https://ohpm.openharmony.cn/#/cn/detail/%40polyvharmony%2Fhttpdns-api)** - httpdns-api (📄 MIT • 📦 v1.0.3)
 - **[@psdk/ohos-network](https://ohpm.openharmony.cn/#/cn/detail/%40psdk%2Fohos-network)** - [psdk] [@psdk/ohos-network]: psdk - ohos network device support (📄 ISC • 📦 v0.7.8)
 - **[safer-buffer](https://ohpm.openharmony.cn/#/cn/detail/safer-buffer)** - Modern Buffer API polyfill without footguns (📄 MIT • 📦 v2.1.2)
 - **[@letter/crypto](https://ohpm.openharmony.cn/#/cn/detail/%40letter%2Fcrypto)** - Crypto API：包含生成密钥，数据加解密，消息摘要计算，数字签名和验证，生成随机数等接口实现，用户可以更便捷的使用加解密相关接口。 (📄 Apache-2.0 • 📦 v1.1.1)
@@ -1083,20 +1084,20 @@ HTTP clients, API wrappers, networking libraries, and communication tools
 - **[@lynyko/ohoshttp](https://ohpm.openharmony.cn/#/cn/detail/%40lynyko%2Fohoshttp)** - OhosHttp是对HarmonyOS Next原生网络请求框架的封装，结合okhttp的特性开发的网络请求库。 (📄 ISC • ⭐ 2 likes • 📦 v1.0.2)
 - **[@ohos/xmpp_sasl_anonymous](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fxmpp_sasl_anonymous)** - 在OpenHarmony上提供了一个用于XMPP(Extensible Messaging and Presence Protocol)客户端匿名连接到XMPP服务器的library (📄 ISC License • 📦 v1.0.2)
 - **[@ohos/xmpp_sasl_plain](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fxmpp_sasl_plain)** - 用于 XMPP（Extensible Messaging and Presence Protocol）的 SASL PLAIN 认证机制的库 (📄 ISC License • 📦 v1.0.2)
+- **[@tencentcloud/httpdns](https://ohpm.openharmony.cn/#/cn/detail/%40tencentcloud%2Fhttpdns)** - 移动解析 HTTPDNS 是基于 HTTP 协议向腾讯云的 DNS 服务器发送域名解析请求，替代了基于 DNS 协议向运营商 LocalDNS 发起解析请求的传统方式，可以避免 LocalDNS 造成的域名劫持和跨网访问的问题，解决移动互联网服务中域名解析异常带来的困扰，同时更有效地保障 App、小程序正常，避免移动互联网中的劫持、跨网域名解析错误等问题。 (📄 Apache-2.0 • ⭐ 2 likes • 📦 v1.0.2)
 - **[@ohos/thrift](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fthrift)** - Thrift is a lightweight, language-independent software stack for point-to-point RPC implementation. Thrift provides clean abstractions and implementations for data transport, data serialization, and application level processing. The code generation system takes a simple definition language as input and generates code across programming languages that uses the abstracted stack to build interoperable RPC clients and servers. (📄 Apache License 2.0 • 📦 v2.0.2)
 - **[@work/net](https://ohpm.openharmony.cn/#/cn/detail/%40work%2Fnet)** - NetWork网络封装，封装系统http/RCP，两者融合无缝切换， (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.0.6)
 - **[@ohos/commons-cli](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fcommons-cli)** - 是一个用于解析命令行参数的工具库.它提供了一组简单易用的 API，用于处理命令行选项和参数，生成帮助文档，并支持多种命令行参数的格式 (📄 Apache License 2.0 • 📦 v2.0.1)
 - **[@nutpi/homeloancalculator](https://ohpm.openharmony.cn/#/cn/detail/%40nutpi%2Fhomeloancalculator)** - 公积金房贷计算器. 支持HarmonyOS API9 ArkTS语言重构 (📄 Apache-2.0 • 📦 v1.0.2)
 - **[@ohos/net-snmp](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fnet-snmp)** - this is a implements versions 1, 2c and 3 of the Simple Network Management Protocol (SNMP). (📄 MIT License • 📦 v1.0.2)
-- **[@tencentcloud/httpdns](https://ohpm.openharmony.cn/#/cn/detail/%40tencentcloud%2Fhttpdns)** - 移动解析 HTTPDNS 是基于 HTTP 协议向腾讯云的 DNS 服务器发送域名解析请求，替代了基于 DNS 协议向运营商 LocalDNS 发起解析请求的传统方式，可以避免 LocalDNS 造成的域名劫持和跨网访问的问题，解决移动互联网服务中域名解析异常带来的困扰，同时更有效地保障 App、小程序正常，避免移动互联网中的劫持、跨网域名解析错误等问题。 (📄 Apache-2.0 • ⭐ 2 likes • 📦 v1.0.2)
 - **[@ohos/amqplib](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Famqplib)** - 专门为OpenHarmony打造的一个支持AMQP（Advanced Message Queuing Protocol）网络通信协议的library，可以在一个进程间传递异步消息 (📄 MIT • 📦 v1.0.1)
 - **[@yyz116/engine.io-client](https://ohpm.openharmony.cn/#/cn/detail/%40yyz116%2Fengine.io-client)** - The engine used in the Socket.IO JavaScript client, which manages the low-level transports such as HTTP long-polling, WebSocket and WebTransport., 本软件是移植开源软件engine.io-client源码在OpenHarmony上进行功能适配。 (📄 MIT • ⭐ 1 likes • 📦 v1.0.2)
 - **[otterhttp-cookie](https://ohpm.openharmony.cn/#/cn/detail/otterhttp-cookie)** - HTTP cookie parser and serializer for Node.js (📄 LGPL-3.0-or-later • 📦 v1.1.0)
 - **[@nutpi/request](https://ohpm.openharmony.cn/#/cn/detail/%40nutpi%2Frequest)** - 远场服务通信RCP模块化封装，实现最简单好用的鸿蒙网络通信组件 (📄 Apache-2.0 • ⭐ 2 likes • 📦 v1.0.1)
 - **[@ohos/xmpp_resoure_binding](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fxmpp_resoure_binding)** - 在OpenHarmony上提供了一个用于XMPP(Extensible Messaging and Presence Protocol)客户端与XMPP服务端进行资源绑定的library (📄 ISC Licensee • 📦 v1.0.1)
+- **[@yyz116/paho-mqtt](https://ohpm.openharmony.cn/#/cn/detail/%40yyz116%2Fpaho-mqtt)** - The Paho JavaScript Client is an MQTT client library written in Javascript that uses WebSockets to connect to an MQTT Broker。本软件是移植开源软件Paho-mqtt源码在OpenHarmony上进行功能适配。 (📄 EPL-2.0 • 📦 v1.0.1)
 - **[corenet](https://ohpm.openharmony.cn/#/cn/detail/corenet)** - 一个基于鸿蒙系统http的网络框架目前已支持harmony next，可以极大简化网络访问操作。 (📄 Apache-2.0 • 📦 v1.0.3)
 - **[@uni_modules/uni-oauth-huawei](https://ohpm.openharmony.cn/#/cn/detail/%40uni_modules%2Funi-oauth-huawei)** - uni-app runtime package (📄 Apache-2.0 • 📦 v1.0.2)
-- **[@yyz116/paho-mqtt](https://ohpm.openharmony.cn/#/cn/detail/%40yyz116%2Fpaho-mqtt)** - The Paho JavaScript Client is an MQTT client library written in Javascript that uses WebSockets to connect to an MQTT Broker。本软件是移植开源软件Paho-mqtt源码在OpenHarmony上进行功能适配。 (📄 EPL-2.0 • 📦 v1.0.1)
 - **[@ohos/xmpp_component_core](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fxmpp_component_core)** - 在OpenHarmony上提供了一个用于创建XMPP(Extensible Messaging and Presence Protocol)组件并连接到 XMPP 服务器的library (📄 ISC License • 📦 v1.0.2)
 - **[@rex/fast_https_request](https://ohpm.openharmony.cn/#/cn/detail/%40rex%2Ffast_https_request)** - 基于 HarmonyOS NEXT 开发,面相对象式网络请求框架,支持将https请求返回的数据直接转换成指定类型的对象 (📄 Apache-2.0 • ⭐ 2 likes • 📦 v1.0.1)
 - **[@ohos-rs/websocket](https://ohpm.openharmony.cn/#/cn/detail/%40ohos-rs%2Fwebsocket)** - A ligtweight websocket client for HarmonyOS/OpenHarmony (📄 MIT • 📦 v0.0.1)
@@ -1108,14 +1109,14 @@ HTTP clients, API wrappers, networking libraries, and communication tools
 - **[await-timeout](https://ohpm.openharmony.cn/#/cn/detail/await-timeout)** - A Promise-based API for setTimeout / clearTimeout (📄 MIT • 📦 v1.1.1)
 - **[@ohos/rocketchat](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Frocketchat)** - Application interface for server methods and message stream subscriptions.Using this package third party apps can control and query a Rocket.Chat server instance, via REST APIs. Designed especially for chat automation, this library makes it easy for application developers to provide the best solutions and experience for their community. (📄 MIT • 📦 v2.0.2)
 - **[@webabcd/harmony-cachedimage](https://ohpm.openharmony.cn/#/cn/detail/%40webabcd%2Fharmony-cachedimage)** - 为 Image 组件提供 http 或 https 地址的图片缓存能力 (📄 Apache-2.0 • 📦 v1.0.1)
+- **[@duke/websocket-client](https://ohpm.openharmony.cn/#/cn/detail/%40duke%2Fwebsocket-client)** - 三方源websocket客户端 (📄 MIT • ⭐ 1 likes • 📦 v2.0.0)
 - **[@ohos/hamcrest](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fhamcrest)** - 一个匹配器库，它提供了一套匹配符Matcher，可以组合起来在测试中创建灵活的意图表达 (📄 BSD License • 📦 v2.0.1)
 - **[@nutpi/fecha](https://ohpm.openharmony.cn/#/cn/detail/%40nutpi%2Ffecha)** - 关于轻量级且简单的JS日期格式化和解析，API12及其以上可运行 (📄 MIT • 📦 v1.0.1)
 - **[@wisdomgarden/cloak-plugin-http](https://ohpm.openharmony.cn/#/cn/detail/%40wisdomgarden%2Fcloak-plugin-http)** - Making native HTTP requests within Cloak applications. (📄 Apache-2.0 • 📦 v1.0.1)
-- **[@duke/websocket-client](https://ohpm.openharmony.cn/#/cn/detail/%40duke%2Fwebsocket-client)** - 三方源websocket客户端 (📄 MIT • ⭐ 1 likes • 📦 v2.0.0)
 - **[@lancoo/yj_networking](https://ohpm.openharmony.cn/#/cn/detail/%40lancoo%2Fyj_networking)** - 基于 HarmonyOS API9 的链式网络请求框架，支持常用的http请求 (📄 Apache-2.0 • 📦 v1.0.1)
+- **[@ohos/stun](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fstun)** - Service open source components based on STUN protocol (📄 Apache-2.0 • 📦 v2.0.2)
 - **[@yyz116/socket.io-parser](https://ohpm.openharmony.cn/#/cn/detail/%40yyz116%2Fsocket.io-parser)** - The engine used in the Socket.IO JavaScript client, which manages the low-level transports such as HTTP long-polling, WebSocket and WebTransport., 本软件是移植开源软件engine.io-client源码在OpenHarmony上进行功能适配。 (📄 MIT • 📦 v1.0.2)
 - **[tinyhttp-encode-url](https://ohpm.openharmony.cn/#/cn/detail/tinyhttp-encode-url)** - encode-url rewrite in TypeScript (📄 MIT • 📦 v1.1.0)
-- **[@ohos/stun](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fstun)** - Service open source components based on STUN protocol (📄 Apache-2.0 • 📦 v2.0.1)
 - **[@zuoyebang-open/ohcronet](https://ohpm.openharmony.cn/#/cn/detail/%40zuoyebang-open%2Fohcronet)** - ohcronet bridge system http request to cronet! (📄 Apache-2.0 • 📦 v0.0.2)
 - **[tinyhttp-url](https://ohpm.openharmony.cn/#/cn/detail/tinyhttp-url)** - URL extensions for tinyhttp (📄 MIT • 📦 v1.1.0)
 - **[tinyhttp-forwarded](https://ohpm.openharmony.cn/#/cn/detail/tinyhttp-forwarded)** - forwarded rewrite with TypeScript and ESM support (📄 MIT • 📦 v1.1.0)
@@ -1131,22 +1132,23 @@ HTTP clients, API wrappers, networking libraries, and communication tools
 - **[@jemoc/rcpclient](https://ohpm.openharmony.cn/#/cn/detail/%40jemoc%2Frcpclient)** - 通过装饰器实现rcp网络请求 (📄 MIT License • 📦 v1.0.0)
 - **[@yyz116/socket.io-client](https://ohpm.openharmony.cn/#/cn/detail/%40yyz116%2Fsocket.io-client)** - The engine used in the Socket.IO JavaScript client, which manages the low-level transports such as HTTP long-polling, WebSocket and WebTransport., 本软件是移植开源软件engine.io-client源码在OpenHarmony上进行功能适配。 (📄 MIT • 📦 v1.0.2)
 - **[@nutpi/url-join](https://ohpm.openharmony.cn/#/cn/detail/%40nutpi%2Furl-join)** - Join all arguments together and normalize the resulting url. (📄 MIT • 📦 v1.0.0)
+- **[@free/network](https://ohpm.openharmony.cn/#/cn/detail/%40free%2Fnetwork)** - harmony os 基于系统网络请求库，http，websocket 封装。 (📄 MIT • ⭐ 1 likes • 📦 v1.0.3)
+- **[protobufjs_arkts](https://ohpm.openharmony.cn/#/cn/detail/protobufjs_arkts)** - Protocol Buffers for ArkTS (📄 BSD-3-Clause • 📦 v1.1.0)
 - **[@hlm/fasthttp](https://ohpm.openharmony.cn/#/cn/detail/%40hlm%2Ffasthttp)** - 快速HTTP (📄 ISC • ⭐ 1 likes • 📦 v1.0.0)
 - **[@zaun/stompjs](https://ohpm.openharmony.cn/#/cn/detail/%40zaun%2Fstompjs)** - STOMP client for Harmony (📄 Apache-2.0 • ⭐ 2 likes • 📦 v1.0.0)
 - **[http](https://ohpm.openharmony.cn/#/cn/detail/http)** - http 是一个基于 Promise 的网络请求库，该库可在 OpenHarmony 中使用，有以下功能：
 
 HTTP 请求 承诺 API 请求和响应拦截器 请求和响应数据的转换 自动转换 JSON 数据 (📄 Apache-2.0 • 📦 v1.0.0)
-- **[protobufjs_arkts](https://ohpm.openharmony.cn/#/cn/detail/protobufjs_arkts)** - Protocol Buffers for ArkTS (📄 BSD-3-Clause • 📦 v1.1.0)
 - **[@erichuyuehu/httpdns](https://ohpm.openharmony.cn/#/cn/detail/%40erichuyuehu%2Fhttpdns)** - 移动解析 HTTPDNS 是基于 HTTP 协议向腾讯云的 DNS 服务器发送域名解析请求，替代了基于 DNS 协议向运营商 LocalDNS 发起解析请求的传统方式，可以避免 LocalDNS 造成的域名劫持和跨网访问的问题，解决移动互联网服务中域名解析异常带来的困扰，同时更有效地保障 App、小程序正常，避免移动互联网中的劫持、跨网域名解析错误等问题。 (📄 Apache-2.0 • 📦 v1.0.1)
 - **[@invincible/request](https://ohpm.openharmony.cn/#/cn/detail/%40invincible%2Frequest)** - 这是一个基于rcp封装的库 (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.0.0)
 - **[limiter](https://ohpm.openharmony.cn/#/cn/detail/limiter)** - A generic rate limiter for node.js. Useful for API clients, web crawling, or other tasks that need to be throttled (📦 v1.1.5)
 - **[randomurl](https://ohpm.openharmony.cn/#/cn/detail/randomurl)** - 一个生成随机图片地址或者video地址的工具 (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.0.0)
 - **[@super/http](https://ohpm.openharmony.cn/#/cn/detail/%40super%2Fhttp)** - 鸿蒙NEXT HTTP请求库 (📄 Apache-2.0 • 📦 v1.7.0)
 - **[@yic/http](https://ohpm.openharmony.cn/#/cn/detail/%40yic%2Fhttp)** - 基于OpenHarmony/HarmonyOS使用ArkTS封装ohos.net.http原生网络请求的框架，具备轻量、可扩展等特性 (📄 Apache-2.0 • 📦 v1.0.1)
-- **[@free/network](https://ohpm.openharmony.cn/#/cn/detail/%40free%2Fnetwork)** - harmony os 基于系统网络请求库，http，websocket 封装。 (📄 MIT • ⭐ 1 likes • 📦 v1.0.2)
 - **[axios-use-byself](https://ohpm.openharmony.cn/#/cn/detail/axios-use-byself)** - 这是一个简单的http封装函数，用户可以通过导入Axios，直接使用Axios的常用请求，比如get、put、delete、post (📄 Apache-2.0 • 📦 v1.0.0)
 - **[lhdaxiospackage](https://ohpm.openharmony.cn/#/cn/detail/lhdaxiospackage)** - Simple encapsulation of Axios (📄 MIT • 📦 v1.0.0)
 - **[myauth](https://ohpm.openharmony.cn/#/cn/detail/myauth)** - 一个鉴权工具库，包括用户信息存储，用户权限判断，利用首选项preferences，做数据持久化使用工具 (📄 Apache-2.0 • 📦 v1.1.0)
+- **[@lynx/lynx_http_service](https://ohpm.openharmony.cn/#/cn/detail/%40lynx%2Flynx_http_service)** - Lynx Http Service (📄 Apache-2.0 • 📦 v3.4.0)
 - **[backup_air](https://ohpm.openharmony.cn/#/cn/detail/backup_air)** - 专注于数据备份与恢复的开源项目，零侵入的为项目添加备份功能。基于华为云存储，使用sdk和http两种方案。 (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.0.0)
 - **[http_encapsulation](https://ohpm.openharmony.cn/#/cn/detail/http_encapsulation)** - Secondary encapsulation based on Axios (📄 Apache-2.0 • 📦 v1.0.0)
 - **[http_core](https://ohpm.openharmony.cn/#/cn/detail/http_core)** - http 是一个基于 Promise 的网络请求库，在HarmonyOS中运行。该库有以下功能：
@@ -1156,7 +1158,6 @@ Promise API
 请求和响应拦截器
 请求和响应数据的转换
 自动转换 JSON 数据 (📄 Apache-2.0 • ⭐ 4 likes • 📦 v1.0.0)
-- **[@lynx/lynx_http_service](https://ohpm.openharmony.cn/#/cn/detail/%40lynx%2Flynx_http_service)** - Lynx Http Service (📄 Apache-2.0 • 📦 v3.4.0)
 - **[protobufjs_path_arkts](https://ohpm.openharmony.cn/#/cn/detail/protobufjs_path_arkts)** - A minimal path module to resolve Unix, Windows and URL paths alike. (📄 BSD-3-Clause • 📦 v1.0.0)
 - **[xinhttp](https://ohpm.openharmony.cn/#/cn/detail/xinhttp)** - http 是一个基于 Promise 的网络请求库，在HarmonyOS中运行。该库有以下功能：  HTTP 请求  Promise API  请求和响应拦截器  请求和响应数据的转换  自动转换 JSON 数据 (📄 Apache-2.0 • ⭐ 5 likes • 📦 v1.0.0)
 - **[coremedia](https://ohpm.openharmony.cn/#/cn/detail/coremedia)** - 音视频等多媒体播放框架，封装用于跟鸿蒙系统多媒体播放相关api，简化音视频播放流程。 (📄 Apache-2.0 • 📦 v1.0.0)
@@ -1177,7 +1178,7 @@ Promise API
 
 Database libraries, data persistence, storage solutions, and data management
 
-**52 packages** • Avg popularity: 269
+**52 packages** • Avg popularity: 271
 
 - **[@ohos/dataorm](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fdataorm)** - dataORM is a relational mapping database with one line of code to manipulate a database or chain call, backup, upgrade, cache, and more (📄 Apache License 2.0 • ⭐ 26 likes • 📦 v2.3.0)
 - **[@hw-agconnect/cloud](https://ohpm.openharmony.cn/#/cn/detail/%40hw-agconnect%2Fcloud)** - AppGalleryConnectSDK hmcloud for OpenHarmony. (📄 ISC • ⭐ 1 likes • 📦 v1.0.2)
@@ -1236,7 +1237,7 @@ Database libraries, data persistence, storage solutions, and data management
 
 Audio, video, image processing, camera, and multimedia handling
 
-**104 packages** • Avg popularity: 410
+**104 packages** • Avg popularity: 414
 
 - **[@ohos/imageknife](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fimageknife)** - 专门为OpenHarmony打造的一款图像加载缓存库，致力于更高效、更轻便、更简单 (📄 Apache License 2.0 • ⭐ 101 likes • 📦 v3.2.7)
 - **[@ohos/gpu_transform](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fgpu_transform)** - based on OpenHarmony system, it can quickly realize image blur, Mosaic, sketch and other transformation effects through GPU (📄 Apache License 2.0 • ⭐ 2 likes • 📦 v1.0.4)
@@ -1252,8 +1253,8 @@ Audio, video, image processing, camera, and multimedia handling
 - **[@seagazer/ccplayer](https://ohpm.openharmony.cn/#/cn/detail/%40seagazer%2Fccplayer)** - A media player for OpenHarmony & HarmonyOS. (📄 Apache License 2.0 • ⭐ 7 likes • 📦 v1.2.6)
 - **[@ohos/gsyvideoplayer](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fgsyvideoplayer)** - gsyvideoplayer是一款ohos视频播放器三方库。 (📄 Apache-2.0 • ⭐ 8 likes • 📦 v1.0.2)
 - **[@ohos/imageknifepro](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fimageknifepro)** - 专门为OpenHarmony打造的一款图像加载缓存库，致力于更高效、更轻便、更简单 (📄 Apache-2.0 • 📦 v1.0.5)
-- **[@xsqd/photogallery](https://ohpm.openharmony.cn/#/cn/detail/%40xsqd%2Fphotogallery)** - 图片预览库，提供全模态预览窗口、本地缓存、预览图组件等功能 (📄 proprietary • ⭐ 3 likes • 📦 v1.3.8)
 - **[he](https://ohpm.openharmony.cn/#/cn/detail/he)** - A robust HTML entities encoder/decoder with full Unicode support. (📄 MIT • 📦 v1.2.0)
+- **[@xsqd/photogallery](https://ohpm.openharmony.cn/#/cn/detail/%40xsqd%2Fphotogallery)** - 图片预览库，提供全模态预览窗口、本地缓存、预览图组件等功能 (📄 proprietary • ⭐ 3 likes • 📦 v1.3.8)
 - **[@tencentyun/libiotvideo](https://ohpm.openharmony.cn/#/cn/detail/%40tencentyun%2Flibiotvideo)** - Video SDK 主要提供了 Harmony APP 端 P2P 接入、实时监控、语音对讲、本地回放等基本能力。 (📄 Apache-2.0 • ⭐ 3 likes • 📦 v1.1.8)
 - **[@polyvharmony/media-player-core-api](https://ohpm.openharmony.cn/#/cn/detail/%40polyvharmony%2Fmedia-player-core-api)** - polyv media-player-core-api (📄 MIT • 📦 v2.6.1)
 - **[@polyvharmony/media-player-foundation](https://ohpm.openharmony.cn/#/cn/detail/%40polyvharmony%2Fmedia-player-foundation)** - polyv media-player-foundation (📄 MIT • 📦 v2.6.1)
@@ -1261,8 +1262,8 @@ Audio, video, image processing, camera, and multimedia handling
 - **[@polyvharmony/media-player-business](https://ohpm.openharmony.cn/#/cn/detail/%40polyvharmony%2Fmedia-player-business)** - polyv media-player-business (📄 MIT • 📦 v2.6.1)
 - **[@polyvharmony/media-player-core-ijk](https://ohpm.openharmony.cn/#/cn/detail/%40polyvharmony%2Fmedia-player-core-ijk)** - polyv media-player-core-ijk (📄 MIT • 📦 v2.6.1)
 - **[@ohos/photoview](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fphotoview)** - Implementation of ImageView for ohos that supports zooming, by various touch gestures. (📄 Apache-2.0 • ⭐ 2 likes • 📦 v2.1.0)
-- **[uvc_camera](https://ohpm.openharmony.cn/#/cn/detail/uvc_camera)** - uvc摄像头预览，video视频预览功能 (📄 Apache-2.0 • ⭐ 3 likes • 📦 v1.0.17)
 - **[filterbar](https://ohpm.openharmony.cn/#/cn/detail/filterbar)** - FilterBar是一款OpenHarmony环境下可用的筛选组件，使用频次很高。支持单列、双列、单选、双选，使用者可根据自己需求配置 (📄 Apache-2.0 • ⭐ 3 likes • 📦 v1.0.6)
+- **[uvc_camera](https://ohpm.openharmony.cn/#/cn/detail/uvc_camera)** - uvc摄像头预览，video视频预览功能 (📄 Apache-2.0 • ⭐ 3 likes • 📦 v1.0.17)
 - **[@changjing/player](https://ohpm.openharmony.cn/#/cn/detail/%40changjing%2Fplayer)** - changjing video player component (📄 Apache-2.0 • 📦 v1.2.3)
 - **[@baiduplayer/baiduplayersdk](https://ohpm.openharmony.cn/#/cn/detail/%40baiduplayer%2Fbaiduplayersdk)** - baidu cloud mediaplayer sdk for ohos (📄 MIT • 📦 v1.1.0)
 - **[@mumu/crop_page](https://ohpm.openharmony.cn/#/cn/detail/%40mumu%2Fcrop_page)** - 鸿蒙图片裁剪页面(Image cropping page.) (📄 MIT • ⭐ 5 likes • 📦 v1.0.3)
@@ -1339,10 +1340,10 @@ Audio, video, image processing, camera, and multimedia handling
 - **[imtype](https://ohpm.openharmony.cn/#/cn/detail/imtype)** - Get image type (📄 ISC • 📦 v1.0.0)
 - **[hywlibrary](https://ohpm.openharmony.cn/#/cn/detail/hywlibrary)** - comment video (📄 Apache-2.0 • 📦 v1.0.0)
 - **[d3_axis](https://ohpm.openharmony.cn/#/cn/detail/d3_axis)** - Displays automatic reference lines for scales. (📄 ISC • 📦 v3.0.0)
-- **[qnshortvideokit](https://ohpm.openharmony.cn/#/cn/detail/qnshortvideokit)** - qnshortvideokit 是七牛推出的一款适用于 Harmony 平台的短视频 SDK，提供了包括美颜、滤镜、水印、断点录制、分段回删、视频编辑、混音特效、MV 特效、本地/云端存储在内的多种功能，支持高度定制以及二次开发。 (📄 Apache-2.0 • 📦 v1.0.4)
 - **[@zego/zego-express-engine](https://ohpm.openharmony.cn/#/cn/detail/%40zego%2Fzego-express-engine)** - 极速视频（Express Video）是一款实时的音视频互动服务产品，能够为开发者提供便捷接入、高可靠、多平台互通的音视频服务。通过低至 200 ms 的端到端平均时延，业内领先的保障弱网质量的 QoS 策略，并结合强大的 3A 处理能力，完美支持一对多、多对多的实时音视频通话、直播、会议等场景。 (📄 MIT • 📦 v3.21.1)
-- **[hm_markdown_editor](https://ohpm.openharmony.cn/#/cn/detail/hm_markdown_editor)** - 鸿蒙原生Markdown编辑器 (📄 MIT • 📦 v1.0.1)
+- **[qnshortvideokit](https://ohpm.openharmony.cn/#/cn/detail/qnshortvideokit)** - qnshortvideokit 是七牛推出的一款适用于 Harmony 平台的短视频 SDK，提供了包括美颜、滤镜、水印、断点录制、分段回删、视频编辑、混音特效、MV 特效、本地/云端存储在内的多种功能，支持高度定制以及二次开发。 (📄 Apache-2.0 • 📦 v1.0.4)
 - **[@seagazer/ccplayer-ijk](https://ohpm.openharmony.cn/#/cn/detail/%40seagazer%2Fccplayer-ijk)** - An extensions of ijkplayer for ccplayer. (📄 Apache License 2.0 • 📦 v1.0.0)
+- **[hm_markdown_editor](https://ohpm.openharmony.cn/#/cn/detail/hm_markdown_editor)** - 鸿蒙原生Markdown编辑器 (📄 MIT • 📦 v1.0.1)
 - **[hdimageviewer](https://ohpm.openharmony.cn/#/cn/detail/hdimageviewer)** - 专门为OpenHarmony打造用于显示大图、长图、超大图（*.jpg,*.png）的组件，根据分辨率和缩放大小来动态控制图片的采样率，进行自适应分块渲染，在不超过应用内存水位的情况下能够展示原图。 (📄 Apache-2.0 • 📦 v1.0.0)
 - **[@aliyun_video_cloud/aliyun_player](https://ohpm.openharmony.cn/#/cn/detail/%40aliyun_video_cloud%2Faliyun_player)** - Aliyun player sdk for Harmony OS (📄 MIT • 📦 v7.6.1)
 - **[@hj-live/hjpusher](https://ohpm.openharmony.cn/#/cn/detail/%40hj-live%2Fhjpusher)** - HJMedia. (📄 LGPL v2.1 • 📦 v1.0.0)
@@ -1353,7 +1354,7 @@ Audio, video, image processing, camera, and multimedia handling
 
 GPS, location services, maps, navigation, and geolocation features
 
-**36 packages** • Avg popularity: 625
+**36 packages** • Avg popularity: 631
 
 - **[@amap/amap_lbs_map3d](https://ohpm.openharmony.cn/#/cn/detail/%40amap%2Famap_lbs_map3d)** - 高德开放平台地图SDK，实现了地图的基础功能，包括地图展示、地图操作、覆盖物的绘制等。 (📄 Apache-2.0 • ⭐ 7 likes • 📦 v2.2.1)
 - **[@amap/amap_lbs_location](https://ohpm.openharmony.cn/#/cn/detail/%40amap%2Famap_lbs_location)** - 高德开放平台定位SDK (📄 Apache-2.0 • ⭐ 2 likes • 📦 v1.2.1)
@@ -1396,7 +1397,7 @@ GPS, location services, maps, navigation, and geolocation features
 
 Device sensors, hardware interfaces, and system capabilities
 
-**22 packages** • Avg popularity: 180
+**22 packages** • Avg popularity: 181
 
 - **[@aliyun/edid](https://ohpm.openharmony.cn/#/cn/detail/%40aliyun%2Fedid)** - Used to generate a 24-byte unique device identification code. (📄 MIT • 📦 v1.1.0)
 - **[sherpa_onnx](https://ohpm.openharmony.cn/#/cn/detail/sherpa_onnx)** - On-device speech-to-text, text-to-speech, and speaker diarization using Next-gen Kaldi without Internet connection (📄 Apache-2.0 • ⭐ 3 likes • 📦 v1.12.10)
@@ -1425,7 +1426,7 @@ Device sensors, hardware interfaces, and system capabilities
 
 Security libraries, encryption, authentication, and privacy tools
 
-**40 packages** • Avg popularity: 448
+**40 packages** • Avg popularity: 452
 
 - **[@ohos/crypto-js](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fcrypto-js)** - The encryption algorithm class library can be very convenient to perform the encryption and decryption operations it supports in the front end. Currently, the algorithms supported by crypto-js are: MD5, SHA-1, SHA-256, HMAC, HMAC-MD5, HMAC-SHA1, HMAC-SHA256, PBKDF2, etc. (📄 MIT • ⭐ 26 likes • 📦 v2.0.4)
 - **[@ohos/jsonwebtoken](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fjsonwebtoken)** - 适用于openharmony环境的JSON Web Token 实现 (📄 The MIT License • ⭐ 1 likes • 📦 v1.0.2)
@@ -1452,8 +1453,8 @@ Security libraries, encryption, authentication, and privacy tools
 - **[@abner/keyboard](https://ohpm.openharmony.cn/#/cn/detail/%40abner%2Fkeyboard)** - CustomizeKeyboard是一个自定义键盘组件库，目前支持英文、股票数字、车牌省份简称、车牌字母等常见自定义键盘。 (📄 Apache-2.0 • 📦 v1.0.2)
 - **[totp-generator](https://ohpm.openharmony.cn/#/cn/detail/totp-generator)** - 从密钥生成TOTP验证码 Generate TOTP tokens from key  (📄 MIT • ⭐ 1 likes • 📦 v0.0.6)
 - **[@ohos-rs/openssl](https://ohpm.openharmony.cn/#/cn/detail/%40ohos-rs%2Fopenssl)** - OpenSSL for OpenHarmony/HarmonyNext (📄 MIT • 📦 v0.0.1)
-- **[@ohos/xmpp_sasl_scram_sha_1](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fxmpp_sasl_scram_sha_1)** - 在OpenHarmony上提供了一个用于 XMPP 协议的 SASL（安全认证层）机制，它基于 SCRAM 协议使用 SHA-1 哈希函数进行用户认证的library (📄 ISC License • 📦 v1.0.2)
 - **[@yunkss/ef_crypto_dto](https://ohpm.openharmony.cn/#/cn/detail/%40yunkss%2Fef_crypto_dto)** - eftool的加解密crypto封装包返回类型为OutDTO,封装了常见的AES、RSA、MD5、SHA、SM2、SM3、SM4、动态协商等，提供一系列快捷操作方法. (📄 Apache-2.0 • ⭐ 3 likes • 📦 v1.0.1)
+- **[@ohos/xmpp_sasl_scram_sha_1](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fxmpp_sasl_scram_sha_1)** - 在OpenHarmony上提供了一个用于 XMPP 协议的 SASL（安全认证层）机制，它基于 SCRAM 协议使用 SHA-1 哈希函数进行用户认证的library (📄 ISC License • 📦 v1.0.2)
 - **[sm_crypto](https://ohpm.openharmony.cn/#/cn/detail/sm_crypto)** - From npm package sm-crypto^-0.3.13 version https://github.com/JuneAndGreen/sm-crypto (📄 MIT • ⭐ 2 likes • 📦 v0.3.14)
 - **[js-tokens](https://ohpm.openharmony.cn/#/cn/detail/js-tokens)** - Tiny JavaScript tokenizer. (📄 MIT • 📦 v8.0.1)
 - **[@types/js-md5](https://ohpm.openharmony.cn/#/cn/detail/%40types%2Fjs-md5)** - TypeScript definitions for js-md5 (📄 MIT • 📦 v0.8.0)
@@ -1474,7 +1475,7 @@ Security libraries, encryption, authentication, and privacy tools
 
 App navigation, routing, page transitions, and navigation patterns
 
-**54 packages** • Avg popularity: 186
+**54 packages** • Avg popularity: 188
 
 - **[@hadss/hmrouter](https://ohpm.openharmony.cn/#/cn/detail/%40hadss%2Fhmrouter)** - 一款功能强大的路由框架，支持服务型路由，可配置自定义拦截器、生命周期、转场动画，支持har、Hsp，帮助开发者更好的进行模块间解耦 (📄 Apache-2.0 • ⭐ 70 likes • 📦 v1.2.0-beta.1)
 - **[@hzw/zrouter](https://ohpm.openharmony.cn/#/cn/detail/%40hzw%2Fzrouter)** - ZRouter是一款轻量级且非侵入性的动态路由框架，可解决HAR/HSP业务模块间的耦合与通信问题，提供了自定义拦截器、转场动画、生命周期函数管理、NavDestination模板化等功能 (📄 Apache-2.0 • ⭐ 91 likes • 📦 v1.6.1)
@@ -1496,8 +1497,8 @@ App navigation, routing, page transitions, and navigation patterns
 - **[@tangs/navrouter](https://ohpm.openharmony.cn/#/cn/detail/%40tangs%2Fnavrouter)** - Navigation路由管理工具 (📄 GPL-3.0 • ⭐ 1 likes • 📦 v1.0.4)
 - **[@ohos-cases/bottomdrawerslidecase](https://ohpm.openharmony.cn/#/cn/detail/%40ohos-cases%2Fbottomdrawerslidecase)** - 本示例主要介绍了利用List实现底部抽屉滑动效果场景，并将界面沉浸式（全屏）显示，及背景地图可拖动。 (📄 Apache License 2.0 • ⭐ 1 likes • 📦 v1.0.2)
 - **[@duke/component-lifecycle](https://ohpm.openharmony.cn/#/cn/detail/%40duke%2Fcomponent-lifecycle)** - 鸿蒙版本的Lifecycle库，支持组件、Router和Navigation (📄 MIT • ⭐ 1 likes • 📦 v1.0.2)
-- **[@gg/urlrouter](https://ohpm.openharmony.cn/#/cn/detail/%40gg%2Furlrouter)** - 通过自定义URL路径跳转的动态路由配置 (📄 MIT • ⭐ 3 likes • 📦 v1.1.1)
 - **[@work/router](https://ohpm.openharmony.cn/#/cn/detail/%40work%2Frouter)** - Navigation & Router 融合封装，自定义标题栏 TitleBar；扩装封装系统Navigation & Router，使用更便捷、无缝切换 (📄 Apache-2.0 • ⭐ 2 likes • 📦 v1.0.2)
+- **[@gg/urlrouter](https://ohpm.openharmony.cn/#/cn/detail/%40gg%2Furlrouter)** - 通过自定义URL路径跳转的动态路由配置 (📄 MIT • ⭐ 3 likes • 📦 v1.1.1)
 - **[@ohos_lib/navigation_bar](https://ohpm.openharmony.cn/#/cn/detail/%40ohos_lib%2Fnavigation_bar)** - 这是一款丰富HarmonyNext的自定义导航插件 (📄 Apache-2.0 • ⭐ 2 likes • 📦 v1.0.1)
 - **[@ustory/xrouter](https://ohpm.openharmony.cn/#/cn/detail/%40ustory%2Fxrouter)** - 一个简单好用的动态路由框架 (📄 Apache-2.0 • ⭐ 3 likes • 📦 v1.0.5)
 - **[@tencentmap/nav](https://ohpm.openharmony.cn/#/cn/detail/%40tencentmap%2Fnav)** - 腾讯位置服务导航SDK (📄 Apache-2.0 • 📦 v1.0.1)
@@ -1505,7 +1506,7 @@ App navigation, routing, page transitions, and navigation patterns
 - **[@zztsdk/moblink](https://ohpm.openharmony.cn/#/cn/detail/%40zztsdk%2Fmoblink)** - MobLink通过深度链接的技术，实现APP的链接化，提供Web与APP直接跳转的完全免费产品服务，实现网页间直接跳转升级为APP间直接跳转 (📄 Apache-2.0 • 📦 v1.1.0)
 - **[lodash.clonedeep](https://ohpm.openharmony.cn/#/cn/detail/lodash.clonedeep)** - The lodash method `_.cloneDeep` exported as a module. (📄 MIT • 📦 v4.5.0)
 - **[@jzdy/router](https://ohpm.openharmony.cn/#/cn/detail/%40jzdy%2Frouter)** - 鸿蒙动态路由插件. (📄 Apache-2.0 • ⭐ 2 likes • 📦 v1.1.3)
-- **[@work/workit](https://ohpm.openharmony.cn/#/cn/detail/%40work%2Fworkit)** - HarmonyOS开发基础SDK，开发标准规范化体系（resource、Modifier、MVVM）、Refresh、Utils、网络层封装、融合Navigation/Router、多功能自定义弹窗HUD、高扩展高灵活性功能UI组件 (📄 Apache-2.0 • ⭐ 2 likes • 📦 v1.0.0-alpha.7)
+- **[@work/workit](https://ohpm.openharmony.cn/#/cn/detail/%40work%2Fworkit)** - 一款HarmonyOS开发基础SDK，@work/*系列库的聚合版；构建开发标准规范化体系（resource、Modifier、MVVM）、Refresh、Utils、网络层封装、融合Navigation/Router、多功能自定义弹窗HUD、高扩展高灵活性功能UI组件 (📄 Apache-2.0 • ⭐ 2 likes • 📦 v1.0.0-alpha.8)
 - **[@invincible/navigation](https://ohpm.openharmony.cn/#/cn/detail/%40invincible%2Fnavigation)** - 这是一个管理navigation单页面导航方法 (📄 Apache-2.0 • 📦 v1.0.2)
 - **[@satis/oh-router](https://ohpm.openharmony.cn/#/cn/detail/%40satis%2Foh-router)** - 动态生成系统路由表注解 (📄 MIT • 📦 v1.0.4)
 - **[screenshot_hm](https://ohpm.openharmony.cn/#/cn/detail/screenshot_hm)** - 用于对某个组件进行截图操作 (📄 MIT • 📦 v1.0.0)
@@ -1535,7 +1536,7 @@ App navigation, routing, page transitions, and navigation patterns
 
 State management solutions, data flow, and application state handling
 
-**18 packages** • Avg popularity: 359
+**18 packages** • Avg popularity: 363
 
 - **[rxjs](https://ohpm.openharmony.cn/#/cn/detail/rxjs)** - Reactive Extensions for modern JavaScript (📄 Apache-2.0 • ⭐ 3 likes • 📦 v7.8.2)
 - **[@abner/datastore](https://ohpm.openharmony.cn/#/cn/detail/%40abner%2Fdatastore)** - datastore是一个用于数据存储的工具库，支持用户首选项、分布式数据库、关系型数据库、让数据存储使用变得无比的简单。 (📄 Apache-2.0 • ⭐ 31 likes • 📦 v1.0.6)
@@ -1546,7 +1547,7 @@ State management solutions, data flow, and application state handling
 - **[@mui/rxjs](https://ohpm.openharmony.cn/#/cn/detail/%40mui%2Frxjs)** - Reactive Extensions for modern JavaScript (📄 Apache-2.0 • ⭐ 1 likes • 📦 v7.8.2)
 - **[@ohos/vcard](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fvcard)** - vcard 规范容许公开交换个人数据交换 (Personal Data Interchange PDI) 信息，在传统纸质商业名片可找到这些信息。规范定义电子名片（或叫vCard）的格式。 (📄 Apache License 2.0 • 📦 v3.0.4)
 - **[@archermind/exceljs](https://ohpm.openharmony.cn/#/cn/detail/%40archermind%2Fexceljs)** - Excel Workbook Manager - Read and Write xlsx Files. (📄 MIT • ⭐ 1 likes • 📦 v1.0.0)
-- **[@work/core](https://ohpm.openharmony.cn/#/cn/detail/%40work%2Fcore)** - HarmonyOS开发基础SDK核心件，开发标准规范化体系resource、Modifier、基本信息、DataSource等工具扩展 (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.0.4)
+- **[@work/core](https://ohpm.openharmony.cn/#/cn/detail/%40work%2Fcore)** - HarmonyOS开发基础SDK核心件，开发标准规范化体系resource、Modifier、基本信息、DataSource等工具扩展 (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.0.5)
 - **[@awesome/foundation](https://ohpm.openharmony.cn/#/cn/detail/%40awesome%2Ffoundation)** - Access essential data types, collections, and operating-system services to define the base layer of functionality for your app. (📄 Apache-2.0 • 📦 v1.0.1)
 - **[@one/lazy-data](https://ohpm.openharmony.cn/#/cn/detail/%40one%2Flazy-data)** - 轻松处理数据懒加载 (📄 Apache-2.0 • ⭐ 2 likes • 📦 v1.0.1)
 - **[@lynx/lynx_devtool_service](https://ohpm.openharmony.cn/#/cn/detail/%40lynx%2Flynx_devtool_service)** - Lynx DevTool Service (📄 Apache-2.0 • 📦 v3.4.0)
@@ -1560,7 +1561,7 @@ State management solutions, data flow, and application state handling
 
 i18n, l10n, multi-language support, and localization tools
 
-**4 packages** • Avg popularity: 612
+**4 packages** • Avg popularity: 621
 
 - **[@ohos/localeenus](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Flocaleenus)** - prebuilt js-joda locale package for locales: en,en-US (📄 BSD-3-Clause • 📦 v2.0.3)
 - **[@js-joda/timezone](https://ohpm.openharmony.cn/#/cn/detail/%40js-joda%2Ftimezone)** - iana tzdb timezone bindings for js-joda (📄 BSD-3-Clause • 📦 v2.22.0)
@@ -1571,7 +1572,7 @@ i18n, l10n, multi-language support, and localization tools
 
 Animation libraries, visual effects, transitions, and motion design
 
-**9 packages** • Avg popularity: 79
+**9 packages** • Avg popularity: 80
 
 - **[@unravel/throttle_debounce](https://ohpm.openharmony.cn/#/cn/detail/%40unravel%2Fthrottle_debounce)** - 节流和防抖函数，支持纯函数以及装饰器调用 (📄 Apache-2.0 • ⭐ 3 likes • 📦 v1.0.1)
 - **[@seagazer/ccindexer](https://ohpm.openharmony.cn/#/cn/detail/%40seagazer%2Fccindexer)** - A custom indexer view with motion animation for OpenHarmony & HarmonyOS. (📄 Apache License 2.0 • 📦 v1.0.3)
@@ -1587,7 +1588,7 @@ Animation libraries, visual effects, transitions, and motion design
 
 Game development, 3D graphics, rendering, and interactive experiences
 
-**19 packages** • Avg popularity: 123
+**19 packages** • Avg popularity: 124
 
 - **[@ohos/materialprogressbar](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fmaterialprogressbar)** - MaterialProgressBar是一个自定义ProgressBar效果。 (📄 Apache License 2.0 • ⭐ 3 likes • 📦 v2.1.2)
 - **[@lynx/primjs](https://ohpm.openharmony.cn/#/cn/detail/%40lynx%2Fprimjs)** - A JavaScript Engine Optimized for Lynx (📄 Apache-2.0 • 📦 v2.14.0)
@@ -1597,7 +1598,7 @@ Game development, 3D graphics, rendering, and interactive experiences
 - **[@jemoc/glview](https://ohpm.openharmony.cn/#/cn/detail/%40jemoc%2Fglview)** - 组建结合egl和opengl es能力，可以在arkTs侧进行opengl渲染绘制 (📄 Apache-2.0 • 📦 v1.2.1)
 - **[@polyvharmony/live-scenes-sdk](https://ohpm.openharmony.cn/#/cn/detail/%40polyvharmony%2Flive-scenes-sdk)** - polyv live-scenes-sdk (📄 MIT • 📦 v1.2.0)
 - **[@ohos/okdownload](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fokdownload)** - A Reliable, Flexible, Fast and Powerful download engine. (📄 Apache-2.0 • ⭐ 2 likes • 📦 v2.0.2)
-- **[@mybricks/render-utils](https://ohpm.openharmony.cn/#/cn/detail/%40mybricks%2Frender-utils)** - MyBricks.ai鸿蒙相关产物运行时需依赖的工具包 (📄 MIT • 📦 v1.0.14)
+- **[@mybricks/render-utils](https://ohpm.openharmony.cn/#/cn/detail/%40mybricks%2Frender-utils)** - MyBricks.ai鸿蒙相关产物运行时需依赖的工具包 (📄 MIT • 📦 v1.0.15)
 - **[@faceunity/renderkit_nama](https://ohpm.openharmony.cn/#/cn/detail/%40faceunity%2Frenderkit_nama)** - 拥有业内前沿的人脸、人体、手势、分割等算法能力，提供丰富的人脸特效（智能美颜、美妆、贴纸等）、人体特效（人像分割、绿幕抠像、手势识别等）产品功能，为多行业提供专业的AR视频特效解决方案。 (📄 Apache-2.0 • ⭐ 1 likes • 📦 v2.1.0)
 - **[events](https://ohpm.openharmony.cn/#/cn/detail/events)** - Node's event emitter for all engines. (📄 MIT • 📦 v3.3.0)
 - **[@solarengine/core](https://ohpm.openharmony.cn/#/cn/detail/%40solarengine%2Fcore)** - SolarEngine SDK (📄 solarengine • 📦 v1.2.0)
@@ -1613,10 +1614,10 @@ Game development, 3D graphics, rendering, and interactive experiences
 
 Social media integration, sharing capabilities, and social features
 
-**17 packages** • Avg popularity: 1,278
+**17 packages** • Avg popularity: 1,297
 
 - **[@tencent/mmkv](https://ohpm.openharmony.cn/#/cn/detail/%40tencent%2Fmmkv)** - The official OpenHarmony package of MMKV. An efficient, small mobile key-value storage framework developed by WeChat. (📄 BSD 3-Clause • ⭐ 44 likes • 📦 v2.2.3)
-- **[@tencent/wechat_open_sdk](https://ohpm.openharmony.cn/#/cn/detail/%40tencent%2Fwechat_open_sdk)** - Tencent WeChat OpenSDK (📄 MPL-2.0 • ⭐ 59 likes • 📦 v1.0.14)
+- **[@tencent/wechat_open_sdk](https://ohpm.openharmony.cn/#/cn/detail/%40tencent%2Fwechat_open_sdk)** - Tencent WeChat OpenSDK (📄 MPL-2.0 • ⭐ 60 likes • 📦 v1.0.14)
 - **[@tencent/qq-open-sdk](https://ohpm.openharmony.cn/#/cn/detail/%40tencent%2Fqq-open-sdk)** - QQ Open SDK (📄 MPL-2.0 • ⭐ 1 likes • 📦 v1.0.3)
 - **[@sobot/chat_core](https://ohpm.openharmony.cn/#/cn/detail/%40sobot%2Fchat_core)** - chat_core是智齿聊天客户端核心业务库。 (📄 MIT • 📦 v1.1.0)
 - **[@echat/echat_sdk](https://ohpm.openharmony.cn/#/cn/detail/%40echat%2Fechat_sdk)** - 一洽专业在线客服系统现已推出鸿蒙OS（HarmonyOS）SDK，为开发者提供便捷的集成方案。通过该SDK，用户可在鸿蒙OS设备上无缝接入一洽客服系统，实现全渠道客户服务支持，包括网站、微信、APP、小程序、微博、Facebook、Line、WhatsApp、邮件、贴子等多种渠道 (📄 Proprietary • 📦 v1.0.7)
@@ -1637,7 +1638,7 @@ Social media integration, sharing capabilities, and social features
 
 Payment processing, e-commerce features, and financial integrations
 
-**5 packages** • Avg popularity: 2,815
+**5 packages** • Avg popularity: 2,855
 
 - **[@cashier_alipay/cashiersdk](https://ohpm.openharmony.cn/#/cn/detail/%40cashier_alipay%2Fcashiersdk)** - alipay standard cashier sdk for ohos (📄 Apache-2.0 • ⭐ 32 likes • 📦 v15.8.37)
 - **[@uni_modules/uni-payment-alipay](https://ohpm.openharmony.cn/#/cn/detail/%40uni_modules%2Funi-payment-alipay)** - uni-app runtime package (📄 Apache-2.0 • 📦 v1.0.2)
@@ -1649,7 +1650,7 @@ Payment processing, e-commerce features, and financial integrations
 
 Augmented reality, virtual reality, and immersive technologies
 
-**170 packages** • Avg popularity: 267
+**170 packages** • Avg popularity: 270
 
 - **[@ohos/aki](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Faki)** - AKI (Alpha Kernel Interacting) 是一款边界性编程体验友好的ArkTs FFI开发框架，针对OpenHarmony Native开发提供JS与C/C++跨语言访问场景解决方案。支持极简语法糖使用方式，一行代码完成JS与C/C++的无障碍跨语言互调，所键即所得。 (📄 Apache-2.0 • ⭐ 12 likes • 📦 v1.2.20)
 - **[pako](https://ohpm.openharmony.cn/#/cn/detail/pako)** - zlib port to javascript - fast, modularized, with browser support (📄 (MIT AND Zlib) • ⭐ 2 likes • 📦 v2.1.0)
@@ -1660,8 +1661,8 @@ Augmented reality, virtual reality, and immersive technologies
 - **[@bdmap/search](https://ohpm.openharmony.cn/#/cn/detail/%40bdmap%2Fsearch)** - 适配HarmonyOS环境的一款地图SDK search包。提供各类地图服务检索能力 (📄 Apache-2.0 • ⭐ 2 likes • 📦 v1.2.9)
 - **[@volcengine/apmplus](https://ohpm.openharmony.cn/#/cn/detail/%40volcengine%2Fapmplus)** - APMPlus Harmony SDK (📄 Apache-2.0 • 📦 v2.0.6)
 - **[@hadss/nodepool](https://ohpm.openharmony.cn/#/cn/detail/%40hadss%2Fnodepool)** - A custom node pool developed for OpenHarmony. (📄 Apache-2.0 • ⭐ 15 likes • 📦 v1.0.1)
-- **[@lidary/markdown](https://ohpm.openharmony.cn/#/cn/detail/%40lidary%2Fmarkdown)** - 基于鸿蒙的Markdown解析库 (📄 MIT • ⭐ 8 likes • 📦 v2.0.4)
 - **[@bdmap/verify](https://ohpm.openharmony.cn/#/cn/detail/%40bdmap%2Fverify)** - 适配HarmonyOS环境的一款地图SDK verify包 (📄 Apache-2.0 • 📦 v1.0.2)
+- **[@lidary/markdown](https://ohpm.openharmony.cn/#/cn/detail/%40lidary%2Fmarkdown)** - 基于鸿蒙的Markdown解析库 (📄 MIT • ⭐ 8 likes • 📦 v2.0.4)
 - **[lunar](https://ohpm.openharmony.cn/#/cn/detail/lunar)** - lunar是一款无第三方依赖的公历(阳历)、农历(阴历、老黄历)、佛历和道历工具，支持星座、儒略日、干支、生肖、节气、节日、彭祖百忌、每日宜忌、吉神宜趋、凶煞宜忌、吉神(喜神/福神/财神/阳贵神/阴贵神)方位、胎神方位、冲煞、纳音、星宿、八字、五行、十神、建除十二值星、青龙名堂等十二神、黄道日及吉凶等。 (📄 MIT • ⭐ 5 likes • 📦 v1.0.0)
 - **[@sj/ffmpeg](https://ohpm.openharmony.cn/#/cn/detail/%40sj%2Fffmpeg)** - FFmpeg for HarmonyOS. 可以执行ffmpeg及ffprobe命令, 支持并发; 同时封装了一个音乐播放器, 可以播放网络或本地文件 (📄 GPL-3.0 • ⭐ 9 likes • 📦 v1.2.6)
 - **[@ohos/gif-drawable](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fgif-drawable)** - gif-drawable是专门为OpenHarmony打造的一款GIF图像渲染库 (📄 Apache License 2.0 • 📦 v2.1.0)
@@ -1687,9 +1688,9 @@ Augmented reality, virtual reality, and immersive technologies
 - **[@ohos/img2pdf](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fimg2pdf)** - JavaScript实现jpg、png图片格式添加到pdf的功能。 本模块基于开源库 jspdf 进行修改适配OpenHarmony的组件工程。 (📄 MIT License • ⭐ 1 likes • 📦 v2.0.3)
 - **[@rongcloud/imkit](https://ohpm.openharmony.cn/#/cn/detail/%40rongcloud%2Fimkit)** - 融云 IMKit SDK for HarmonyOS (📄 MIT • 📦 v1.7.2)
 - **[@mysoft/archive](https://ohpm.openharmony.cn/#/cn/detail/%40mysoft%2Farchive)** - 本库是基于 libarchive 开发完成，支持常见的 `7z`, `tar`, `zip`, `gz`, `xz` 格式解压缩 (📄 Apache-2.0 • 📦 v1.0.3)
+- **[@hw-agconnect/fast-web](https://ohpm.openharmony.cn/#/cn/detail/%40hw-agconnect%2Ffast-web)** - fast-web基于open harmony基础组件开发的高性能Web容器，提供具有预启动、预渲染、预编译JavaScript生成字节码缓存、离线资源免拦截注入等能力的Web组件。 (📄 ISC • ⭐ 1 likes • 📦 v1.0.2)
 - **[@ohos/ftp-srv](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fftp-srv)** - ftp-srv是一个用于OpenHarmony的Ftp服务器库。通过ftp-srv，开发者可以轻松地创建和管理Ftp服务器，实现文件的上传、下载、目录查看、目录创建、目录删除等操作。 (📄 MIT License • ⭐ 2 likes • 📦 v1.0.5)
 - **[@hadss/adaptive_video](https://ohpm.openharmony.cn/#/cn/detail/%40hadss%2Fadaptive_video)** - Adaptive ArkUI support for video scenarios: immersive mode、rotation、higher-order components. (📄 Apache-2.0 • ⭐ 2 likes • 📦 v1.0.2)
-- **[@hw-agconnect/fast-web](https://ohpm.openharmony.cn/#/cn/detail/%40hw-agconnect%2Ffast-web)** - fast-web基于open harmony基础组件开发的高性能Web容器，提供具有预启动、预渲染、预编译JavaScript生成字节码缓存、离线资源免拦截注入等能力的Web组件。 (📄 ISC • ⭐ 1 likes • 📦 v1.0.2)
 - **[@abner/bar](https://ohpm.openharmony.cn/#/cn/detail/%40abner%2Fbar)** - HarmonyOSBar，是一个标题栏组件，支持左右按钮，支持自定义组件，仅当做一个纯组件使用 (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.0.3)
 - **[@ohos-rs/bcrypt](https://ohpm.openharmony.cn/#/cn/detail/%40ohos-rs%2Fbcrypt)** - Rust bcrypt binding for OpenHarmony (📄 MIT • 📦 v0.1.0)
 - **[arcview](https://ohpm.openharmony.cn/#/cn/detail/arcview)** - gauge with gradient clip (📄 Apache-2.0 • 📦 v1.0.2)
@@ -1709,14 +1710,14 @@ Augmented reality, virtual reality, and immersive technologies
 - **[apm_harmony_sdk](https://ohpm.openharmony.cn/#/cn/detail/apm_harmony_sdk)** - 鸿蒙设备性能监控SDK (📄 Apache LICENSE 2.0 • 📦 v2.0.6)
 - **[@aliyun_video_cloud/vod-upload-sdk](https://ohpm.openharmony.cn/#/cn/detail/%40aliyun_video_cloud%2Fvod-upload-sdk)** - 阿里云视频点播上传SDK for HarmonyOS (📄 MIT • ⭐ 2 likes • 📦 v1.0.1)
 - **[@aalin/prettycanlendar](https://ohpm.openharmony.cn/#/cn/detail/%40aalin%2Fprettycanlendar)** - 实现了一个查询并规整观看日历功能 (📄 Apache-2.0 • 📦 v1.2.0)
-- **[@smarthane/titlebar](https://ohpm.openharmony.cn/#/cn/detail/%40smarthane%2Ftitlebar)** - 基于ArkTS封装的HarmonyOS通用、功能全面的自定义标题栏框架。 (📄 Apache-2.0 • ⭐ 11 likes • 📦 v1.0.3)
-- **[@wuyo/anjipluscaptcha](https://ohpm.openharmony.cn/#/cn/detail/%40wuyo%2Fanjipluscaptcha)** - 移植anji-plus/captcha滑动验证码到HarmonyOS工具包 (📄 MIT • ⭐ 1 likes • 📦 v1.0.3)
-- **[@ohos/webrtc](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fwebrtc)** - ArkTS interfaces of webrtc for OpenHarmony. (📄 Apache-2.0 • ⭐ 2 likes • 📦 v1.0.0-rc3)
-- **[@ohos-cases/citysearch](https://ohpm.openharmony.cn/#/cn/detail/%40ohos-cases%2Fcitysearch)** - 本示例介绍城市选择场景的使用：通过AlphabetIndexer实现首字母快速定位城市的索引条导航. (📄 Apache License 2.0 • ⭐ 2 likes • 📦 v1.0.3)
 - **[@volcengine/tos_harmonyos_sdk](https://ohpm.openharmony.cn/#/cn/detail/%40volcengine%2Ftos_harmonyos_sdk)** - TOS SDK for ArkTS (📄 MIT • 📦 v2.1.0)
+- **[@smarthane/titlebar](https://ohpm.openharmony.cn/#/cn/detail/%40smarthane%2Ftitlebar)** - 基于ArkTS封装的HarmonyOS通用、功能全面的自定义标题栏框架。 (📄 Apache-2.0 • ⭐ 11 likes • 📦 v1.0.3)
+- **[@ohos/webrtc](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fwebrtc)** - ArkTS interfaces of webrtc for OpenHarmony. (📄 Apache-2.0 • ⭐ 2 likes • 📦 v1.0.0-rc3)
+- **[@wuyo/anjipluscaptcha](https://ohpm.openharmony.cn/#/cn/detail/%40wuyo%2Fanjipluscaptcha)** - 移植anji-plus/captcha滑动验证码到HarmonyOS工具包 (📄 MIT • ⭐ 1 likes • 📦 v1.0.3)
+- **[@ohos-cases/citysearch](https://ohpm.openharmony.cn/#/cn/detail/%40ohos-cases%2Fcitysearch)** - 本示例介绍城市选择场景的使用：通过AlphabetIndexer实现首字母快速定位城市的索引条导航. (📄 Apache License 2.0 • ⭐ 2 likes • 📦 v1.0.3)
+- **[lodash-arkts](https://ohpm.openharmony.cn/#/cn/detail/lodash-arkts)** - 基于lodash-es适配, ArkTS实用工具库 (📄 MIT • 📦 v1.1.2)
 - **[@ohosquery/linq-arkts](https://ohpm.openharmony.cn/#/cn/detail/%40ohosquery%2Flinq-arkts)** - linq-arkts是对npm上轻量化库linq.js的4.0.3版本在OpenHarmony上的移植，通过类似.NET上方法调用使用LINQ的方式构建快速查询语句，可快速从数据库或集合中筛选数据 (📄 MIT • ⭐ 5 likes • 📦 v1.0.4-rc.2)
 - **[@cishu/judian_search](https://ohpm.openharmony.cn/#/cn/detail/%40cishu%2Fjudian_search)** - 聚典数据开放平台汇聚了近200种优质工具书、430多万词条、近7亿字的数据内容；集成了常用接口，方便广大开发者根据各自需求进行调用 (📄 proprietary • ⭐ 1 likes • 📦 v1.0.3)
-- **[lodash-arkts](https://ohpm.openharmony.cn/#/cn/detail/lodash-arkts)** - 基于lodash-es适配, ArkTS实用工具库 (📄 MIT • 📦 v1.1.2)
 - **[@blxt/floatball](https://ohpm.openharmony.cn/#/cn/detail/%40blxt%2Ffloatball)** - 一个harmonyos的原生悬浮球 (📄 MulanPSL2 • ⭐ 4 likes • 📦 v1.0.2)
 - **[@ohos-rs/mmkv](https://ohpm.openharmony.cn/#/cn/detail/%40ohos-rs%2Fmmkv)** - MMKV binding in OpenHarmony (📄 MIT • 📦 v0.1.0)
 - **[@ohos_lib/vmarquee](https://ohpm.openharmony.cn/#/cn/detail/%40ohos_lib%2Fvmarquee)** - 这是一款HarmonyNext无缝隙垂直向上滚动的插件 (📄 Apache-2.0 • ⭐ 2 likes • 📦 v1.0.3)
@@ -1728,24 +1729,24 @@ Augmented reality, virtual reality, and immersive technologies
 - **[@wellsign/pdfsdk](https://ohpm.openharmony.cn/#/cn/detail/%40wellsign%2Fpdfsdk)** - pdfsdk是是一款为 HarmonyOS Next 平台量身定制的pdf 预览编辑开发工具包 (📄 Apache-2.0 • 📦 v1.0.2)
 - **[lts_harmony_sdk](https://ohpm.openharmony.cn/#/cn/detail/lts_harmony_sdk)** - 鸿蒙设备上报LTS日志的SDK (📄 Apache-2.0 • ⭐ 1 likes • 📦 v0.0.4)
 - **[@ohos-rs/ada](https://ohpm.openharmony.cn/#/cn/detail/%40ohos-rs%2Fada)** - ada binding for OpenHarmony, powered by ohos-rs (📄 MIT • 📦 v0.0.4)
+- **[@polyvharmony/rtc-core-artc](https://ohpm.openharmony.cn/#/cn/detail/%40polyvharmony%2Frtc-core-artc)** - rtc-core-artc (📄 MIT • 📦 v4.4.0-p1)
 - **[@ohos/autofittextview](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fautofittextview)** - A textview that automatically resizes text to fit exactly within its boundaries (📄 Apache License 2.0 • 📦 v2.1.0)
 - **[@wukong/wkim](https://ohpm.openharmony.cn/#/cn/detail/%40wukong%2Fwkim)** - WuKongIM HarmonyOS SDK (📄 Apache-2.0 • 📦 v1.0.3)
 - **[@nutpi/leap_year](https://ohpm.openharmony.cn/#/cn/detail/%40nutpi%2Fleap_year)** - Check if a year is a leap year (📄 Apache-2.0 • 📦 v1.0.2)
-- **[@polyvharmony/rtc-core-artc](https://ohpm.openharmony.cn/#/cn/detail/%40polyvharmony%2Frtc-core-artc)** - rtc-core-artc (📄 MIT • 📦 v4.4.0-p1)
 - **[@mosafe/tun2sock](https://ohpm.openharmony.cn/#/cn/detail/%40mosafe%2Ftun2sock)** - A tun2sock lib for harmony (📄 Apache-2.0 • ⭐ 2 likes • 📦 v1.0.2)
 - **[@actools/arkcombine](https://ohpm.openharmony.cn/#/cn/detail/%40actools%2Farkcombine)** - 鸿蒙Ark版轻量级通信工具，可以直接将特有事件信号发送出去，也可以让订阅者监听属性变量的改变。 (📄 MulanPSL-2.0 • 📦 v1.2.0)
 - **[@rongcloud/rtclib](https://ohpm.openharmony.cn/#/cn/detail/%40rongcloud%2Frtclib)** - 融云 RTC SDK for HarmonyOS (📄 MIT • 📦 v1.7.1)
 - **[arkluban](https://ohpm.openharmony.cn/#/cn/detail/arkluban)** - Luban 图片压缩库的鸿蒙版本，仿照微信朋友圈压缩策略 (📄 Apache-2.0 • ⭐ 2 likes • 📦 v1.0.1)
-- **[@rv/hmd-conv](https://ohpm.openharmony.cn/#/cn/detail/%40rv%2Fhmd-conv)** - 将 html 转换成 markdown 语法 (📄 MIT • 📦 v1.0.2)
 - **[@cangjie-tpc/markdown](https://ohpm.openharmony.cn/#/cn/detail/%40cangjie-tpc%2Fmarkdown)** - Markdown4cj是一个用仓颉语言编写的适用于鸿蒙系统的Markdown库。 (📄 Apache-2.0 • ⭐ 4 likes • 📦 v1.1.4)
+- **[@rv/hmd-conv](https://ohpm.openharmony.cn/#/cn/detail/%40rv%2Fhmd-conv)** - 将 html 转换成 markdown 语法 (📄 MIT • 📦 v1.0.2)
 - **[@rongcloud/calllib](https://ohpm.openharmony.cn/#/cn/detail/%40rongcloud%2Fcalllib)** - 融云 RTC SDK for HarmonyOS (📄 MIT • 📦 v1.7.1)
 - **[rtk_dfu_core](https://ohpm.openharmony.cn/#/cn/detail/rtk_dfu_core)** - Realtek OTA Harmony SDK (📄 Apache-2.0 • ⭐ 1 likes • 📦 v0.0.3)
 - **[@nutpi/lunar](https://ohpm.openharmony.cn/#/cn/detail/%40nutpi%2Flunar)** - lunar是一款无第三方依赖的公历(阳历)、农历(阴历、老黄历)、佛历和道历工具，支持星座、儒略日、干支、生肖、节气、节日、彭祖百忌、每日宜忌、吉神宜趋、凶煞宜忌、吉神(喜神/福神/财神/阳贵神/阴贵神)方位、胎神方位、冲煞、纳音、星宿、八字、五行、十神、建除十二值星、青龙名堂等十二神、黄道日及吉凶等。 (📄 MIT • ⭐ 1 likes • 📦 v1.0.0)
-- **[tracking](https://ohpm.openharmony.cn/#/cn/detail/tracking)** - trackingIO sdk (📄 TrackingIO • 📦 v2.0.0)
 - **[@ohos-rs/abort-controller](https://ohpm.openharmony.cn/#/cn/detail/%40ohos-rs%2Fabort-controller)** - AbortController for OpenHarmony based on emitter (📄 MIT • 📦 v0.0.2)
+- **[tracking](https://ohpm.openharmony.cn/#/cn/detail/tracking)** - trackingIO sdk (📄 TrackingIO • 📦 v2.0.0)
 - **[@ak/core](https://ohpm.openharmony.cn/#/cn/detail/%40ak%2Fcore)** - ArkTS 基础服务依赖解析与注册. (📄 MIT License • 📦 v0.0.2)
-- **[base64](https://ohpm.openharmony.cn/#/cn/detail/base64)** - Base64 encoding/decoding in ArkTS (📄 MIT • 📦 v1.1.0)
 - **[@abner/search](https://ohpm.openharmony.cn/#/cn/detail/%40abner%2Fsearch)** - search是一个搜索页面模版，使用它可以很快速的实现一个带有历史搜索和热门搜索的搜索页面，通过属性可以实现我们常见的搜索样式。 (📄 Apache-2.0 • 📦 v1.0.0)
+- **[base64](https://ohpm.openharmony.cn/#/cn/detail/base64)** - Base64 encoding/decoding in ArkTS (📄 MIT • 📦 v1.1.0)
 - **[@kinpowoo/jsbridge](https://ohpm.openharmony.cn/#/cn/detail/%40kinpowoo%2Fjsbridge)** - JSBridge on harmonyOS (📄 Apache-2.0 • 📦 v1.0.1)
 - **[@nzy/load_content](https://ohpm.openharmony.cn/#/cn/detail/%40nzy%2Fload_content)** - OpenHarmony 加载中，加载失败，空数据的封装 (📄 Apache-2.0 • 📦 v1.0.1)
 - **[@fengmap/sdk](https://ohpm.openharmony.cn/#/cn/detail/%40fengmap%2Fsdk)** - 蜂鸟视图室内地图 Harmony SDK是一套基于HarmonyOS Next 5.0.0(12)及以上版本设备的应用程序接口。您可以使用该SDK开发适用于HarmonyOS Next 系统移动设备的室内地图应用，通过调用地图SDK接口，您可以轻松访问蜂鸟的地图服务和数据，构建功能丰富、交互性强的室内地图类应用程序。 (📄 Apache-2.0 • 📦 v1.1.0)
@@ -1759,15 +1760,15 @@ Augmented reality, virtual reality, and immersive technologies
 - **[ykimsdk](https://ohpm.openharmony.cn/#/cn/detail/ykimsdk)** - ykimsdk for HarmonyOS (📄 MIT • 📦 v1.0.1)
 - **[@hw-agconnect/lowcode-ohos](https://ohpm.openharmony.cn/#/cn/detail/%40hw-agconnect%2Flowcode-ohos)** - AppGalleryConnectSDK lowcode for OpenHarmony (📄 ISC • 📦 v1.1.3)
 - **[zsh_randomumber](https://ohpm.openharmony.cn/#/cn/detail/zsh_randomumber)** - 是一个基于 ArkTS 的轻量级工具类，它封装了常见的随机数生成方法，帮助开发者快速生成符合业务需求的随机整数或浮点数。 (📄 Apache License 2.0 • 📦 v1.0.1)
-- **[@qiniu/qnrtckit](https://ohpm.openharmony.cn/#/cn/detail/%40qiniu%2Fqnrtckit)** - QNRTCKit 是七牛推出的一款适用于 HarmonyOS 平台的音视频通话 SDK，提供了包括音视频通话、单路推流等多种功能，提供灵活的接口，支持高度定制以及二次开发。 (📄 Apache-2.0 • 📦 v1.2.0)
-- **[@cangjie-tpc/markdown_hybrid](https://ohpm.openharmony.cn/#/cn/detail/%40cangjie-tpc%2Fmarkdown_hybrid)** - Markdown4cj是一个用仓颉语言编写的适用于鸿蒙系统的Markdown库。 (📄 Apache-2.0 • ⭐ 2 likes • 📦 v1.3.2)
-- **[markdown_hm](https://ohpm.openharmony.cn/#/cn/detail/markdown_hm)** - 用于对markdown进行解析和显示 (📄 MIT • ⭐ 1 likes • 📦 v1.0.0)
 - **[@ydev/yfree](https://ohpm.openharmony.cn/#/cn/detail/%40ydev%2Fyfree)** - YFree for HarmonyOS (📄 Apache-2.0 • 📦 v1.0.5)
+- **[@qiniu/qnrtckit](https://ohpm.openharmony.cn/#/cn/detail/%40qiniu%2Fqnrtckit)** - QNRTCKit 是七牛推出的一款适用于 HarmonyOS 平台的音视频通话 SDK，提供了包括音视频通话、单路推流等多种功能，提供灵活的接口，支持高度定制以及二次开发。 (📄 Apache-2.0 • 📦 v1.2.0)
+- **[@cangjie-tpc/markdown_hybrid](https://ohpm.openharmony.cn/#/cn/detail/%40cangjie-tpc%2Fmarkdown_hybrid)** - Markdown4cj是一个用仓颉语言编写的适用于鸿蒙系统的Markdown库。 (📄 Apache-2.0 • ⭐ 2 likes • 📦 v1.3.3)
+- **[markdown_hm](https://ohpm.openharmony.cn/#/cn/detail/markdown_hm)** - 用于对markdown进行解析和显示 (📄 MIT • ⭐ 1 likes • 📦 v1.0.0)
 - **[@rongcloud/callplus](https://ohpm.openharmony.cn/#/cn/detail/%40rongcloud%2Fcallplus)** - 融云 RTC SDK for HarmonyOS (📄 MIT • 📦 v1.7.1)
-- **[@z123/prettycanlendar](https://ohpm.openharmony.cn/#/cn/detail/%40z123%2Fprettycanlendar)** - 实现了一个日历功能 (📄 Apache-2.0 • 📦 v1.0.1)
-- **[@liuzhosoft/ftp4h](https://ohpm.openharmony.cn/#/cn/detail/%40liuzhosoft%2Fftp4h)** - ftp4h (ftp for harmony) 是适用于Harmony的ftp客户端 (📄 MIT • 📦 v1.0.1)
 - **[@simo/chinese-uppercase-character](https://ohpm.openharmony.cn/#/cn/detail/%40simo%2Fchinese-uppercase-character)** - @simo/chinese-uppercase-character 主要功能为将阿拉伯数字转换为中文大写数字。支持整数部分最大“千兆”单位（整数部分16位）和小数部分最小“分”单位 (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.0.1)
+- **[@z123/prettycanlendar](https://ohpm.openharmony.cn/#/cn/detail/%40z123%2Fprettycanlendar)** - 实现了一个日历功能 (📄 Apache-2.0 • 📦 v1.0.1)
 - **[@hw-agconnect/lowcode](https://ohpm.openharmony.cn/#/cn/detail/%40hw-agconnect%2Flowcode)** - AppGalleryConnectSDK lowcode for HarmonyOS Next. (📄 ISC • 📦 v1.0.0)
+- **[@liuzhosoft/ftp4h](https://ohpm.openharmony.cn/#/cn/detail/%40liuzhosoft%2Fftp4h)** - ftp4h (ftp for harmony) 是适用于Harmony的ftp客户端 (📄 MIT • 📦 v1.0.1)
 - **[@qfsls/prettycanlendar](https://ohpm.openharmony.cn/#/cn/detail/%40qfsls%2Fprettycanlendar)** - 实现了一个日历功能 (📄 Apache-2.0 • 📦 v1.0.1)
 - **[prettycanlendar](https://ohpm.openharmony.cn/#/cn/detail/prettycanlendar)** - 实现了一个日历功能 (📄 Apache-2.0 • 📦 v1.0.1)
 - **[@yxcx/prettycanlendar](https://ohpm.openharmony.cn/#/cn/detail/%40yxcx%2Fprettycanlendar)** - 实现了一个日历功能，逐步完善 (📄 Apache-2.0 • 📦 v1.0.1)
@@ -1779,9 +1780,9 @@ Augmented reality, virtual reality, and immersive technologies
 - **[@buyansky/lunar](https://ohpm.openharmony.cn/#/cn/detail/%40buyansky%2Flunar)** - lunar是一款无第三方依赖的公历(阳历)、农历(阴历、老黄历)、佛历和道历工具，支持星座、儒略日、干支、生肖、节气、节日、彭祖百忌、每日宜忌、吉神宜趋、凶煞宜忌、吉神(喜神/福神/财神/阳贵神/阴贵神)方位、胎神方位、冲煞、纳音、星宿、八字、五行、十神、建除十二值星、青龙名堂等十二神、黄道日及吉凶等。 (📄 MIT • ⭐ 1 likes • 📦 v1.0.0)
 - **[@rongcloud-enterprise/rtclib](https://ohpm.openharmony.cn/#/cn/detail/%40rongcloud-enterprise%2Frtclib)** - 融云 RTC SDK for HarmonyOS (📄 MIT • 📦 v1.7.0)
 - **[@ohmi/react-native-openharmony](https://ohpm.openharmony.cn/#/cn/detail/%40ohmi%2Freact-native-openharmony)** - React Native for OpenHarmony (📄 MIT • 📦 v1.1.0-rc.0)
+- **[@harmonypass/markcall](https://ohpm.openharmony.cn/#/cn/detail/%40harmonypass%2Fmarkcall)** - 这是一个根据需求用来拨打指定电话的功能，非常简单好用 (📄 ISC • 📦 v1.0.0)
 - **[@bigup/lodash](https://ohpm.openharmony.cn/#/cn/detail/%40bigup%2Flodash)** - @bigup/lodash 是一个一致性、模块化、高性能的 ArkTs 实用工具库 (📄 MIT • ⭐ 1 likes • 📦 v1.0.0)
 - **[@nutpi/html2md](https://ohpm.openharmony.cn/#/cn/detail/%40nutpi%2Fhtml2md)** - 将富文本内容（html）解析成 markdown 文本格式 (📄 MIT • 📦 v1.0.0)
-- **[@harmonypass/markcall](https://ohpm.openharmony.cn/#/cn/detail/%40harmonypass%2Fmarkcall)** - 这是一个根据需求用来拨打指定电话的功能，非常简单好用 (📄 ISC • 📦 v1.0.0)
 - **[@harmonypass/pasteboard](https://ohpm.openharmony.cn/#/cn/detail/%40harmonypass%2Fpasteboard)** - 这是一个根据需求用来生成复制粘贴的第三方包组件，非常简单好用 (📄 ISC • ⭐ 1 likes • 📦 v1.0.0)
 - **[@idler/secondfloor](https://ohpm.openharmony.cn/#/cn/detail/%40idler%2Fsecondfloor)** - secondfloor是一款OpenHarmony环境下可用的二楼组件。 方便实现快速下拉视图，从顶部划出呈现二楼的效果。 (📄 Apache-2.0 • ⭐ 7 likes • 📦 v1.0.0)
 - **[@jiyunos/zb-care](https://ohpm.openharmony.cn/#/cn/detail/%40jiyunos%2Fzb-care)** - 基于鸿蒙系统组件二次封装常用业务组件 (📄 Apache-2.0 • ⭐ 21 likes • 📦 v1.0.0)
@@ -1791,17 +1792,17 @@ Augmented reality, virtual reality, and immersive technologies
 - **[@devzeng/eventemitter3](https://ohpm.openharmony.cn/#/cn/detail/%40devzeng%2Feventemitter3)** - eventemitter3 for HarmonyOS. (📄 MIT • ⭐ 1 likes • 📦 v5.0.1)
 - **[@sea/picture-selector](https://ohpm.openharmony.cn/#/cn/detail/%40sea%2Fpicture-selector)** - harmony custom picture selector (📄 MIT • ⭐ 1 likes • 📦 v1.0.0)
 - **[@rongcloud-enterprise/callplus](https://ohpm.openharmony.cn/#/cn/detail/%40rongcloud-enterprise%2Fcallplus)** - 融云 RTC SDK for HarmonyOS (📄 MIT • 📦 v1.7.0)
+- **[protobufjs_eventemitter_arkts](https://ohpm.openharmony.cn/#/cn/detail/protobufjs_eventemitter_arkts)** - A minimal event emitter. (📄 BSD-3-Clause • 📦 v1.0.0)
 - **[@hview/avataaars](https://ohpm.openharmony.cn/#/cn/detail/%40hview%2Favataaars)** - Avataaas 生成一个精美的个人头像 (📄 MIT • 📦 v1.0.0)
 - **[@feiyu/harmony_hybrid](https://ohpm.openharmony.cn/#/cn/detail/%40feiyu%2Fharmony_hybrid)** - A harmonyos plugin for WVJB (📄 Apache-2.0 • ⭐ 3 likes • 📦 v1.0.0)
-- **[protobufjs_eventemitter_arkts](https://ohpm.openharmony.cn/#/cn/detail/protobufjs_eventemitter_arkts)** - A minimal event emitter. (📄 BSD-3-Clause • 📦 v1.0.0)
+- **[protobufjs_pool_arkts](https://ohpm.openharmony.cn/#/cn/detail/protobufjs_pool_arkts)** - A general purpose buffer pool. (📄 BSD-3-Clause • 📦 v1.0.0)
 - **[search_hua](https://ohpm.openharmony.cn/#/cn/detail/search_hua)** - 本示例展示了Search组件的使用，使用Search组件实现一个搜索界面 (📄 Apache-2.0 • 📦 v1.0.0)
 - **[@hw-agconnect/appmessaging](https://ohpm.openharmony.cn/#/cn/detail/%40hw-agconnect%2Fappmessaging)** - AppGalleryConnectSDK appmessaging for OpenHarmony. (📄 ISC • 📦 v1.0.1)
 - **[naruto](https://ohpm.openharmony.cn/#/cn/detail/naruto)** - 火影忍者疾风传随机卡片包(测试版) (📄 LICENSE • 📦 v1.0.2)
-- **[protobufjs_pool_arkts](https://ohpm.openharmony.cn/#/cn/detail/protobufjs_pool_arkts)** - A general purpose buffer pool. (📄 BSD-3-Clause • 📦 v1.0.0)
+- **[protobufjs_float_arkts](https://ohpm.openharmony.cn/#/cn/detail/protobufjs_float_arkts)** - Reads / writes floats / doubles from / to buffers in both modern and ancient browsers. (📄 BSD-3-Clause • 📦 v1.0.0)
 - **[@xhw/xhwmarquee](https://ohpm.openharmony.cn/#/cn/detail/%40xhw%2Fxhwmarquee)** - 自定义横向跑马灯，模仿marquee的库文字可以横向滚动且滚动到最后一个文字时重新开始滚动，自定义文字，时间，位置，宽度 (📄 MIT • 📦 v1.0.1)
 - **[@pie/base32-js](https://ohpm.openharmony.cn/#/cn/detail/%40pie%2Fbase32-js)** - Base32 encoding for ArkTS, based (loosely) on Crockford's Base32. (📄 MIT • 📦 v1.0.0)
 - **[@lindan/prettycanlendar](https://ohpm.openharmony.cn/#/cn/detail/%40lindan%2Fprettycanlendar)** - 一款日历的小工具 (📄 Apache-2.0 • 📦 v1.0.1)
-- **[protobufjs_float_arkts](https://ohpm.openharmony.cn/#/cn/detail/protobufjs_float_arkts)** - Reads / writes floats / doubles from / to buffers in both modern and ancient browsers. (📄 BSD-3-Clause • 📦 v1.0.0)
 - **[@vicky/vhcore](https://ohpm.openharmony.cn/#/cn/detail/%40vicky%2Fvhcore)** - 一个包含有多个必备工具的HarmonyOS应用开发的基础模块，借助多个实用工具，可助开发者迅速构建鸿蒙应用，目前主要包含有漂亮的日志打印。 (📄 Apache-2.0 • 📦 v1.0.0)
 - **[throttle](https://ohpm.openharmony.cn/#/cn/detail/throttle)** - throttle是一个节流工具,该工具可在OpenHarmony中使用,可以实现节流效果。 (📄 Apache-2.0 • ⭐ 3 likes • 📦 v1.0.0)
 - **[@qftt/prettycanlendar](https://ohpm.openharmony.cn/#/cn/detail/%40qftt%2Fprettycanlendar)** - 实现了一个日历功能 (📄 Apache-2.0 • 📦 v1.0.0)
@@ -1826,11 +1827,11 @@ Augmented reality, virtual reality, and immersive technologies
 
 Artificial intelligence, machine learning, and smart features
 
-**9 packages** • Avg popularity: 307
+**9 packages** • Avg popularity: 310
 
 - **[@ohasasugar/hp-richtext](https://ohpm.openharmony.cn/#/cn/detail/%40ohasasugar%2Fhp-richtext)** - hp-richtext, 是一个基于HTML的标签解析，扩展了更多属性和样式的鸿蒙富文本组件，解决了遍历嵌套渲染原生RichText的性能问题。 (📄 Apache-2.0 • ⭐ 32 likes • 📦 v3.0.9)
 - **[@iuroc/openai](https://ohpm.openharmony.cn/#/cn/detail/%40iuroc%2Fopenai)** - OpenAI 请求工具库，基本保留原 npm 库 TypeScript 定义。 (📄 Apache-2.0 • ⭐ 3 likes • 📦 v1.0.10)
-- **[@mybricks/comlib-harmony-normal](https://ohpm.openharmony.cn/#/cn/detail/%40mybricks%2Fcomlib-harmony-normal)** - MyBricks.ai团队提供的通用组件库，包含通用ui和计算组件 (📄 MIT • 📦 v1.0.13)
+- **[@mybricks/comlib-harmony-normal](https://ohpm.openharmony.cn/#/cn/detail/%40mybricks%2Fcomlib-harmony-normal)** - MyBricks.ai团队提供的通用组件库，包含通用ui和计算组件 (📄 MIT • 📦 v1.0.15)
 - **[@inversifyjs/container](https://ohpm.openharmony.cn/#/cn/detail/%40inversifyjs%2Fcontainer)** - InversifyJs container (📄 MIT • 📦 v1.11.1)
 - **[@nertc/ai_denoise_plugin](https://ohpm.openharmony.cn/#/cn/detail/%40nertc%2Fai_denoise_plugin)** - NERtcSDK ai denoise plugin package. (📄 MIT • 📦 v1.0.0)
 - **[exocrdomsdk](https://ohpm.openharmony.cn/#/cn/detail/exocrdomsdk)** - 采用基于深度学习算法的OCR技术，通过手机或带有摄像头的终端设备对证件进行拍照，或者直接输入静态图片，即可快速完成证件的识别，输出证件信息的结构化数据并进行图片的矫正与质检。 (📄 Apache-2.0 • 📦 v3.5.2)
@@ -1842,7 +1843,7 @@ Artificial intelligence, machine learning, and smart features
 
 Internet of Things, smart home, and connected device integration
 
-**8 packages** • Avg popularity: 767
+**8 packages** • Avg popularity: 772
 
 - **[@ohos/mqtt](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fmqtt)** - 专门为OpenHarmony打造的一款应用程序,能够连接到MQTT代理以发布消息、订阅主题和接收发布的消息。 (📄 EPL-2.0 • ⭐ 25 likes • 📦 v2.0.23)
 - **[rapid_kit_foundation](https://ohpm.openharmony.cn/#/cn/detail/rapid_kit_foundation)** - rapid_kit 致力于为 IoT 设备提供高效的跨平台音视频解决方案，这是针对 HarmonyOS NEXT 的原生库 (📄 Apache-2.0 • 📦 v1.0.51)
@@ -1857,20 +1858,20 @@ Internet of Things, smart home, and connected device integration
 
 Productivity tools, business applications, and enterprise solutions
 
-**13 packages** • Avg popularity: 376
+**13 packages** • Avg popularity: 382
 
 - **[@growingio/analytics](https://ohpm.openharmony.cn/#/cn/detail/%40growingio%2Fanalytics)** - GrowingAnalytics for HarmonyOS SDK. (📄 Apache License 2.0 • 📦 v2.4.0)
 - **[@umeng/analytics](https://ohpm.openharmony.cn/#/cn/detail/%40umeng%2Fanalytics)** - U-App是友盟+提供的移动统计分析产品，根据开发者实际分析诉求提供数据采集及统计分析服务。此模块为友盟统计分析对原生鸿蒙harmonyOS NEXT星河版的适配 (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.2.6)
 - **[@hjm/pdfview](https://ohpm.openharmony.cn/#/cn/detail/%40hjm%2Fpdfview)** - PDFView是一款高性能预览pdf文件的库 (📄 Apache-2.0 • ⭐ 6 likes • 📦 v1.0.1)
 - **[@hollycrm/hollycrm_sdk](https://ohpm.openharmony.cn/#/cn/detail/%40hollycrm%2Fhollycrm_sdk)** - 合力云客服sdk (📄 Apache-2.0 • 📦 v1.0.3)
 - **[@sensorsdata/analytics](https://ohpm.openharmony.cn/#/cn/detail/%40sensorsdata%2Fanalytics)** - 神策 OpenHarmony SDK 支持手动调用相应埋点 APIs 采集埋点事件 (📄 Apache-2.0 • 📦 v0.0.2)
-- **[trs_analytics](https://ohpm.openharmony.cn/#/cn/detail/trs_analytics)** - trs harmonyos analytics (📄 Apache-2.0 • 📦 v1.0.7)
 - **[@koo/bgtask](https://ohpm.openharmony.cn/#/cn/detail/%40koo%2Fbgtask)** - 一个基于鸿蒙Next的后台任务框架，极大简化后台长时任务申请的操作。 (📄 Apache-2.0 • 📦 v1.0.2)
+- **[trs_analytics](https://ohpm.openharmony.cn/#/cn/detail/trs_analytics)** - trs harmonyos analytics (📄 Apache-2.0 • 📦 v1.0.7)
 - **[@gravityengine/analytics](https://ohpm.openharmony.cn/#/cn/detail/%40gravityengine%2Fanalytics)** - @gravityengine/analytics for HarmonyOS NEXT SDK (📄 Apache-2.0 • 📦 v1.0.5)
 - **[excel_hm](https://ohpm.openharmony.cn/#/cn/detail/excel_hm)** - Used for exporting Excel files in native HarmonyOS projects (📄 MIT • 📦 v1.0.0)
+- **[@volcengine/apmplus_crash_lite](https://ohpm.openharmony.cn/#/cn/detail/%40volcengine%2Fapmplus_crash_lite)** - Report Launch Event For ApmPlus Lite. (📄 Apache-2.0 • 📦 v2.0.8)
 - **[postcss-replace-overflow-wrap](https://ohpm.openharmony.cn/#/cn/detail/postcss-replace-overflow-wrap)** - PostCSS plugin to replace overflow-wrap with word-wrap or optionally retain both declarations. (📄 MIT • 📦 v1.1.0)
 - **[lplpdf](https://ohpm.openharmony.cn/#/cn/detail/lplpdf)** - 长图生成pdf，自动分页，支持沙箱文件和网络图片 (📄 Apache-2.0 • ⭐ 3 likes • 📦 v1.0.1)
-- **[@volcengine/apmplus_crash_lite](https://ohpm.openharmony.cn/#/cn/detail/%40volcengine%2Fapmplus_crash_lite)** - Report Launch Event For ApmPlus Lite. (📄 Apache-2.0 • 📦 v2.0.8)
 - **[kimi_tsuki_getdays](https://ohpm.openharmony.cn/#/cn/detail/kimi_tsuki_getdays)** - Count the days between two days without weekends. Use to count the business days (📄 MIT • 📦 v1.0.0)
 
 ### 💪 Health & Fitness
@@ -1887,7 +1888,7 @@ Health monitoring, fitness tracking, and wellness applications
 
 Chat, messaging, voice/video calls, and communication tools
 
-**52 packages** • Avg popularity: 301
+**52 packages** • Avg popularity: 303
 
 - **[@aliyun/push](https://ohpm.openharmony.cn/#/cn/detail/%40aliyun%2Fpush)** - aliyun emas push sdk (📄 MIT • ⭐ 1 likes • 📦 v1.2.4)
 - **[@jg/push](https://ohpm.openharmony.cn/#/cn/detail/%40jg%2Fpush)** - 这里是极光推送的鸿蒙SDK，帮助鸿蒙开发者接入鸿蒙推送功能。 (📄 proprietary • ⭐ 2 likes • 📦 v1.3.1)
@@ -1903,8 +1904,8 @@ Chat, messaging, voice/video calls, and communication tools
 - **[@nimsdk/signalling](https://ohpm.openharmony.cn/#/cn/detail/%40nimsdk%2Fsignalling)** - NetEase Instant Messaging (IM) SDK is a software development kit used to develop instant messaging functionality, providing developers with solutions to integrate features such as instant messaging, group messaging, conversations, user management, and friend lists, etc. (📄 MIT • 📦 v10.9.42)
 - **[@nimsdk/ysf](https://ohpm.openharmony.cn/#/cn/detail/%40nimsdk%2Fysf)** - NetEase Instant Messaging (IM) SDK is a software development kit used to develop instant messaging functionality, providing developers with solutions to integrate features such as instant messaging, group messaging, conversations, user management, and friend lists, etc. (📄 MIT • 📦 v10.9.42)
 - **[@nimsdk/vendor](https://ohpm.openharmony.cn/#/cn/detail/%40nimsdk%2Fvendor)** - NetEase Instant Messaging (IM) SDK is a software development kit used to develop instant messaging functionality, providing developers with solutions to integrate features such as instant messaging, group messaging, conversations, user management, and friend lists, etc. (📄 MIT • ⭐ 1 likes • 📦 v1.0.0)
-- **[@nimsdk/search](https://ohpm.openharmony.cn/#/cn/detail/%40nimsdk%2Fsearch)** - NetEase Instant Messaging (IM) SDK is a software development kit used to develop instant messaging functionality, providing developers with solutions to integrate features such as instant messaging, group messaging, conversations, user management, and friend lists, etc. (📄 MIT • 📦 v10.9.42)
 - **[@rongcloud/imlib](https://ohpm.openharmony.cn/#/cn/detail/%40rongcloud%2Fimlib)** - 融云 IM SDK for HarmonyOS (📄 MIT • 📦 v1.7.2)
+- **[@nimsdk/search](https://ohpm.openharmony.cn/#/cn/detail/%40nimsdk%2Fsearch)** - NetEase Instant Messaging (IM) SDK is a software development kit used to develop instant messaging functionality, providing developers with solutions to integrate features such as instant messaging, group messaging, conversations, user management, and friend lists, etc. (📄 MIT • 📦 v10.9.42)
 - **[@nimsdk/conversationgroup](https://ohpm.openharmony.cn/#/cn/detail/%40nimsdk%2Fconversationgroup)** - NetEase Instant Messaging (IM) SDK is a software development kit used to develop instant messaging functionality, providing developers with solutions to integrate features such as instant messaging, group messaging, conversations, user management, and friend lists, etc. (📄 MIT • 📦 v10.1.0)
 - **[@umeng/push](https://ohpm.openharmony.cn/#/cn/detail/%40umeng%2Fpush)** - 友盟+鸿蒙消息推送，消息推送组件，提供给用户准时的Push通知功能，支持友盟在线通道、华为厂商通道。 (📄 Apache-2.0 • ⭐ 3 likes • 📦 v2.0.2)
 - **[@nimsdk/notification](https://ohpm.openharmony.cn/#/cn/detail/%40nimsdk%2Fnotification)** - NetEase Instant Messaging (IM) SDK is a software development kit used to develop instant messaging functionality, providing developers with solutions to integrate features such as instant messaging, group messaging, conversations, user management, and friend lists, etc. (📄 MIT • 📦 v0.6.2)
@@ -1917,9 +1918,9 @@ Chat, messaging, voice/video calls, and communication tools
 - **[@nutpi/mime-types](https://ohpm.openharmony.cn/#/cn/detail/%40nutpi%2Fmime-types)** - mime-types 主要用于处理和确定文件的 MIME 类型。 (📄 Apache-2.0 • ⭐ 3 likes • 📦 v1.0.2)
 - **[@nimsdk/core](https://ohpm.openharmony.cn/#/cn/detail/%40nimsdk%2Fcore)** - NetEase Instant Messaging (IM) SDK is a software development kit used to develop instant messaging functionality, providing developers with solutions to integrate features such as instant messaging, group messaging, conversations, user management, and friend lists, etc. (📄 MIT • 📦 v0.6.2)
 - **[@nimsdk/websocket](https://ohpm.openharmony.cn/#/cn/detail/%40nimsdk%2Fwebsocket)** - NetEase Instant Messaging (IM) SDK is a software development kit used to develop instant messaging functionality, providing developers with solutions to integrate features such as instant messaging, group messaging, conversations, user management, and friend lists, etc. (📄 MIT • 📦 v0.7.0)
+- **[@ohos/shimmer](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fshimmer)** - 一个简单灵活的为应用视图添加不同方向和形状的微光闪烁效果的库 (📄 Apache-2.0 • ⭐ 1 likes • 📦 v2.1.1)
 - **[@ohos/xmpp_xml](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fxmpp_xml)** - XMPP is an open technology for real-time communication, which powers a wide range of applications including instant messaging, presence, multi-party chat, voice and video calls, collaboration, lightweight middleware, content syndication, and generalized routing of XML data (📄 ISC License • 📦 v1.0.2)
 - **[@mobsdk/mobpush](https://ohpm.openharmony.cn/#/cn/detail/%40mobsdk%2Fmobpush)** - MobPush是MobTech推出的一款免费的推送服务工具，集成方便简单快捷，且提供完整的可视化数据和强大的管理后台。 (📄 Apache-2.0 • 📦 v1.0.3)
-- **[@ohos/shimmer](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fshimmer)** - 一个简单灵活的为应用视图添加不同方向和形状的微光闪烁效果的库 (📄 Apache-2.0 • ⭐ 1 likes • 📦 v2.1.0)
 - **[@tencentcloud/imsdk](https://ohpm.openharmony.cn/#/cn/detail/%40tencentcloud%2Fimsdk)** - Tencent IM SDK for HarmonyOS (📄 Proprietary • 📦 v8.6.7020)
 - **[@nimsdk/http](https://ohpm.openharmony.cn/#/cn/detail/%40nimsdk%2Fhttp)** - NetEase Instant Messaging (IM) SDK is a software development kit used to develop instant messaging functionality, providing developers with solutions to integrate features such as instant messaging, group messaging, conversations, user management, and friend lists, etc. (📄 MIT • 📦 v0.5.1)
 - **[@uni_modules/uni-push](https://ohpm.openharmony.cn/#/cn/detail/%40uni_modules%2Funi-push)** - uni-app runtime package (📄 Apache-2.0 • 📦 v1.0.2)
@@ -1931,8 +1932,8 @@ Chat, messaging, voice/video calls, and communication tools
 - **[@ohos/jackrabbit](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fjackrabbit)** - Jackrabbit is a very opinionated abstraction built on top of amqplib focused on usability and implementing several messaging patterns on RabbitMQ. (📄 MIT • 📦 v2.0.2)
 - **[is-primitive](https://ohpm.openharmony.cn/#/cn/detail/is-primitive)** - Returns `true` if the value is a primitive.  (📄 MIT • 📦 v1.1.0)
 - **[@tencentcloud/timpush](https://ohpm.openharmony.cn/#/cn/detail/%40tencentcloud%2Ftimpush)** - TIMPush SDK for OpenHarmony (📄 Proprietary • ⭐ 1 likes • 📦 v8.6.7020)
-- **[@nutpi/isprime](https://ohpm.openharmony.cn/#/cn/detail/%40nutpi%2Fisprime)** - 用于判断一个数是否是素数（也称为质数） (📄 MIT • 📦 v1.0.1)
 - **[protobufjs_inquire_arkts](https://ohpm.openharmony.cn/#/cn/detail/protobufjs_inquire_arkts)** - Requires a module only if available and hides the require call from bundlers. (📄 BSD-3-Clause • 📦 v1.0.0)
+- **[@nutpi/isprime](https://ohpm.openharmony.cn/#/cn/detail/%40nutpi%2Fisprime)** - 用于判断一个数是否是素数（也称为质数） (📄 MIT • 📦 v1.0.1)
 - **[corepush](https://ohpm.openharmony.cn/#/cn/detail/corepush)** - 核心推送封装类框架，用于做华为推送相关业务逻辑。简化推送的相关流程 (📄 Apache-2.0 • 📦 v1.0.0)
 - **[@wisdomgarden/cloak-plugin-jpush](https://ohpm.openharmony.cn/#/cn/detail/%40wisdomgarden%2Fcloak-plugin-jpush)** - Send HarmonyOS Notification using JPush (📄 Apache-2.0 • 📦 v1.0.0)
 - **[@yidun/onepass](https://ohpm.openharmony.cn/#/cn/detail/%40yidun%2Fonepass)** - 短信验证码升级方案。直连三大运营商，一步校验手机号与当前SIM卡号一致性。优化注册/登录/支付等场景验证流程，有效提升拉新转化率和用户留存率。不做数据加工与号码精准营销，保护用户隐私 (📄 Apache-2.0 • 📦 v3.0.6)
@@ -1946,7 +1947,7 @@ Chat, messaging, voice/video calls, and communication tools
 
 Packages that don't fit into specific categories.
 
-**231 packages**
+**232 packages**
 
 - **[base64-js](https://ohpm.openharmony.cn/#/cn/detail/base64-js)** - Base64 encoding/decoding in pure JS
 - **[@ohos/svg](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fsvg)** - ohos-svg是一个SVG图片的解析器和渲染器，可以解析SVG图片并渲染到页面上，还可以动态改变SVG的样式。
@@ -1969,7 +1970,7 @@ Packages that don't fit into specific categories.
 - **[@nertc/nertc_sdk](https://ohpm.openharmony.cn/#/cn/detail/%40nertc%2Fnertc_sdk)** - Netease RTC SDK
 - **[@tencentmap/base](https://ohpm.openharmony.cn/#/cn/detail/%40tencentmap%2Fbase)** - 腾讯地图开放平台基础库
 
-*...and 211 more packages*
+*...and 212 more packages*
 
 ## 🤝 Contributing
 
@@ -1989,4 +1990,4 @@ This list is automatically updated daily using GitHub Actions to ensure the late
 
 ---
 
-**Total packages tracked**: 1,947 | **Last generated**: Auto-generated on 2025-08-27 00:50:44
+**Total packages tracked**: 1,949 | **Last generated**: Auto-generated on 2025-08-28 00:50:04
