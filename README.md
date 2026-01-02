@@ -2,13 +2,13 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/hu-qi/ohpm-awesome?style=flat-square)](https://github.com/hu-qi/ohpm-awesome)
-[![Last Update](https://img.shields.io/badge/last%20update-20251231-brightgreen?style=flat-square)](https://github.com/hu-qi/ohpm-awesome)
+[![Last Update](https://img.shields.io/badge/last%20update-20260101-brightgreen?style=flat-square)](https://github.com/hu-qi/ohpm-awesome)
 
 > A curated list of awesome OpenHarmony packages, libraries, and tools for HarmonyOS development.
 
 ## 📊 Overview
 
-- **Total Packages**: 2,428
+- **Total Packages**: 2,429
 - **Categories**: 23
 - **Last Updated**: Auto-updated daily
 
@@ -32,16 +32,16 @@
 
 ## 🆕 Recently Updated
 
-1. **[@ilye/web-bridge-adapter](https://ohpm.openharmony.cn/#/cn/detail/%40ilye%2Fweb-bridge-adapter)** v2.2.0 - 一个Web端与鸿蒙原生通信交互的JSBridge事件分发调用适配器，简单易用，能有效解耦鸿蒙原生与JavaScript交互的事件分发、拦截与接收。 (📅 2025-12-31)
-2. **[@luvi/lv-markdown-in](https://ohpm.openharmony.cn/#/cn/detail/%40luvi%2Flv-markdown-in)** v3.1.8 - 原生Markdown渲染解决方案，让Markdown内容在界面中拥有更平滑的性能表现与更统一的视觉体验。 (📅 2025-12-31)
-3. **[@sj/ffmpeg](https://ohpm.openharmony.cn/#/cn/detail/%40sj%2Fffmpeg)** v2.0.2 - FFmpeg for HarmonyOS. 基于 FFmpeg v8.0.1 版本, 可执行 ffmpeg 及 ffprobe 命令, 支持并发; (📅 2025-12-31)
-4. **[@vicky/vhcore](https://ohpm.openharmony.cn/#/cn/detail/%40vicky%2Fvhcore)** v2.1.1 - 一个包含有多个必备工具的HarmonyOS应用开发的基础模块。 (📅 2025-12-31)
-5. **[captcha_lib](https://ohpm.openharmony.cn/#/cn/detail/captcha_lib)** v2.0.2 - 北京芯盾时代科技有限公司出品智能人机识别SDK (📅 2025-12-31)
-6. **[trusfort](https://ohpm.openharmony.cn/#/cn/detail/trusfort)** v1.1.0 - 由北京芯盾时代科技有限公司提供的终端威胁感知（Mobile Threat Defense, MTD）SDK 为 Harmony 应用提供设备环境风险检测能力，包... (📅 2025-12-31)
-7. **[@ohos/tar](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Ftar)** v2.0.3 - Support tar packaging and tar unpacking (📅 2025-12-31)
-8. **[puzzle-game](https://ohpm.openharmony.cn/#/cn/detail/puzzle-game)** v1.0.0 - HarmonyOS ArkUI 拼图游戏组件库，支持自定义图片、网格大小、主题配置 (📅 2025-12-31)
-9. **[@ohos/libssh](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Flibssh)** v1.0.1 - A HarmonyOS third-party library that supports both SFTP servers and SSH clients,... (📅 2025-12-31)
-10. **[kaoshimuban](https://ohpm.openharmony.cn/#/cn/detail/kaoshimuban)** v1.0.0 - HarmonyOS考试组件库，支持单选题、多选题、判断题和填空题，可快速构建考试界面。 (📅 2025-12-31)
+1. **[@wrs/module_face](https://ohpm.openharmony.cn/#/cn/detail/%40wrs%2Fmodule_face)** v1.0.1 - 人脸识别,活体识别,离线识别,本地创建人脸识别数据库，通过相机视频流实时识别用户,识别眨眼摇头张嘴等动作活体 (📅 2026-01-01)
+2. **[@qfsw/prettycanlendar](https://ohpm.openharmony.cn/#/cn/detail/%40qfsw%2Fprettycanlendar)** v1.0.2 - 第三个版本三个版本 (📅 2026-01-01)
+3. **[@zhanglingzeng/harmony-view-kit](https://ohpm.openharmony.cn/#/cn/detail/%40zhanglingzeng%2Fharmony-view-kit)** v1.0.0 - 提供鸿蒙基础视图交互能力，第一版本提供了弹框和挖孔 (📅 2026-01-01)
+4. **[@duke/component-lifecycle](https://ohpm.openharmony.cn/#/cn/detail/%40duke%2Fcomponent-lifecycle)** v2.0.1 - 鸿蒙版本的Lifecycle库，支持组件、Router和Navigation (📅 2026-01-01)
+5. **[@ilye/web-bridge-adapter](https://ohpm.openharmony.cn/#/cn/detail/%40ilye%2Fweb-bridge-adapter)** v2.2.0 - 一个Web端与鸿蒙原生通信交互的JSBridge事件分发调用适配器，简单易用，能有效解耦鸿蒙原生与JavaScript交互的事件分发、拦截与接收。 (📅 2025-12-31)
+6. **[@luvi/lv-markdown-in](https://ohpm.openharmony.cn/#/cn/detail/%40luvi%2Flv-markdown-in)** v3.1.8 - 原生Markdown渲染解决方案，让Markdown内容在界面中拥有更平滑的性能表现与更统一的视觉体验。 (📅 2025-12-31)
+7. **[@sj/ffmpeg](https://ohpm.openharmony.cn/#/cn/detail/%40sj%2Fffmpeg)** v2.0.2 - FFmpeg for HarmonyOS. 基于 FFmpeg v8.0.1 版本, 可执行 ffmpeg 及 ffprobe 命令, 支持并发; (📅 2025-12-31)
+8. **[@vicky/vhcore](https://ohpm.openharmony.cn/#/cn/detail/%40vicky%2Fvhcore)** v2.1.1 - 一个包含有多个必备工具的HarmonyOS应用开发的基础模块。 (📅 2025-12-31)
+9. **[captcha_lib](https://ohpm.openharmony.cn/#/cn/detail/captcha_lib)** v2.0.2 - 北京芯盾时代科技有限公司出品智能人机识别SDK (📅 2025-12-31)
+10. **[trusfort](https://ohpm.openharmony.cn/#/cn/detail/trusfort)** v1.1.0 - 由北京芯盾时代科技有限公司提供的终端威胁感知（Mobile Threat Defense, MTD）SDK 为 Harmony 应用提供设备环境风险检测能力，包... (📅 2025-12-31)
 
 ## 📚 Categories
 
@@ -89,7 +89,7 @@ Testing frameworks, unit testing, automation testing, and quality assurance tool
 
 UI components, design systems, layout tools, and visual elements
 
-**423 packages** • Avg popularity: 118
+**422 packages** • Avg popularity: 119
 
 - **[@yunkss/eftool](https://ohpm.openharmony.cn/#/cn/detail/%40yunkss%2Feftool)** - 一款高效的兼容API12的HarmonyOS工具包.封装了常用工具类如字符串、正则、加解密、图片处理、axios、rcp、json等和常用UI组件如Dialog,Loading,Cascade,通知,位置,窗口等,提供一系列快捷操作方法. (📄 Apache-2.0 • ⭐ 191 likes • 📦 v2.0.3)
 - **[@ohos/pulltorefresh](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fpulltorefresh)** - PullToRefresh是一款OpenHarmony环境下可用的下拉刷新、上拉加载组件 (📄 Apache License 2.0 • ⭐ 54 likes • 📦 v3.0.0)
@@ -516,7 +516,6 @@ PJTabBar is a component used to replace system Tabs, supporting indicator linkag
 - **[postcss](https://ohpm.openharmony.cn/#/cn/detail/postcss)** - Tool for transforming styles with JS plugins (📄 MIT • 📦 v8.5.3)
 - **[countdownbutton](https://ohpm.openharmony.cn/#/cn/detail/countdownbutton)** - 发送验证码按钮UI控件:可外部传入校验方法及发送请求、修改默认属性(文字默认颜色、文字大小、倒计时文字颜色)等 (📄 Apache-2.0 • ⭐ 1 likes • 📦 v1.0.2)
 - **[@yunxin/callkit_ui](https://ohpm.openharmony.cn/#/cn/detail/%40yunxin%2Fcallkit_ui)** - 云信呼叫组件 UIKit 是网易云信推出的音视频通话UI组件，提供音视频通话场景下常见的 1V1 音视频通话、群组音视频通话等功能 (📄 MIT • ⭐ 1 likes • 📦 v4.0.1)
-- **[@qfsw/prettycanlendar](https://ohpm.openharmony.cn/#/cn/detail/%40qfsw%2Fprettycanlendar)** - prettyCalendar (📄 Apache-2.0 • 📦 v1.0.0)
 - **[algebra_ets](https://ohpm.openharmony.cn/#/cn/detail/algebra_ets)** - Build, display, and solve algebraic equations. (📄 MIT • 📦 v0.0.3)
 
 ### 🛠️ Utilities & Tools
@@ -1817,7 +1816,7 @@ App navigation, routing, page transitions, and navigation patterns
 - **[@easy/router](https://ohpm.openharmony.cn/#/cn/detail/%40easy%2Frouter)** - 一个更易于使用的路由组件包 (📄 Apache-2.0 • ⭐ 7 likes • 📦 v0.3.3)
 - **[@fukealine_a/drawer](https://ohpm.openharmony.cn/#/cn/detail/%40fukealine_a%2Fdrawer)** - drawer是一个鸿蒙的原生抽屉组件 (📄 MIT License • ⭐ 1 likes • 📦 v1.0.5)
 - **[@ohos/smithy-middleware-stack](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fsmithy-middleware-stack)** - Manage and execute middleware pipelines. (📄 Apache-2.0 • 📦 v1.0.0)
-- **[@duke/component-lifecycle](https://ohpm.openharmony.cn/#/cn/detail/%40duke%2Fcomponent-lifecycle)** - 鸿蒙版本的Lifecycle库，支持组件、Router和Navigation (📄 MIT • ⭐ 1 likes • 📦 v2.0.0)
+- **[@duke/component-lifecycle](https://ohpm.openharmony.cn/#/cn/detail/%40duke%2Fcomponent-lifecycle)** - 鸿蒙版本的Lifecycle库，支持组件、Router和Navigation (📄 MIT • ⭐ 1 likes • 📦 v2.0.1)
 - **[@iuroc/chat-page](https://ohpm.openharmony.cn/#/cn/detail/%40iuroc%2Fchat-page)** - 基于 OpenAI API 的智能聊天页面 NavDestination 组件 (📄 Apache-2.0 • ⭐ 3 likes • 📦 v1.0.6)
 - **[hrouter](https://ohpm.openharmony.cn/#/cn/detail/hrouter)** - hrouter (📄 MIT • ⭐ 1 likes • 📦 v1.2.2)
 - **[@zztsdk/moblink](https://ohpm.openharmony.cn/#/cn/detail/%40zztsdk%2Fmoblink)** - MobLink通过深度链接的技术，实现APP的链接化，提供Web与APP直接跳转的完全免费产品服务，实现网页间直接跳转升级为APP间直接跳转 (📄 Apache-2.0 • 📦 v1.1.0)
@@ -2004,7 +2003,7 @@ Payment processing, e-commerce features, and financial integrations
 
 Augmented reality, virtual reality, and immersive technologies
 
-**192 packages** • Avg popularity: 169
+**194 packages** • Avg popularity: 168
 
 - **[@ohos/aki](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Faki)** - AKI (Alpha Kernel Interacting) 是一款边界性编程体验友好的ArkTs FFI开发框架，针对OpenHarmony Native开发提供JS与C/C++跨语言访问场景解决方案。支持极简语法糖使用方式，一行代码完成JS与C/C++的无障碍跨语言互调，所键即所得。 (📄 Apache-2.0 • ⭐ 16 likes • 📦 v1.2.25)
 - **[pako](https://ohpm.openharmony.cn/#/cn/detail/pako)** - zlib port to javascript - fast, modularized, with browser support (📄 (MIT AND Zlib) • ⭐ 2 likes • 📦 v2.1.0)
@@ -2195,6 +2194,8 @@ Augmented reality, virtual reality, and immersive technologies
 - **[@ohos/tus](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Ftus)** - 本软件是参照开源软件tus源码适配OpenHarmony实现的大文件传输以及支持断点续传功能。 (📄 Apache License 2.0 • 📦 v1.0.0)
 - **[@duke/leak-canary](https://ohpm.openharmony.cn/#/cn/detail/%40duke%2Fleak-canary)** - 实时检测 ArkTS 组件内存泄漏 (📄 MIT • ⭐ 1 likes • 📦 v1.2.0)
 - **[@ohos/vlc](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fvlc)** - VLC for HarmonyOS (📄 GPL-2.0 • 📦 v1.0.0)
+- **[@qfsw/prettycanlendar](https://ohpm.openharmony.cn/#/cn/detail/%40qfsw%2Fprettycanlendar)** - 第三个版本三个版本 (📄 Apache-2.0 • 📦 v1.0.2)
+- **[@zhanglingzeng/harmony-view-kit](https://ohpm.openharmony.cn/#/cn/detail/%40zhanglingzeng%2Fharmony-view-kit)** - 提供鸿蒙基础视图交互能力，第一版本提供了弹框和挖孔 (📄 MIT • 📦 v1.0.0)
 - **[trusfort](https://ohpm.openharmony.cn/#/cn/detail/trusfort)** - 由北京芯盾时代科技有限公司提供的终端威胁感知（Mobile Threat Defense, MTD）SDK 为 Harmony 应用提供设备环境风险检测能力，包括模拟器识别、调试状态检测、VPN/代理检测、屏幕共享监控、电信诈骗风险评估等，助力业务实现高安全风控。 (📄 UNLICENSED • 📦 v1.1.0)
 - **[kaoshimuban](https://ohpm.openharmony.cn/#/cn/detail/kaoshimuban)** - HarmonyOS考试组件库，支持单选题、多选题、判断题和填空题，可快速构建考试界面。 (📄 Apache-2.0 • 📦 v1.0.0)
 - **[@ohos/md360player](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fmd360player)** - It is a lite library to render 360 degree panorama video. (📄 Apache-2.0 • 📦 v1.0.0-rc.0)
@@ -2392,4 +2393,4 @@ This list is automatically updated daily using GitHub Actions to ensure the late
 
 ---
 
-**Total packages tracked**: 2,428 | **Last generated**: Auto-generated on 2026-01-01 01:03:34
+**Total packages tracked**: 2,429 | **Last generated**: Auto-generated on 2026-01-02 00:58:11

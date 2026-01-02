@@ -1,6 +1,6 @@
 {
-  "crawled_at": "2026-01-01T01:03:31.727798",
-  "total_packages": 2428,
+  "crawled_at": "2026-01-02T00:58:08.693801",
+  "total_packages": 2429,
   "packages": [
     {
       "name": "@ohos/hypium",
@@ -12743,8 +12743,8 @@
       "description": "鸿蒙版本的Lifecycle库，支持组件、Router和Navigation",
       "org": "duke",
       "packageType": "OHPM",
-      "latestVersion": "2.0.0",
-      "latestPublishTime": 1767145031544,
+      "latestVersion": "2.0.1",
+      "latestPublishTime": 1767243131270,
       "license": "MIT",
       "authorName": "duke",
       "publisherId": "6639a83bef57a1351eb77572",
@@ -38227,6 +38227,22 @@
       "popularity": 2
     },
     {
+      "name": "@wrs/module_face",
+      "description": "人脸识别,活体识别,离线识别,本地创建人脸识别数据库，通过相机视频流实时识别用户,识别眨眼摇头张嘴等动作活体",
+      "org": "wrs",
+      "packageType": "OHPM",
+      "latestVersion": "1.0.1",
+      "latestPublishTime": 1767243453593,
+      "license": "MIT",
+      "authorName": "wrs",
+      "publisherId": "68b9482445cb51efc4ab749e",
+      "publisherName": "wrs---",
+      "authorPicUrl": "https://file.openatom.tech/uploads/user/default.png",
+      "likes": 0,
+      "points": 50,
+      "popularity": 1
+    },
+    {
       "name": "@qfsw/library",
       "description": "testtest",
       "org": "qfsw",
@@ -38271,22 +38287,6 @@
       "publisherName": "yunxinpublic1",
       "authorPicUrl": "https://file.openatom.tech/uploads/user/default.png",
       "likes": 1,
-      "points": 30,
-      "popularity": 1
-    },
-    {
-      "name": "@wrs/module_face",
-      "description": "人脸识别,活体识别,离线识别,本地创建人脸识别数据库，通过相机视频流实时识别用户",
-      "org": "wrs",
-      "packageType": "OHPM",
-      "latestVersion": "1.0.0",
-      "latestPublishTime": 1767057061574,
-      "license": "MIT",
-      "authorName": "wrs",
-      "publisherId": "68b9482445cb51efc4ab749e",
-      "publisherName": "wrs---",
-      "authorPicUrl": "https://file.openatom.tech/uploads/user/default.png",
-      "likes": 0,
       "points": 30,
       "popularity": 1
     },
@@ -38515,6 +38515,38 @@
       "popularity": 1
     },
     {
+      "name": "@qfsw/prettycanlendar",
+      "description": "第三个版本三个版本",
+      "org": "qfsw",
+      "packageType": "OHPM",
+      "latestVersion": "1.0.2",
+      "latestPublishTime": 1767243364383,
+      "license": "Apache-2.0",
+      "authorName": "sw",
+      "publisherId": "676add1ffbd3325312e2abb9",
+      "publisherName": "shiwei",
+      "authorPicUrl": "https://file.openatom.tech/uploads/user/default.png",
+      "likes": 0,
+      "points": 25,
+      "popularity": 0
+    },
+    {
+      "name": "@zhanglingzeng/harmony-view-kit",
+      "description": "提供鸿蒙基础视图交互能力，第一版本提供了弹框和挖孔",
+      "org": "zhanglingzeng",
+      "packageType": "OHPM",
+      "latestVersion": "1.0.0",
+      "latestPublishTime": 1767243257542,
+      "license": "MIT",
+      "authorName": "zhongrui",
+      "publisherId": "66518d943aba0a21ed0b87ff",
+      "publisherName": "zhanglingzeng",
+      "authorPicUrl": "https://file.openatom.tech/uploads/user/default.png",
+      "likes": 0,
+      "points": 30,
+      "popularity": 0
+    },
+    {
       "name": "captcha_lib",
       "description": "北京芯盾时代科技有限公司出品智能人机识别SDK",
       "org": "",
@@ -38608,22 +38640,6 @@
       "authorPicUrl": "https://file.openatom.tech/uploads/user/default.png",
       "likes": 0,
       "points": 15,
-      "popularity": 0
-    },
-    {
-      "name": "@qfsw/prettycanlendar",
-      "description": "prettyCalendar",
-      "org": "qfsw",
-      "packageType": "OHPM",
-      "latestVersion": "1.0.0",
-      "latestPublishTime": 1767082347219,
-      "license": "Apache-2.0",
-      "authorName": "sw",
-      "publisherId": "676add1ffbd3325312e2abb9",
-      "publisherName": "shiwei",
-      "authorPicUrl": "https://file.openatom.tech/uploads/user/default.png",
-      "likes": 0,
-      "points": 25,
       "popularity": 0
     },
     {
