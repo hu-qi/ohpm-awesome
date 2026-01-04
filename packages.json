@@ -1,6 +1,6 @@
 {
-  "crawled_at": "2026-01-03T00:54:19.329739",
-  "total_packages": 2429,
+  "crawled_at": "2026-01-04T01:03:58.885321",
+  "total_packages": 2431,
   "packages": [
     {
       "name": "@ohos/hypium",
@@ -10487,8 +10487,8 @@
       "description": "An extensions of ijkplayer for ccplayer.",
       "org": "seagazer",
       "packageType": "OHPM",
-      "latestVersion": "1.0.3",
-      "latestPublishTime": 1765243509638,
+      "latestVersion": "1.0.4",
+      "latestPublishTime": 1767488023660,
       "license": "Apache License 2.0",
       "authorName": "seagazer",
       "publisherId": "655f0bb436066d6cc5e5c22f",
@@ -15235,6 +15235,22 @@
       "popularity": 36
     },
     {
+      "name": "@aliyun_video_cloud/alivcsdk_artc",
+      "description": "AliVCSDK_ARTC power by alibaba cloud video team",
+      "org": "aliyun_video_cloud",
+      "packageType": "OHPM",
+      "latestVersion": "7.9.0",
+      "latestPublishTime": 1767443328433,
+      "license": "MIT",
+      "authorName": "AliyunVideo",
+      "publisherId": "68b7fe3df65f569a95df455b",
+      "publisherName": "oauth2_lhb4a2",
+      "authorPicUrl": "https://file.openatom.tech/uploads/user/default.png",
+      "likes": 0,
+      "points": 45,
+      "popularity": 35
+    },
+    {
       "name": "@ohos/unrar",
       "description": "unrar是一个解压rar文件的库，支持解压无加密/加密压缩包",
       "org": "ohos",
@@ -15344,22 +15360,6 @@
       "authorPicUrl": "https://file.openatom.tech/uploads/user/default.png",
       "likes": 1,
       "points": 30,
-      "popularity": 35
-    },
-    {
-      "name": "@aliyun_video_cloud/alivcsdk_artc",
-      "description": "AliVCSDK_ARTC power by alibaba cloud video team",
-      "org": "aliyun_video_cloud",
-      "packageType": "OHPM",
-      "latestVersion": "7.6.1",
-      "latestPublishTime": 1760426829605,
-      "license": "MIT",
-      "authorName": "AliyunVideo",
-      "publisherId": "68b7fe3df65f569a95df455b",
-      "publisherName": "oauth2_lhb4a2",
-      "authorPicUrl": "https://file.openatom.tech/uploads/user/default.png",
-      "likes": 0,
-      "points": 45,
       "popularity": 35
     },
     {
@@ -22931,6 +22931,22 @@
       "popularity": 20
     },
     {
+      "name": "@duke/view-model",
+      "description": "搭配lifecycle的ViewModel，在组件销毁时自动调用clean进行清理",
+      "org": "duke",
+      "packageType": "OHPM",
+      "latestVersion": "2.0.0",
+      "latestPublishTime": 1767443339084,
+      "license": "MIT",
+      "authorName": "duke",
+      "publisherId": "6639a83bef57a1351eb77572",
+      "publisherName": "Duke",
+      "authorPicUrl": "https://file.openatom.tech/uploads/user/1750830508757_6706.png",
+      "likes": 1,
+      "points": 30,
+      "popularity": 19
+    },
+    {
       "name": "@polyvharmony/media-cast",
       "description": "polyv media-cast",
       "org": "polyvharmony",
@@ -23088,22 +23104,6 @@
       "authorPicUrl": "https://file.openatom.tech/uploads/user/default.png",
       "likes": 0,
       "points": 45,
-      "popularity": 19
-    },
-    {
-      "name": "@duke/view-model",
-      "description": "搭配lifecycle的ViewModel，在组件销毁时自动调用clean进行清理",
-      "org": "duke",
-      "packageType": "OHPM",
-      "latestVersion": "1.0.0",
-      "latestPublishTime": 1756955640717,
-      "license": "MIT",
-      "authorName": "duke",
-      "publisherId": "6639a83bef57a1351eb77572",
-      "publisherName": "Duke",
-      "authorPicUrl": "https://file.openatom.tech/uploads/user/1750830508757_6706.png",
-      "likes": 1,
-      "points": 30,
       "popularity": 19
     },
     {
@@ -38513,6 +38513,38 @@
       "likes": 0,
       "points": 25,
       "popularity": 1
+    },
+    {
+      "name": "rilidaka",
+      "description": "日历打卡组件",
+      "org": "",
+      "packageType": "OHPM",
+      "latestVersion": "1.0.0",
+      "latestPublishTime": 1767488092681,
+      "license": "Apache-2.0",
+      "authorName": "LIUQINGZHU",
+      "publisherId": "6958df1f3611cfcd2f53d791",
+      "publisherName": "deer0420",
+      "authorPicUrl": "",
+      "likes": 0,
+      "points": 25,
+      "popularity": 0
+    },
+    {
+      "name": "@zhongrui/easy_dialog",
+      "description": "harmony dialog sheet overlay tool",
+      "org": "zhongrui",
+      "packageType": "OHPM",
+      "latestVersion": "1.0.0",
+      "latestPublishTime": 1767443596925,
+      "license": "Apache-2.0",
+      "authorName": "zhongrui",
+      "publisherId": "665754da3e2244e7a7714d7e",
+      "publisherName": "钟睿",
+      "authorPicUrl": "https://file.openatom.tech/uploads/user/default.png",
+      "likes": 0,
+      "points": 30,
+      "popularity": 0
     },
     {
       "name": "@qfsw/prettycanlendar",
