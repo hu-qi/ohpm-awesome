@@ -2,13 +2,13 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/hu-qi/ohpm-awesome?style=flat-square)](https://github.com/hu-qi/ohpm-awesome)
-[![Last Update](https://img.shields.io/badge/last%20update-20260228-brightgreen?style=flat-square)](https://github.com/hu-qi/ohpm-awesome)
+[![Last Update](https://img.shields.io/badge/last%20update-20260302-brightgreen?style=flat-square)](https://github.com/hu-qi/ohpm-awesome)
 
 > A curated list of awesome OpenHarmony packages, libraries, and tools for HarmonyOS development.
 
 ## 📊 Overview
 
-- **Total Packages**: 2,521
+- **Total Packages**: 2,524
 - **Categories**: 23
 - **Last Updated**: Auto-updated daily
 
@@ -32,16 +32,16 @@
 
 ## 🆕 Recently Updated
 
-1. **[sherpa_onnx](https://ohpm.openharmony.cn/#/cn/detail/sherpa_onnx)** v1.12.28 - On-device speech-to-text, text-to-speech, and speaker diarization using Next-gen... (📅 2026-02-28)
-2. **[@ospark/free-pcm](https://ohpm.openharmony.cn/#/cn/detail/%40ospark%2Ffree-pcm)** v1.0.3 - Free PCM 音频解码库 - 支持多种音频格式解码为 PCM，提供流式解码和 10 段均衡器功能 (📅 2026-02-28)
-3. **[@easemob/chatsdk](https://ohpm.openharmony.cn/#/cn/detail/%40easemob%2Fchatsdk)** v1.11.1 - Chat SDK for HarmonyOS (📅 2026-02-28)
-4. **[@tencent/libpag](https://ohpm.openharmony.cn/#/cn/detail/%40tencent%2Flibpag)** v4.5.36 - libpag is a real-time rendering library for PAG (Portable Animated Graphics) fil... (📅 2026-02-28)
-5. **[@volcengine/apmplus](https://ohpm.openharmony.cn/#/cn/detail/%40volcengine%2Fapmplus)** v2.1.0 - APMPlus Harmony SDK (📅 2026-02-28)
-6. **[@lengain/oggohos](https://ohpm.openharmony.cn/#/cn/detail/%40lengain%2Foggohos)** v1.0.1 - ogg encode/decode for harmony (📅 2026-02-28)
-7. **[@lengain/opusohos](https://ohpm.openharmony.cn/#/cn/detail/%40lengain%2Fopusohos)** v1.0.1 - opus encode/decode lib for harmony (📅 2026-02-28)
-8. **[@wind/gallery](https://ohpm.openharmony.cn/#/cn/detail/%40wind%2Fgallery)** v1.0.0 - gallery 是一个图片浏览组件，支持支持多图浏览、支持长图浏览、单张图片支持放大缩小、支持鸿蒙系统保存图片参数配置、对于多张图片的浏览支持锚点到指定图片功能... (📅 2026-02-27)
-9. **[@tb-open/svga](https://ohpm.openharmony.cn/#/cn/detail/%40tb-open%2Fsvga)** v1.4.3 - 用于播放svga动画 (📅 2026-02-27)
-10. **[@tencentyun/libiotvideo](https://ohpm.openharmony.cn/#/cn/detail/%40tencentyun%2Flibiotvideo)** v1.2.9 - Video SDK 主要提供了 Harmony APP 端 P2P 接入、实时监控、语音对讲、本地回放等基本能力。 (📅 2026-02-27)
+1. **[texthighlighter](https://ohpm.openharmony.cn/#/cn/detail/texthighlighter)** v2.1.1 - a no dependency arkts supported tool for highlighting user selected content (📅 2026-03-02)
+2. **[@polyvharmony/common-libs](https://ohpm.openharmony.cn/#/cn/detail/%40polyvharmony%2Fcommon-libs)** v1.0.2 - polyv common-libs (📅 2026-03-02)
+3. **[webnat](https://ohpm.openharmony.cn/#/cn/detail/webnat)** v1.0.0 - A lightweight WebView-Native bridge library supporting raw messages, broadcast, ... (📅 2026-03-02)
+4. **[@vhall/vhallyun-live-pusher](https://ohpm.openharmony.cn/#/cn/detail/%40vhall%2Fvhallyun-live-pusher)** v1.0.0 - 微吼直播推流SDK. (📅 2026-03-02)
+5. **[@tencentcloud/imsdk](https://ohpm.openharmony.cn/#/cn/detail/%40tencentcloud%2Fimsdk)** v8.9.7515 - Tencent IM SDK for HarmonyOS (📅 2026-03-02)
+6. **[@vhall/vhallyun-rtc](https://ohpm.openharmony.cn/#/cn/detail/%40vhall%2Fvhallyun-rtc)** v1.0.17 - 微吼云互动连麦SDK. (📅 2026-03-02)
+7. **[@ycj3/streaming-markdown](https://ohpm.openharmony.cn/#/cn/detail/%40ycj3%2Fstreaming-markdown)** v2.1.1 - HarmonyOS ArkTS 流式 Markdown 渲染器 (📅 2026-03-02)
+8. **[sherpa_onnx](https://ohpm.openharmony.cn/#/cn/detail/sherpa_onnx)** v1.12.28 - On-device speech-to-text, text-to-speech, and speaker diarization using Next-gen... (📅 2026-02-28)
+9. **[@ospark/free-pcm](https://ohpm.openharmony.cn/#/cn/detail/%40ospark%2Ffree-pcm)** v1.0.3 - Free PCM 音频解码库 - 支持多种音频格式解码为 PCM，提供流式解码和 10 段均衡器功能 (📅 2026-02-28)
+10. **[@easemob/chatsdk](https://ohpm.openharmony.cn/#/cn/detail/%40easemob%2Fchatsdk)** v1.11.1 - Chat SDK for HarmonyOS (📅 2026-02-28)
 
 ## 📚 Categories
 
@@ -547,7 +547,7 @@ PJTabBar is a component used to replace system Tabs, supporting indicator linkag
 
 Utility libraries, helper functions, and development tools
 
-**728 packages** • Avg popularity: 150
+**730 packages** • Avg popularity: 149
 
 - **[@ohos/lottie](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Flottie)** - lottie是一个适用于OpenHarmony的动画库，它可以使用Bodymovin解析以json格式导出的Adobe After Effects动画，并在移动设备上进行本地渲染 (📄 MIT • ⭐ 51 likes • 📦 v2.0.29)
 - **[bignumber.js](https://ohpm.openharmony.cn/#/cn/detail/bignumber.js)** - A library for arbitrary-precision decimal and non-decimal arithmetic (📄 MIT • ⭐ 2 likes • 📦 v9.3.0)
@@ -709,7 +709,7 @@ Utility libraries, helper functions, and development tools
 - **[@ohos/xmpp_tcp](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fxmpp_tcp)** - 在OpenHarmony上提供了一个用于建立和管理TCP连接的library。 (📄 ISC License • 📦 v1.0.3)
 - **[@ohos/smithy-types](https://ohpm.openharmony.cn/#/cn/detail/%40ohos%2Fsmithy-types)** - Provide shared TypeScript types and runtime tool types for the entire SDK. (📄 Apache-2.0 • 📦 v1.0.1)
 - **[@nutpi/calendar-converter](https://ohpm.openharmony.cn/#/cn/detail/%40nutpi%2Fcalendar-converter)** - Chinese lunar calendar (lunar and solar calendar) and Western Yuan solar calendar (Gregorian calendar) mutual conversion library (📄 Apache-2.0 • ⭐ 2 likes • 📦 v1.0.2)
-- **[@polyvharmony/common-libs](https://ohpm.openharmony.cn/#/cn/detail/%40polyvharmony%2Fcommon-libs)** - polyv common-libs (📄 MIT • 📦 v1.0.1)
+- **[@polyvharmony/common-libs](https://ohpm.openharmony.cn/#/cn/detail/%40polyvharmony%2Fcommon-libs)** - polyv common-libs (📄 MIT • 📦 v1.0.2)
 - **[@yunkss/ef_audio](https://ohpm.openharmony.cn/#/cn/detail/%40yunkss%2Fef_audio)** - eftool的音频相关封装包,封装了常用的播放，暂停，快进，设置url等,提供一系列快捷操作方法. (📄 Apache-2.0 • ⭐ 2 likes • 📦 v1.1.1)
 - **[@ohos_yu/ohos_util](https://ohpm.openharmony.cn/#/cn/detail/%40ohos_yu%2Fohos_util)** - 个人上传工具库 (📄 Apache-2.0 • 📦 v1.0.8)
 - **[jsipp](https://ohpm.openharmony.cn/#/cn/detail/jsipp)** - An IPP library for HarmonyOS. (📄 MIT • 📦 v1.0.0)
@@ -1283,6 +1283,8 @@ Utility libraries, helper functions, and development tools
 - **[json2http](https://ohpm.openharmony.cn/#/cn/detail/json2http)** - json2http 是一个命令行工具，它依赖 json2class 将指定的 JSON(5) 文件转换成 HTTP 请求代码 (📄 ISC • ⭐ 1 likes • 📦 v1.1.0)
 - **[lop](https://ohpm.openharmony.cn/#/cn/detail/lop)** - Create parsers using parser combinators with helpful error messages (📄 BSD-2-Clause • 📦 v0.4.2)
 - **[amqplib](https://ohpm.openharmony.cn/#/cn/detail/amqplib)** - An AMQP 0-9-1 (e.g., RabbitMQ) library and client. (📄 MIT • 📦 v0.8.0)
+- **[texthighlighter](https://ohpm.openharmony.cn/#/cn/detail/texthighlighter)** - a no dependency arkts supported tool for highlighting user selected content (📄 MIT • 📦 v2.1.1)
+- **[webnat](https://ohpm.openharmony.cn/#/cn/detail/webnat)** - A lightweight WebView-Native bridge library supporting raw messages, broadcast, and RPC. (📄 MIT • 📦 v1.0.0)
 
 ### 🌐 Networking & APIs
 
@@ -1663,7 +1665,7 @@ Audio, video, image processing, camera, and multimedia handling
 - **[hm_markdown_editor](https://ohpm.openharmony.cn/#/cn/detail/hm_markdown_editor)** - 鸿蒙原生Markdown编辑器 (📄 MIT • ⭐ 3 likes • 📦 v1.0.1)
 - **[@qiniu/qplayer2-core](https://ohpm.openharmony.cn/#/cn/detail/%40qiniu%2Fqplayer2-core)** - QPlayer2是一款支持最新HarmonyOS的播放器第三方库 (📄 Apache-2.0 • ⭐ 3 likes • 📦 v1.5.0)
 - **[@unif/harmony-camera](https://ohpm.openharmony.cn/#/cn/detail/%40unif%2Fharmony-camera)** - 适配公司业务场景实现单拍、连拍功能等基础功能. (📄 Apache-2.0 • 📦 v1.0.1)
-- **[@ycj3/streaming-markdown](https://ohpm.openharmony.cn/#/cn/detail/%40ycj3%2Fstreaming-markdown)** - HarmonyOS ArkTS 流式 Markdown 渲染器 (📄 Apache-2.0 • ⭐ 1 likes • 📦 v2.1.0)
+- **[@ycj3/streaming-markdown](https://ohpm.openharmony.cn/#/cn/detail/%40ycj3%2Fstreaming-markdown)** - HarmonyOS ArkTS 流式 Markdown 渲染器 (📄 Apache-2.0 • ⭐ 1 likes • 📦 v2.1.1)
 - **[@wolfx/minizip](https://ohpm.openharmony.cn/#/cn/detail/%40wolfx%2Fminizip)** - A minizip fork with streaming compression and decompression capabilities. (📄 Apache License-2.0 • 📦 v1.0.1)
 - **[@zaiohos/ijkplayer-surface](https://ohpm.openharmony.cn/#/cn/detail/%40zaiohos%2Fijkplayer-surface)** - ijkplayer是OpenHarmony环境下可用的一款基于FFmpeg的视频播放器。 (📄 LGPLv2.1 or later • 📦 v2.0.7-rc.4-surface-1.0)
 - **[@youlanjihua/ylplayer](https://ohpm.openharmony.cn/#/cn/detail/%40youlanjihua%2Fylplayer)** - 轻量化视频播放器，支持网络、本地视频资源 (📄 Apache-2.0 • 📦 v1.0.1)
@@ -2365,7 +2367,7 @@ Health monitoring, fitness tracking, and wellness applications
 
 Chat, messaging, voice/video calls, and communication tools
 
-**57 packages** • Avg popularity: 202
+**58 packages** • Avg popularity: 199
 
 - **[@nimsdk/nim](https://ohpm.openharmony.cn/#/cn/detail/%40nimsdk%2Fnim)** - NetEase Instant Messaging (IM) SDK is a software development kit used to develop instant messaging functionality, providing developers with solutions to integrate features such as instant messaging, group messaging, conversations, user management, and friend lists, etc. (📄 MIT • ⭐ 1 likes • 📦 v10.9.76)
 - **[@nimsdk/message](https://ohpm.openharmony.cn/#/cn/detail/%40nimsdk%2Fmessage)** - NetEase Instant Messaging (IM) SDK is a software development kit used to develop instant messaging functionality, providing developers with solutions to integrate features such as instant messaging, group messaging, conversations, user management, and friend lists, etc. (📄 MIT • 📦 v10.9.76)
@@ -2381,7 +2383,7 @@ Chat, messaging, voice/video calls, and communication tools
 - **[@nimsdk/friend](https://ohpm.openharmony.cn/#/cn/detail/%40nimsdk%2Ffriend)** - NetEase Instant Messaging (IM) SDK is a software development kit used to develop instant messaging functionality, providing developers with solutions to integrate features such as instant messaging, group messaging, conversations, user management, and friend lists, etc. (📄 MIT • 📦 v10.9.76)
 - **[@nimsdk/localconversation](https://ohpm.openharmony.cn/#/cn/detail/%40nimsdk%2Flocalconversation)** - NetEase Instant Messaging (IM) SDK is a software development kit used to develop instant messaging functionality, providing developers with solutions to integrate features such as instant messaging, group messaging, conversations, user management, and friend lists, etc. (📄 MIT • 📦 v10.9.76)
 - **[@nimsdk/signalling](https://ohpm.openharmony.cn/#/cn/detail/%40nimsdk%2Fsignalling)** - NetEase Instant Messaging (IM) SDK is a software development kit used to develop instant messaging functionality, providing developers with solutions to integrate features such as instant messaging, group messaging, conversations, user management, and friend lists, etc. (📄 MIT • 📦 v10.9.76)
-- **[@tencentcloud/imsdk](https://ohpm.openharmony.cn/#/cn/detail/%40tencentcloud%2Fimsdk)** - Tencent IM SDK for HarmonyOS (📄 Proprietary • 📦 v8.9.7511)
+- **[@tencentcloud/imsdk](https://ohpm.openharmony.cn/#/cn/detail/%40tencentcloud%2Fimsdk)** - Tencent IM SDK for HarmonyOS (📄 Proprietary • 📦 v8.9.7515)
 - **[@nimsdk/chatroom](https://ohpm.openharmony.cn/#/cn/detail/%40nimsdk%2Fchatroom)** - NetEase Instant Messaging (IM) SDK is a software development kit used to develop instant messaging functionality, providing developers with solutions to integrate features such as instant messaging, group messaging, conversations, user management, and friend lists, etc. (📄 MIT • 📦 v10.9.76)
 - **[@nimsdk/search](https://ohpm.openharmony.cn/#/cn/detail/%40nimsdk%2Fsearch)** - NetEase Instant Messaging (IM) SDK is a software development kit used to develop instant messaging functionality, providing developers with solutions to integrate features such as instant messaging, group messaging, conversations, user management, and friend lists, etc. (📄 MIT • 📦 v10.9.76)
 - **[@rongcloud/imlib](https://ohpm.openharmony.cn/#/cn/detail/%40rongcloud%2Fimlib)** - 融云 IM SDK for HarmonyOS (📄 MIT • 📦 v26.1.0)
@@ -2424,6 +2426,7 @@ Chat, messaging, voice/video calls, and communication tools
 - **[@cloudroom/meetingsdk](https://ohpm.openharmony.cn/#/cn/detail/%40cloudroom%2Fmeetingsdk)** - 会议SDK是一组开发工具包，合作伙伴可以通过二次开发，把会议SDK集成到企业内部的OA/IM系统中。 (📄 Apache-2.0 • 📦 v1.0.7)
 - **[@engagelab/push](https://ohpm.openharmony.cn/#/cn/detail/%40engagelab%2Fpush)** - 这里是engagelab推送的鸿蒙SDK，帮助鸿蒙开发者接入鸿蒙推送功能。 (📄 proprietary • 📦 v1.0.0)
 - **[@wisdomgarden/cloak-plugin-jpush](https://ohpm.openharmony.cn/#/cn/detail/%40wisdomgarden%2Fcloak-plugin-jpush)** - Send HarmonyOS Notification using JPush (📄 Apache-2.0 • 📦 v1.0.0)
+- **[@vhall/vhallyun-live-pusher](https://ohpm.openharmony.cn/#/cn/detail/%40vhall%2Fvhallyun-live-pusher)** - 微吼直播推流SDK. (📄 Apache-2.0 • 📦 v1.0.0)
 
 ### 📦 Other Packages
 
@@ -2472,4 +2475,4 @@ This list is automatically updated daily using GitHub Actions to ensure the late
 
 ---
 
-**Total packages tracked**: 2,521 | **Last generated**: Auto-generated on 2026-03-02 01:09:43
+**Total packages tracked**: 2,524 | **Last generated**: Auto-generated on 2026-03-03 01:11:39
